@@ -1,0 +1,4341 @@
+[
+  {
+    "org_name": "Indiana University (IU)",
+    "addresses": [
+      "149.165.168.0/21",
+      "149.165.152.0/22",
+      "149.165.159.0/24"
+    ],
+    "asn": "87",
+    "notes": "see scireg.json for description of this resource. make sure address list is the same",
+    "community": "ACCESS"
+  },
+  {
+    "org_name": "National Center for Atmospheric Research (NCAR)",
+    "addresses": [
+      "128.117.211.0/24",
+      "128.117.210.192/26"
+    ],
+    "asn": "194",
+    "notes": "see scireg.json for description of this resource. make sure address list is the same",
+    "community": "ACCESS"
+  },
+  {
+    "org_name": "National Center for Supercomputing Applications (NCSA)",
+    "addresses": [
+      "141.142.248.0/21",
+      "141.142.144.0/23",
+      "141.142.224.0/24",
+      "141.142.140.192/27",
+      "141.142.176.64/28",
+      "141.142.176.80/29",
+      "2620:0:c80:1100::/64",
+      "2620:0:c80:1101::/64",
+      "2620:0:c80:1102::/64",
+      "2620:0:c80:1200::/64"
+    ],
+    "asn": "1224",
+    "notes": "see scireg.json for description of this resource. make sure address list is the same",
+    "community": "ACCESS"
+  },
+  {
+    "org_name": "Pittsburgh Supercomputing Center (PSC)",
+    "addresses": [
+      "128.182.81.0/25",
+      "192.231.243.26/32",
+      "192.231.243.27/32",
+      "192.231.243.28/32"
+    ],
+    "asn": "1206",
+    "notes": "see scireg.json for description of this resource. make sure address list is the same",
+    "community": "ACCESS"
+  },
+  {
+    "org_name": "Purdue University",
+    "addresses": [
+      "128.211.133.128/26"
+    ],
+    "asn": "17",
+    "notes": "see scireg.json for description of this resource. make sure address list is the same",
+    "community": "ACCESS"
+  },
+  {
+    "org_name": "San Diego Supercomputer Center (SDSC)",
+    "addresses": [
+      "198.202.100.0/22",
+      "198.202.106.0/25",
+      "192.67.81.200/29"
+    ],
+    "asn": "195",
+    "notes": "see scireg.json for description of this resource. make sure address list is the same",
+    "community": "ACCESS"
+  },
+  {
+    "org_name": "Texas A&M University (TAMU)",
+    "addresses": [
+      "128.194.35.32/27",
+      "128.194.37.64/28"
+    ],
+    "asn": "3794",
+    "notes": "see scireg.json for description of this resource. make sure address list is the same",
+    "community": "ACCESS"
+  },
+  {
+    "org_name": "Texas Advanced Computing Center (TACC)",
+    "addresses": [
+      "129.114.104.0/24",
+      "129.114.112.0/20",
+      "129.114.35.0/24",
+      "129.114.36.0/22",
+      "129.114.4.29/32",
+      "129.114.40.0/21",
+      "129.114.51.128/26",
+      "129.114.52.0/24",
+      "129.114.54.0/25",
+      "129.114.60.0/24",
+      "129.114.62.0/24",
+      "129.114.63.128/26",
+      "129.114.63.32/27",
+      "129.114.99.36/32"
+    ],
+    "asn": "276",
+    "notes": "note that Frontera, Vista, and Horizon are not part of ACCESS",
+    "community": "ACCESS"
+  },
+  {
+    "addresses": [
+      "128.9.128.0/17",
+      "128.9.64.0/18",
+      "128.9.32.0/19",
+      "128.9.0.0/20",
+      "128.9.16.0/22",
+      "128.9.28.0/22",
+      "128.9.20.0/24",
+      "128.9.26.0/24",
+      "2606:d5c0::/32"
+    ],
+    "org_name": "University of Southern California (USC)",
+    "asn": "4",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "128.32.0.0/16",
+      "136.152.0.0/16",
+      "169.229.0.0/16",
+      "192.12.234.0/24",
+      "192.154.6.0/24",
+      "192.31.105.0/24",
+      "2607:f140::/32"
+    ],
+    "org_name": "University of California, Berkeley",
+    "asn": "25",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "131.215.0.0/16",
+      "134.4.0.0/16",
+      "192.12.19.0/24",
+      "192.31.43.0/24",
+      "192.41.208.0/24",
+      "2607:f520::/32"
+    ],
+    "org_name": "California Institute of Technology",
+    "asn": "31",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "132.249.0.0/16",
+      "198.202.64.0/18",
+      "198.17.46.0/23",
+      "192.12.207.0/24",
+      "192.67.20.0/24",
+      "192.31.21.0/24",
+      "192.67.82.0/24",
+      "198.17.101.0/24",
+      "198.187.222.0/24",
+      "2001:48d0::/32",
+      "2001:48d0:c000::/34"
+    ],
+    "org_name": "San Diego Supercomputer Center (SDSC)",
+    "asn": "195",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "171.64.0.0/14",
+      "128.12.0.0/16",
+      "204.63.224.0/21",
+      "2607:f6d0::/32",
+      "2620:6c:40c0::/48"
+    ],
+    "org_name": "Stanford University",
+    "asn": "32",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "128.97.0.0/16",
+      "131.179.0.0/16",
+      "149.142.0.0/16",
+      "164.67.0.0/16",
+      "169.232.0.0/16",
+      "192.154.2.0/24",
+      "192.35.210.0/24",
+      "192.35.225.0/24",
+      "2607:f010::/32"
+    ],
+    "org_name": "University of California, Los Angeles",
+    "asn": "52",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "128.111.0.0/16",
+      "169.231.0.0/16",
+      "192.35.222.0/24",
+      "199.120.153.0/24",
+      "2607:f378::/32"
+    ],
+    "org_name": "University of California, Santa Barbara",
+    "asn": "131",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "128.195.0.0/16",
+      "128.200.0.0/16",
+      "160.87.0.0/16",
+      "169.234.0.0/16",
+      "192.5.19.0/24"
+    ],
+    "org_name": "University of California, Irvine",
+    "asn": "299",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "207.99.139.0/24"
+    ],
+    "org_name": "Antelope Valley Community College District",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "207.233.50.0/23"
+    ],
+    "org_name": "Barstow Community College District",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "198.189.156.0/24"
+    ],
+    "org_name": "Butte Community College District",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "207.62.128.0/20",
+      "207.62.144.0/21",
+      "198.189.248.0/23",
+      "198.189.159.0/24",
+      "198.189.160.0/24",
+      "198.189.161.0/24",
+      "198.189.246.0/24",
+      "198.189.5.0/24",
+      "198.189.237.0/24"
+    ],
+    "org_name": "CSU Monterey Bay",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "207.62.184.0/22",
+      "2607:f380:80f::/48"
+    ],
+    "org_name": "Cabrillo Community College",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "137.151.0.0/16"
+    ],
+    "org_name": "Cal State Fullerton",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "198.189.56.0/23",
+      "198.189.53.0/24"
+    ],
+    "org_name": "California Maritime Academy",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "137.150.0.0/16"
+    ],
+    "org_name": "California State Polytechnic University, Humboldt",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "136.168.0.0/16"
+    ],
+    "org_name": "California State University Bakersfield",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "139.182.0.0/16",
+      "2607:f380:a61::/48"
+    ],
+    "org_name": "California State University San Bernardino",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "144.37.0.0/16"
+    ],
+    "org_name": "California State University San Marcos",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "132.241.0.0/16",
+      "198.49.104.0/24"
+    ],
+    "org_name": "California State University, Chico",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "155.135.0.0/16"
+    ],
+    "org_name": "California State University, Dominguez Hills",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "134.154.0.0/16",
+      "192.207.184.0/24"
+    ],
+    "org_name": "California State University, East Bay",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "134.139.0.0/16"
+    ],
+    "org_name": "California State University, Long Beach",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "130.182.0.0/16"
+    ],
+    "org_name": "California State University, Los Angeles",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "130.166.0.0/16"
+    ],
+    "org_name": "California State University, Northridge",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "130.150.0.0/16",
+      "137.145.0.0/16"
+    ],
+    "org_name": "California State University, Office of the Chancellor",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "130.17.0.0/16",
+      "69.164.101.0/24",
+      "69.48.214.0/23"
+    ],
+    "org_name": "California State University, Stanislaus",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "198.189.32.0/20",
+      "198.189.28.0/22",
+      "198.189.48.0/22",
+      "198.189.19.0/24"
+    ],
+    "org_name": "Chico  Unified School District",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "147.144.0.0/16",
+      "198.189.16.0/24"
+    ],
+    "org_name": "City College of San Francisco",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "216.231.241.0/24"
+    ],
+    "org_name": "City of Escondido",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "207.99.147.0/24"
+    ],
+    "org_name": "College of the Canyons - Santa Clarita CCD",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "198.189.222.0/23",
+      "207.62.203.0/24"
+    ],
+    "org_name": "College of the Redwoods",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "198.137.151.0/24"
+    ],
+    "org_name": "College of the Siskiyous",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "206.15.235.0/24"
+    ],
+    "org_name": "Colusa County Office of Education",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "198.188.134.0/24"
+    ],
+    "org_name": "Compton Community College",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "141.174.90.0/24"
+    ],
+    "org_name": "County of Yolo",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "198.175.250.0/24",
+      "199.245.155.0/24",
+      "209.129.63.0/24",
+      "209.129.64.0/24"
+    ],
+    "org_name": "Cuesta College",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "204.102.0.0/24",
+      "207.233.75.0/24",
+      "207.233.76.0/24",
+      "207.233.77.0/24",
+      "207.233.78.0/24",
+      "207.233.79.0/24"
+    ],
+    "org_name": "Cypress Community College",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "206.15.228.0/23",
+      "206.15.226.0/23",
+      "207.166.18.0/23",
+      "206.15.240.0/24",
+      "207.166.20.0/24",
+      "207.166.62.0/24",
+      "207.166.9.0/24"
+    ],
+    "org_name": "El Dorado County Office of Education",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "198.189.64.0/24"
+    ],
+    "org_name": "Feather River Community College",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "192.86.78.0/24"
+    ],
+    "org_name": "Fullerton College Higher Education Center",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "206.224.224.0/19"
+    ],
+    "org_name": "Garden Grove Unified School District",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "160.227.0.0/17",
+      "160.227.128.0/17"
+    ],
+    "org_name": "Grossmont-Cuyamaca Community College District",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "198.189.134.0/24",
+      "198.189.135.0/24",
+      "198.189.138.0/24"
+    ],
+    "org_name": "Hartnell Community College",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "198.189.230.0/23",
+      "198.189.232.0/23",
+      "198.189.229.0/24"
+    ],
+    "org_name": "Humboldt County Office of Education",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "207.233.124.0/24"
+    ],
+    "org_name": "Imperial County Office of Education",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "198.62.142.0/24"
+    ],
+    "org_name": "Kern Community College District",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "198.188.15.0/24",
+      "204.102.64.0/24",
+      "204.102.67.0/24",
+      "204.102.71.0/24",
+      "204.102.73.0/24"
+    ],
+    "org_name": "LA Comunity Collge District",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "198.189.128.0/24"
+    ],
+    "org_name": "Lake Tahoe Community College",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "192.111.213.0/24",
+      "198.188.144.0/24",
+      "198.188.145.0/24",
+      "198.188.5.0/24",
+      "204.102.112.0/24"
+    ],
+    "org_name": "Los Angeles Community College District",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "156.3.91.0/24"
+    ],
+    "org_name": "Los Angeles County Office of Education",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "165.196.0.0/16"
+    ],
+    "org_name": "Los Rios Community College District",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "198.202.144.0/24",
+      "198.202.145.0/24"
+    ],
+    "org_name": "Mendocino College",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "209.129.167.0/24"
+    ],
+    "org_name": "Merritt College",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "198.189.173.0/24",
+      "198.189.174.0/24",
+      "198.189.58.0/24",
+      "198.189.60.0/24",
+      "198.189.62.0/24"
+    ],
+    "org_name": "Monterey Peninsula College",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "192.190.45.0/24",
+      "198.189.27.0/24",
+      "205.155.73.0/24",
+      "205.155.74.0/24",
+      "205.155.75.0/24",
+      "205.155.76.0/24"
+    ],
+    "org_name": "Moss Landing Marine Laboratory",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "207.233.7.0/24",
+      "207.233.8.0/24"
+    ],
+    "org_name": "Mt. San Jacinto College",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "209.129.252.0/22",
+      "207.62.197.0/24",
+      "207.62.198.0/24",
+      "207.62.199.0/24"
+    ],
+    "org_name": "Napa Valley",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "206.15.254.0/23",
+      "207.166.2.0/23",
+      "207.166.58.0/24",
+      "207.166.60.0/24"
+    ],
+    "org_name": "Nevada Union High School District",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "207.233.80.0/24",
+      "207.233.81.0/24",
+      "207.233.82.0/24",
+      "209.129.57.0/24",
+      "209.129.58.0/24",
+      "209.129.59.0/24"
+    ],
+    "org_name": "North Orange County Community Col",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "204.102.84.0/24"
+    ],
+    "org_name": "Palo Verde Community College",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "204.75.252.0/22",
+      "204.75.250.0/23",
+      "192.104.166.0/24",
+      "192.189.45.0/24",
+      "192.189.46.0/24",
+      "192.189.47.0/24",
+      "192.189.48.0/24",
+      "204.75.249.0/24"
+    ],
+    "org_name": "Rancho Santiago College",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "209.129.7.0/24",
+      "209.129.8.0/24"
+    ],
+    "org_name": "Riverside Community College",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "204.69.3.0/24",
+      "204.69.4.0/24",
+      "204.69.5.0/24",
+      "204.69.6.0/24"
+    ],
+    "org_name": "Riverside Community College District",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "206.15.226.0/23"
+    ],
+    "org_name": "Sacramento County Office of Education",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "163.150.244.0/23"
+    ],
+    "org_name": "San Bernardino County Superintendent of Schools",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "209.129.16.0/24",
+      "209.129.17.0/24",
+      "209.129.28.0/24"
+    ],
+    "org_name": "San Diego Community College District",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "130.191.0.0/16",
+      "146.244.0.0/16",
+      "130.191.49.0/24"
+    ],
+    "org_name": "San Diego State University",
+    "asn": "2152",
+    "community": "CENIC",
+    "notes": "also ASN 396310"
+  },
+  {
+    "addresses": [
+      "130.212.0.0/16"
+    ],
+    "org_name": "San Francisco State University",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "205.155.154.0/24",
+      "205.155.157.0/24"
+    ],
+    "org_name": "San Jose EverGreen Community College District",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "130.65.0.0/16",
+      "2607:f380:828::/48"
+    ],
+    "org_name": "San Jose State University",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "209.129.55.0/24"
+    ],
+    "org_name": "Santa Barbara City College",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "198.189.140.0/24",
+      "198.189.142.0/24",
+      "198.189.150.0/24",
+      "198.189.151.0/24",
+      "198.189.152.0/24",
+      "198.189.21.0/24"
+    ],
+    "org_name": "Santa Rosa  Community College",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "198.189.132.0/24",
+      "198.189.70.0/24",
+      "198.189.72.0/24"
+    ],
+    "org_name": "Shasta College",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "204.17.179.0/24"
+    ],
+    "org_name": "Solano Community College District",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "130.157.0.0/16"
+    ],
+    "org_name": "Sonoma State University",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "192.174.2.0/24"
+    ],
+    "org_name": "The Exploratorium",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "209.129.88.0/23"
+    ],
+    "org_name": "UC Hastings",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "198.189.227.0/24"
+    ],
+    "org_name": "West Hills Community College District",
+    "asn": "2152",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "128.218.0.0/16",
+      "169.230.0.0/16",
+      "64.54.0.0/16"
+    ],
+    "org_name": "University of California, San Francisco",
+    "asn": "5653",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "128.114.0.0/16",
+      "169.233.0.0/16",
+      "192.35.220.0/24",
+      "192.35.223.0/24",
+      "2607:f5f0::/32"
+    ],
+    "org_name": "University of California, Santa Cruz",
+    "asn": "5739",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "138.23.0.0/16",
+      "169.235.0.0/16",
+      "192.31.146.0/24",
+      "2607:f290::/32"
+    ],
+    "org_name": "University of California, Riverside",
+    "asn": "6106",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "128.120.0.0/16",
+      "152.79.0.0/16",
+      "169.237.0.0/16",
+      "168.150.0.0/17",
+      "192.82.111.0/24",
+      "2607:f810::/32"
+    ],
+    "org_name": "University of California, Davis",
+    "asn": "6192",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "128.54.0.0/16",
+      "132.239.0.0/16",
+      "137.110.0.0/16",
+      "169.228.0.0/16",
+      "69.196.32.0/19",
+      "192.154.1.0/24",
+      "198.134.135.0/24",
+      "2607:f720::/32"
+    ],
+    "org_name": "University of California, San Diego",
+    "asn": "7377",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "129.82.0.0/16",
+      "129.19.0.0/18"
+    ],
+    "org_name": "Naval Postgraduate School",
+    "asn": "12145",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "192.195.153.0/24",
+      "192.195.154.0/24",
+      "192.195.155.0/24",
+      "192.55.87.0/24",
+      "208.71.25.0/24",
+      "208.71.27.0/24"
+    ],
+    "org_name": "University of San Diego",
+    "asn": "14255",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "137.159.0.0/16"
+    ],
+    "org_name": "Pepperdine University",
+    "asn": "20343",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "169.236.0.0/16"
+    ],
+    "org_name": "University of California, Merced",
+    "asn": "22323",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "138.202.0.0/17",
+      "138.202.128.0/17"
+    ],
+    "org_name": "University of San Francisco",
+    "asn": "22700",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "162.15.0.0/17",
+      "162.15.128.0/17"
+    ],
+    "org_name": "California Public Utilities Commission",
+    "asn": "46341",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "192.40.158.0/24"
+    ],
+    "org_name": "California Academy of Sciences",
+    "asn": "393425",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "130.86.0.0/16"
+    ],
+    "org_name": "California State University, Sacramento",
+    "asn": "396465",
+    "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "128.3.0.0/16",
+      "131.243.0.0/16",
+      "2620:83:8000::/48"
+    ],
+    "org_name": "Lawrence Berkeley National Laboratory (LBNL)",
+    "community": "DOE",
+    "asn": "16"
+  },
+  {
+    "addresses": [
+      "130.199.0.0/16",
+      "198.125.208.0/24",
+      "192.12.15.0/24",
+      "192.33.128.0/24",
+      "192.153.161.0/24",
+      "192.203.218.0/24",
+      "2620:10a::/44",
+      "2620:12f:f000::/44",
+      "2620:0:210::/48"
+    ],
+    "org_name": "Brookhaven National Laboratory (BNL)",
+    "community": "DOE",
+    "asn": "43",
+    "notes": "198.125.208.0/26 is part of the ESnet ASN, but used by BNL"
+  },
+  {
+    "addresses": [
+      "128.15.0.0/16",
+      "128.115.0.0/16",
+      "134.9.128.0/17",
+      "134.9.96.0/19",
+      "134.9.88.0/21",
+      "192.5.99.0/24",
+      "192.12.17.0/24",
+      "192.12.133.0/24",
+      "192.12.134.0/24",
+      "2602:80e:d000::/40"
+    ],
+    "org_name": "Lawrence Livermore National Laboratory (LLNL)",
+    "community": "DOE",
+    "asn": "45"
+  },
+  {
+    "addresses": [
+      "128.219.0.0/16",
+      "160.91.0.0/16",
+      "192.12.68.0/24",
+      "192.31.96.0/24",
+      "192.148.93.0/24",
+      "192.188.177.0/24",
+      "192.188.180.0/24",
+      "192.188.182.0/24",
+      "2620:0:2b30::/44"
+    ],
+    "org_name": "Oak Ridge National Laboratory (ORNL)",
+    "community": "DOE",
+    "asn": "50"
+  },
+  {
+    "addresses": [
+      "128.165.0.0/16",
+      "130.55.0.0/16",
+      "138.98.0.0/16",
+      "141.111.0.0/16",
+      "204.121.0.0/16",
+      "192.12.184.0/24",
+      "192.52.70.0/24",
+      "192.65.95.0/24",
+      "2620:126:4000::/40"
+    ],
+    "org_name": "Los Alamos National Laboratory (LANL)",
+    "community": "DOE",
+    "asn": "68"
+  },
+  {
+    "addresses": [
+      "198.124.0.0/14"
+    ],
+    "org_name": "ESnet",
+    "community": "DOE",
+    "asn": "291"
+  },
+  {
+    "addresses": [
+      "198.128.0.0/14"
+    ],
+    "org_name": "ESnet",
+    "community": "DOE",
+    "asn": "292"
+  },
+  {
+    "addresses": [
+      "134.55.0.0/16",
+      "2001:400::/32"
+    ],
+    "org_name": "ESnet",
+    "community": "DOE",
+    "asn": "293",
+    "notes": "ESnet has 3 ASNs: 291, 292, and 293"
+  },
+  {
+    "addresses": [
+      "130.202.0.0/16",
+      "146.137.0.0/16",
+      "146.139.0.0/16",
+      "164.54.0.0/16",
+      "140.221.0.0/18",
+      "192.5.176.0/20",
+      "192.5.170.0/23",
+      "192.5.175.0/24",
+      "192.5.200.0/24",
+      "192.5.173.0/24",
+      "192.5.174.0/24",
+      "192.5.172.0/24",
+      "2602:278:9000::/36",
+      "2602:278:2000::/36",
+      "2602:278:4000::/36",
+      "2602:278:5000::/36",
+      "2602:278:e100::/40",
+      "2620:0:dc0::/48",
+      "2602:278:e240::/48",
+      "2602:278:aaaa::/48",
+      "2602:278:e230::/48",
+      "2602:278:e210::/48",
+      "2602:278:e200::/48",
+      "2602:278:8100::/48",
+      "2602:278:e220::/48"
+    ],
+    "org_name": "Argonne National Laboratory (ANL)",
+    "community": "DOE",
+    "asn": "683"
+  },
+  {
+    "addresses": [
+      "147.155.0.0/16",
+      "2620:57::/48"
+    ],
+    "org_name": "Ames Laboratory",
+    "community": "DOE",
+    "asn": "2640"
+  },
+  {
+    "addresses": [
+      "128.55.0.0/16",
+      "2620:0:28b0::/44"
+    ],
+    "org_name": "National Energy Research Scientific Computing Center (NERSC)",
+    "community": "DOE",
+    "asn": "2936"
+  },
+  {
+    "addresses": [
+      "131.225.0.0/16",
+      "198.49.208.0/24",
+      "2620:6a::/48"
+    ],
+    "org_name": "Fermi National Accelerator Laboratory (Fermilab)",
+    "community": "DOE",
+    "asn": "3152"
+  },
+  {
+    "addresses": [
+      "198.35.0.0/20",
+      "192.55.106.0/24",
+      "192.188.106.0/24"
+    ],
+    "org_name": "Princeton Plasma Physics Laboratory (PPPL)",
+    "community": "DOE",
+    "asn": "3380"
+  },
+  {
+    "addresses": [
+      "130.20.0.0/16",
+      "192.101.100.0/22",
+      "192.101.104.0/22",
+      "192.101.108.0/23",
+      "192.35.193.0/24",
+      "2620:0:50f0::/44"
+    ],
+    "org_name": "Pacific Northwest National Laboratory (PNNL)",
+    "community": "DOE",
+    "asn": "3428",
+    "notes": "These networks are all part of the ESnet ASN"
+  },
+  {
+    "addresses": [
+      "134.252.0.0/16",
+      "146.246.0.0/16",
+      "192.73.207.0/24",
+      "192.160.228.0/24",
+      "198.206.219.0/24",
+      "198.206.221.0/24",
+      "204.238.65.0/24",
+      "2620:106:6000::/44"
+    ],
+    "org_name": "Sandia National Laboratories (SNL)",
+    "community": "DOE",
+    "asn": "3562"
+  },
+  {
+    "addresses": [
+      "134.79.0.0/16",
+      "198.51.111.0/24",
+      "2620:114:d000::/44"
+    ],
+    "org_name": "SLAC National Accelerator Laboratory",
+    "community": "DOE",
+    "asn": "3671"
+  },
+  {
+    "addresses": [
+      "129.57.0.0/16",
+      "192.70.245.0/24",
+      "2620:0:22f0::/48"
+    ],
+    "org_name": "Thomas Jefferson National Accelerator Facility (Jefferson Lab)",
+    "community": "DOE",
+    "asn": "6406"
+  },
+  {
+    "addresses": [
+      "134.20.0.0/16",
+      "141.221.0.0/16",
+      "2620:0:2b80::/44"
+    ],
+    "org_name": "Idaho National Laboratory (INL)",
+    "community": "DOE",
+    "asn": "14702"
+  },
+  {
+    "addresses": [
+      "192.174.32.0/19",
+      "2620:d0:8000::/48"
+    ],
+    "org_name": "National Renewable Energy Laboratory (NREL)",
+    "community": "DOE",
+    "asn": "16411"
+  },
+  {
+    "addresses": [
+      "192.206.135.0/24",
+      "204.154.136.0/24",
+      "204.154.137.0/24",
+      "204.154.139.0/24",
+      "204.154.140.0/24",
+      "2620:111:a000::/44"
+    ],
+    "org_name": "National Energy Technology Laboratory (NETL)",
+    "community": "DOE",
+    "asn": "32982"
+  },
+  {
+    "addresses": [
+      "192.33.240.0/24",
+      "2620:b0:8000::/48"
+    ],
+    "org_name": "Savannah River National Laboratory (SRNL)",
+    "community": "DOE",
+    "asn": "54297"
+  },
+  {
+    "addresses": [
+      "129.19.163.0/24",
+      "192.111.86.0/24"
+    ],
+    "org_name": "US Air Force (USAFA)",
+    "asn": "65",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "128.138.0.0/16",
+      "129.19.192.0/18",
+      "198.11.16.0/20",
+      "192.12.238.0/24",
+      "192.12.240.0/24",
+      "192.12.241.0/24",
+      "192.12.242.0/24",
+      "192.12.244.0/24",
+      "192.12.245.0/24",
+      "198.59.7.0/24",
+      "198.59.51.0/24",
+      "198.59.52.0/24",
+      "198.59.54.0/24",
+      "198.59.55.0/24",
+      "198.59.70.0/24",
+      "198.59.81.0/24",
+      "198.59.82.0/24",
+      "198.59.83.0/24",
+      "204.228.80.0/24",
+      "2620:18f::/32",
+      "2001:468:501::/48"
+    ],
+    "org_name": "University of Colorado at Boulder",
+    "asn": "104",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "146.5.20.0/22"
+    ],
+    "org_name": "National Solar Observatory",
+    "asn": "104",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "128.117.0.0/16",
+      "192.43.244.0/24",
+      "192.52.106.0/24",
+      "2620:117:2000::/40"
+    ],
+    "org_name": "University Corporation for Atmospheric Research (UCAR)",
+    "asn": "194",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "132.163.128.0/17",
+      "132.163.0.0/18",
+      "132.163.112.0/20",
+      "132.163.80.0/20",
+      "132.163.104.0/21",
+      "132.163.72.0/21",
+      "132.163.100.0/22",
+      "132.163.68.0/22",
+      "132.163.98.0/23",
+      "132.163.67.0/24"
+    ],
+    "org_name": "National Institute of Standards and Technology (NIST)",
+    "asn": "2648",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "137.75.0.0/16",
+      "2610:20:9122::/48",
+      "2610:20:8804::/46"
+    ],
+    "org_name": "National Oceanic and Atmospheric Administration (NOAA)",
+    "asn": "2648",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "140.208.160.0/20"
+    ],
+    "org_name": "NOAA Geophysical Fluid Dynamics Laboratory",
+    "asn": "2648",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "204.228.176.0/20",
+      "216.38.80.0/23",
+      "216.38.92.0/23",
+      "204.228.170.0/24",
+      "199.104.104.0/24",
+      "204.145.202.0/24",
+      "204.228.175.0/24"
+    ],
+    "org_name": "National Weather Service Western Region Headquarters",
+    "asn": "3477",
+    "community": "FRGP",
+    "notes": "Also subnets from ASNs 2648 and 13979"
+  },
+  {
+    "addresses": [
+      "2610:20:6b00::/40"
+    ],
+    "org_name": "U.S. Dept. of Commerce",
+    "asn": "2648",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "129.72.0.0/16",
+      "198.59.192.0/18",
+      "192.65.143.0/24",
+      "192.84.113.0/24"
+    ],
+    "org_name": "University of Wyoming",
+    "asn": "2902",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "140.172.0.0/16",
+      "155.206.0.0/16",
+      "161.55.0.0/16",
+      "137.75.64.0/18",
+      "205.156.0.0/18",
+      "137.75.224.0/22",
+      "140.208.252.0/22",
+      "192.58.2.0/23",
+      "199.242.232.0/23",
+      "205.167.24.0/23",
+      "140.90.22.0/24",
+      "140.90.28.0/24",
+      "140.90.101.0/24",
+      "140.90.190.0/24",
+      "165.92.222.0/24",
+      "192.58.1.0/24",
+      "192.64.69.0/24",
+      "192.67.97.0/24",
+      "192.67.134.0/24",
+      "192.153.129.0/24",
+      "198.180.147.0/24",
+      "199.242.231.0/24",
+      "205.166.33.0/24",
+      "2601:a000::/32",
+      "2601:a002::/32",
+      "2601:a005::/32",
+      "2601:a007::/32",
+      "2601:a008::/32",
+      "2601:a010::/32",
+      "2601:a013::/32",
+      "2610:20:8800::/38",
+      "2610:20:9200::/39",
+      "2610:20:8040::/44",
+      "2610:20:8c00::/44",
+      "2610:20:8c20::/44",
+      "2610:20:90a0::/44",
+      "2610:20:9008::/45",
+      "2610:20:90e0::/48",
+      "2610:20:90e2::/48",
+      "2610:20:9124::/48",
+      "2610:20:9147::/48"
+    ],
+    "org_name": "National Oceanic and Atmospheric Administration (NOAA)",
+    "asn": "3477",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "192.133.29.0/24"
+    ],
+    "org_name": "Colorado River Basin forecast Center",
+    "asn": "3477",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "192.94.173.0/24"
+    ],
+    "org_name": "Great Lakes Environmental Research Laboratory",
+    "asn": "3477",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "2001:468:500::/40"
+    ],
+    "org_name": "University Corporation for Atmospheric Research (UCAR)",
+    "asn": "14041",
+    "community": "FRGP",
+    "notes": "UCAR has 2 ASNs: 194, and part of 14041"
+  },
+  {
+    "addresses": [
+      "129.19.148.0/24",
+      "129.19.149.0/24"
+    ],
+    "org_name": "National Ecological Observatory Network (NEON)",
+    "asn": "14041",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "129.19.153.0/24"
+    ],
+    "org_name": "State Higher Education Policy Center",
+    "asn": "14041",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "129.19.0.0/16",
+      "129.82.0.0/16"
+    ],
+    "org_name": "Colorado State University",
+    "asn": "12145",
+    "community": "FRGP",
+    "notes": "also ASN 14041"
+  },
+  {
+    "addresses": [
+      "147.153.0.0/16"
+    ],
+    "org_name": "Metropolitan State University of Denver (MSUD)",
+    "asn": "14041",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "192.43.217.0/24"
+    ],
+    "org_name": "ERL Space Environment Laboratory, NOAA",
+    "asn": "14041",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "161.98.0.0/16"
+    ],
+    "org_name": "City of Boulder",
+    "asn": "14041",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "130.253.0.0/16"
+    ],
+    "org_name": "University of Denver",
+    "asn": "14041",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "129.19.92.0/23",
+      "198.59.2.0/24"
+    ],
+    "org_name": "Auraria Higher Education Center (AHEC)",
+    "asn": "14041",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "2001:468:500::/48"
+    ],
+    "org_name": "National Center for Atmospheric Research (NCAR)",
+    "asn": "14041",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "164.47.0.0/16"
+    ],
+    "org_name": "Colorado Community College and Occupational Education System",
+    "asn": "14737",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "159.238.0.0/16",
+      "192.131.93.0/24",
+      "192.146.215.0/24",
+      "192.146.216.0/24"
+    ],
+    "org_name": "State of Wyoming",
+    "asn": "14977",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "192.206.115.0/24"
+    ],
+    "org_name": "Wyoming Community College Commission",
+    "asn": "14977",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "198.99.171.0/24"
+    ],
+    "org_name": "State of Wyoming",
+    "asn": "14977",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "64.207.112.0/20"
+    ],
+    "org_name": "Wyoming Supreme Court",
+    "asn": "14977",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "138.86.0.0/16",
+      "199.117.107.0/24"
+    ],
+    "org_name": "University of Northern Colorado",
+    "asn": "15295",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "132.194.0.0/16",
+      "140.226.0.0/16",
+      "2620:123:5000::/40"
+    ],
+    "org_name": "University of Colorado Denver",
+    "asn": "16519",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "198.62.148.0/22",
+      "192.70.253.0/24",
+      "192.188.250.0/24",
+      "198.59.3.0/24",
+      "198.59.4.0/24",
+      "198.59.5.0/24",
+      "198.59.6.0/24",
+      "204.228.84.0/24",
+      "204.228.85.0/24",
+      "204.228.86.0/24",
+      "204.228.87.0/24"
+    ],
+    "org_name": "Colorado College",
+    "asn": "17207",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "199.96.184.0/21"
+    ],
+    "org_name": "Jeffco Public Schools",
+    "asn": "26661",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "204.228.96.0/24",
+      "204.228.97.0/24"
+    ],
+    "org_name": "Adams 12 Five Stars Schools",
+    "asn": "30136",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "204.228.176.0/24",
+      "204.228.177.0/24",
+      "204.228.178.0/24",
+      "204.228.179.0/24",
+      "204.228.180.0/24",
+      "204.228.181.0/24",
+      "204.228.183.0/24",
+      "204.228.184.0/24",
+      "204.228.185.0/24",
+      "204.228.186.0/24",
+      "204.228.187.0/24",
+      "204.228.188.0/24",
+      "204.228.189.0/24",
+      "204.228.190.0/24",
+      "204.228.191.0/24"
+    ],
+    "org_name": "National Weather Service Western Region Headquarters",
+    "asn": "30687",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "216.38.80.0/24",
+      "216.38.85.0/24",
+      "216.38.91.0/24",
+      "216.38.92.0/24",
+      "216.38.93.0/24"
+    ],
+    "org_name": "National Weather Service Southern Region Headquarters",
+    "asn": "30687",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "129.19.6.0/24"
+    ],
+    "org_name": "Platte River Power Authority",
+    "asn": "31991",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "156.108.0.0/16",
+      "165.127.0.0/16",
+      "192.70.175.0/24",
+      "192.136.70.0/24"
+    ],
+    "org_name": "State of Colorado General Government Computer",
+    "asn": "36081",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "158.142.0.0/16",
+      "129.19.162.0/24",
+      "192.55.229.0/24"
+    ],
+    "org_name": "Colorado State University",
+    "asn": "36691",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "138.67.0.0/16",
+      "192.26.83.0/24"
+    ],
+    "org_name": "Colorado School of Mines",
+    "asn": "36704",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "97.107.70.0/24",
+      "192.188.155.0/24"
+    ],
+    "org_name": "Boulder County Government",
+    "asn": "39990",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "164.92.0.0/18"
+    ],
+    "org_name": "Denver Public Schools",
+    "asn": "46930",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "164.104.0.0/16"
+    ],
+    "org_name": "Poudre School District R-1",
+    "asn": "54060",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "192.92.17.0/24"
+    ],
+    "org_name": "Larimer County Government",
+    "asn": "54669",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "204.228.68.0/22"
+    ],
+    "org_name": "ECS-Infrastructure",
+    "asn": "62671",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "216.48.192.0/18"
+    ],
+    "org_name": "Education Service Center, Region 17",
+    "asn": "393273",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "129.19.176.0/20",
+      "204.132.32.0/20",
+      "2620:11f:5000::/40"
+    ],
+    "org_name": "COLORADO MOUNTAIN COLLEGE",
+    "asn": "393869",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "170.76.154.0/24",
+      "192.198.79.0/24"
+    ],
+    "org_name": "East Central BOCES",
+    "asn": "394209",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "198.59.46.0/24",
+      "198.59.47.0/24",
+      "198.59.48.0/24"
+    ],
+    "org_name": "City of Fort Collins",
+    "asn": "394748",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "129.19.174.0/24"
+    ],
+    "org_name": "AIMS Community College",
+    "asn": "396212",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "128.198.0.0/16"
+    ],
+    "org_name": "University of Colorado, Colorado Springs",
+    "asn": "396425",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "74.112.228.0/22"
+    ],
+    "org_name": "Navajo Tech",
+    "asn": "399193",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "66.59.218.0/24"
+    ],
+    "org_name": "Pueblo City-County Library District",
+    "asn": "400077",
+    "community": "FRGP"
+  },
+  {
+    "addresses": [
+      "128.10.0.0/16",
+      "128.46.0.0/16",
+      "128.210.0.0/16",
+      "128.211.0.0/16",
+      "163.245.0.0/16",
+      "205.215.64.0/18",
+      "69.51.160.0/19",
+      "192.5.40.0/24",
+      "192.5.48.0/24",
+      "192.5.91.0/24",
+      "192.12.63.0/24",
+      "192.31.0.0/24",
+      "2607:ac80::/32",
+      "2001:18e8:800::/44"
+    ],
+    "org_name": "Purdue University",
+    "community": "iLight",
+    "asn": "17"
+  },
+  {
+    "addresses": [
+      "129.74.0.0/16",
+      "66.254.224.0/19",
+      "66.205.160.0/20",
+      "2620:0:2f00::/41"
+    ],
+    "org_name": "University of Notre Dame",
+    "community": "iLight",
+    "asn": "693"
+  },
+  {
+    "addresses": [
+      "192.200.128.0/21"
+    ],
+    "org_name": "Hanover College",
+    "community": "iLight",
+    "asn": "16575"
+  },
+  {
+    "addresses": [
+      "149.165.128.0/17",
+      "2001:18e8::/32"
+    ],
+    "org_name": "Indiana University",
+    "community": "iLight",
+    "asn": "19782"
+  },
+  {
+    "addresses": [
+      "147.226.0.0/16",
+      "2620:0:3b0::/48"
+    ],
+    "org_name": "Ball State University",
+    "community": "iLight",
+    "asn": "20452"
+  },
+  {
+    "addresses": [
+      "199.8.232.0/21",
+      "198.51.243.0/24",
+      "2001:18e8:408::/48"
+    ],
+    "org_name": "Goshen College",
+    "community": "iLight",
+    "asn": "22966"
+  },
+  {
+    "addresses": [
+      "159.242.0.0/21"
+    ],
+    "org_name": "Butler University",
+    "community": "iLight",
+    "asn": "26026"
+  },
+  {
+    "addresses": [
+      "140.88.0.0/16"
+    ],
+    "org_name": "Bethel University",
+    "community": "iLight",
+    "asn": "40497"
+  },
+  {
+    "addresses": [
+      "208.96.144.0/20",
+      "199.8.92.0/22",
+      "199.8.168.0/22",
+      "192.206.9.0/24",
+      "2602:fc25::/36"
+    ],
+    "org_name": "University of Southern Indiana",
+    "community": "iLight",
+    "asn": "46149"
+  },
+  {
+    "addresses": [
+      "170.76.232.0/23"
+    ],
+    "org_name": "Marian University",
+    "community": "iLight",
+    "asn": "46266"
+  },
+  {
+    "addresses": [
+      "108.59.48.0/20",
+      "2620:1e:e000::/48"
+    ],
+    "org_name": "Indiana Office of Technology",
+    "community": "iLight",
+    "asn": "46701"
+  },
+  {
+    "addresses": [
+      "199.8.54.0/23"
+    ],
+    "org_name": "Indiana Tech",
+    "community": "iLight",
+    "asn": "395395"
+  },
+  {
+    "addresses": [
+      "199.8.28.0/22",
+      "199.8.32.0/22",
+      "192.146.191.0/24",
+      "192.146.192.0/24"
+    ],
+    "org_name": "University of Indianapolis",
+    "community": "iLight",
+    "asn": "396892"
+  },
+  {
+    "addresses": [
+      "192.195.225.0/24",
+      "192.195.226.0/24",
+      "192.195.227.0/24",
+      "192.195.228.0/24",
+      "192.195.229.0/24",
+      "192.195.230.0/24"
+    ],
+    "org_name": "University of Evansville",
+    "community": "iLight",
+    "asn": "397348"
+  },
+  {
+    "addresses": [
+      "159.28.0.0/18"
+    ],
+    "org_name": "Earlham College",
+    "community": "iLight",
+    "asn": "397356"
+  },
+  {
+    "addresses": [
+      "199.8.16.0/21",
+      "199.8.24.0/22"
+    ],
+    "org_name": "Indiana Wesleyan University",
+    "community": "iLight",
+    "asn": "397534"
+  },
+  {
+    "addresses": [
+      "137.112.0.0/16",
+      "2620:e7::/48"
+    ],
+    "org_name": "Rose-Hulman Institute of Technology",
+    "community": "iLight",
+    "asn": "398451"
+  },
+  {
+    "addresses": [
+      "139.102.0.0/16"
+    ],
+    "org_name": "Indiana State University",
+    "community": "iLight",
+    "asn": "399315"
+  },
+  {
+    "addresses": [
+      "159.218.0.0/16"
+    ],
+    "org_name": "Vincennes University",
+    "community": "iLight",
+    "asn": "399569"
+  },
+  {
+    "addresses": [
+      "192.207.174.0/23",
+      "192.207.176.0/23",
+      "192.207.178.0/24"
+    ],
+    "org_name": "Franklin College",
+    "community": "iLight",
+    "asn": "399909"
+  },
+  {
+    "addresses": [
+      "139.94.0.0/16",
+      "165.95.0.0/16",
+      "204.56.128.0/17",
+      "184.174.192.0/18",
+      "68.232.0.0/19",
+      "98.159.48.0/20",
+      "64.71.80.0/20",
+      "192.58.112.0/22",
+      "66.171.223.0/24",
+      "2607:b800::/32"
+    ],
+    "org_name": "Texas A&M University (TAMU)",
+    "community": "LEARN",
+    "asn": "1970"
+  },
+  {
+    "addresses": [
+      "72.18.160.0/19",
+      "74.200.187.54/31"
+    ],
+    "org_name": "Angelo State University",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "208.79.137.0/24",
+      "74.200.187.222/31"
+    ],
+    "org_name": "City of Waco",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "144.162.0.0/16",
+      "74.200.187.140/31",
+      "74.200.187.142/31"
+    ],
+    "org_name": "Dallas College",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "74.200.187.0/29"
+    ],
+    "org_name": "Education Service Center Region 13",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "74.200.187.138/31"
+    ],
+    "org_name": "Education Service Center Region 14",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "74.200.187.130/31",
+      "74.200.187.252/31"
+    ],
+    "org_name": "Education Service Center Region 3",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "74.200.187.132/31",
+      "74.200.187.150/31"
+    ],
+    "org_name": "Education Service Center Region 5",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "74.200.187.134/31"
+    ],
+    "org_name": "Education Service Center Region 6",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "140.158.0.0/16",
+      "74.200.176.4/31",
+      "74.200.176.8/31",
+      "74.200.187.56/31",
+      "74.200.187.124/31"
+    ],
+    "org_name": "Lamar University",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "198.134.151.0/24",
+      "74.200.176.22/31",
+      "74.200.184.82/31",
+      "74.200.187.90/31"
+    ],
+    "org_name": "McLennan Community College",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "69.84.160.0/20",
+      "74.200.184.86/31",
+      "74.200.187.94/31"
+    ],
+    "org_name": "Midland College",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "206.197.219.0/24",
+      "74.200.187.166/31"
+    ],
+    "org_name": "National Radio Astronomy Observatory",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "74.200.187.214/31",
+      "74.200.187.216/31"
+    ],
+    "org_name": "Round Rock Independent School District",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "67.67.36.0/22",
+      "97.77.221.0/24",
+      "208.84.208.0/21",
+      "74.200.176.24/31",
+      "74.200.184.84/31",
+      "74.200.187.92/31"
+    ],
+    "org_name": "South Texas College",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "104.150.0.0/16",
+      "129.119.0.0/16",
+      "74.200.187.106/31"
+    ],
+    "org_name": "Southern Methodist University",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "74.200.176.14/31",
+      "74.200.176.42/31",
+      "74.200.184.90/31",
+      "74.200.187.170/31"
+    ],
+    "org_name": "St Mary's University",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "173.255.32.0/20",
+      "74.200.187.136/31"
+    ],
+    "org_name": "Tarleton State University",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "138.237.0.0/16",
+      "74.200.134.0/24",
+      "74.200.176.44/31",
+      "74.200.187.42/31"
+    ],
+    "org_name": "Texas Christian University",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "74.200.187.86/31"
+    ],
+    "org_name": "Texas Education Agency",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "147.26.0.0/16",
+      "74.200.136.0/24",
+      "74.200.138.0/24",
+      "74.200.187.22/31",
+      "74.200.187.62/31",
+      "74.200.187.104/31"
+    ],
+    "org_name": "Texas State University",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "74.200.187.52/31"
+    ],
+    "org_name": "Texas Tech University Health Sciences Center",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "74.200.176.16/31",
+      "74.200.187.84/31"
+    ],
+    "org_name": "Texas Tech University Health Sciences Center at El Paso",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "74.200.176.12/31",
+      "74.200.187.40/31",
+      "74.200.187.118/31"
+    ],
+    "org_name": "Texas Woman's University",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "143.111.0.0/16",
+      "74.200.187.114/31",
+      "74.200.187.164/31"
+    ],
+    "org_name": "University Of Texas M.D. Anderson Cancer Center",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "74.200.131.0/24",
+      "74.200.184.94/31",
+      "74.200.187.206/31"
+    ],
+    "org_name": "Texas Lutheran University",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "131.194.0.0/16",
+      "74.200.184.88/31",
+      "74.200.187.108/31"
+    ],
+    "org_name": "Trinity University",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "74.200.184.98/31",
+      "74.200.187.220/31"
+    ],
+    "org_name": "Trinity Valley Community College",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "199.216.150.0/24",
+      "74.200.187.128/31",
+      "74.200.187.152/29"
+    ],
+    "org_name": "University of Mary Hardin-Baylor",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "129.110.0.0/16",
+      "74.200.176.38/31",
+      "74.200.187.110/31",
+      "74.200.187.112/31"
+    ],
+    "org_name": "University of Texas at Dallas",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
+      "129.107.0.0/16",
+      "74.200.176.48/31",
+      "74.200.183.8/30",
+      "74.200.183.12/30",
+      "74.200.187.20/31",
+      "74.200.187.58/31",
+      "74.200.187.120/31",
+      "74.200.187.122/31",
+      "2602:fd0f::/36"
+    ],
+    "org_name": "University of Texas at Arlington",
+    "community": "LEARN",
+    "asn": "18515"
+  },
+  {
+    "addresses": [
+      "74.200.128.0/18",
+      "2607:f928::/32"
+    ],
+    "org_name": "Lonestar Education and Research Network (LEARN)",
+    "community": "LEARN",
+    "asn": "22645"
+  },
+  {
+    "addresses": [
+      "74.200.142.0/24",
+      "74.200.176.10/31"
+    ],
+    "org_name": "City of San Angelo",
+    "community": "LEARN",
+    "asn": "22645"
+  },
+  {
+    "addresses": [
+      "38.100.171.0/24",
+      "74.200.135.0/24"
+    ],
+    "org_name": "Kilgore College",
+    "community": "LEARN",
+    "asn": "22645"
+  },
+  {
+    "addresses": [
+      "74.200.128.0/24",
+      "74.200.129.0/24",
+      "74.200.137.0/24",
+      "74.200.141.0/24"
+    ],
+    "org_name": "Odyssey Academy, Inc.",
+    "community": "LEARN",
+    "asn": "22645"
+  },
+  {
+    "addresses": [
+      "74.200.140.0/24",
+      "74.200.159.64/28",
+      "74.200.159.80/28"
+    ],
+    "org_name": "Parker University",
+    "community": "LEARN",
+    "asn": "22645"
+  },
+  {
+    "addresses": [
+      "64.69.240.0/20",
+      "216.117.112.0/20",
+      "74.200.176.64/31"
+    ],
+    "org_name": "South Plains College",
+    "community": "LEARN",
+    "asn": "22645"
+  },
+  {
+    "addresses": [
+      "64.28.240.0/20",
+      "74.200.159.0/29",
+      "74.200.159.8/29",
+      "74.200.159.16/29",
+      "74.200.159.24/29",
+      "74.200.159.32/29",
+      "74.200.159.40/29"
+    ],
+    "org_name": "Tarrant County College District",
+    "community": "LEARN",
+    "asn": "22645"
+  },
+  {
+    "addresses": [
+      "74.200.139.0/24",
+      "74.200.182.208/31",
+      "74.200.182.210/31"
+    ],
+    "org_name": "Wharton County Junior College",
+    "community": "LEARN",
+    "asn": "22645"
+  },
+  {
+    "addresses": [
+      "129.62.0.0/16",
+      "74.200.133.0/24",
+      "74.200.187.208/31",
+      "2605:c780::/32"
+    ],
+    "org_name": "Baylor University",
+    "community": "LEARN",
+    "asn": "30674"
+  },
+  {
+    "addresses": [
+      "74.200.144.0/24"
+    ],
+    "org_name": "Midsouth U.S. Internet Exchange (MUS-IX)",
+    "community": "LEARN",
+    "asn": "32440"
+  },
+  {
+    "addresses": [
+      "158.135.0.0/16",
+      "74.200.176.32/31",
+      "74.200.176.34/31",
+      "2620:7e:c080::/48"
+    ],
+    "org_name": "Sam Houston State University",
+    "community": "LEARN",
+    "asn": "33187"
+  },
+  {
+    "addresses": [
+      "64.111.0.0/20",
+      "100.43.32.0/19",
+      "74.200.187.80/30",
+      "2602:805::/44"
+    ],
+    "org_name": "Texas Tech University",
+    "community": "LEARN",
+    "asn": "53809"
+  },
+  {
+    "addresses": [
+      "74.200.132.0/24"
+    ],
+    "org_name": "Victoria College",
+    "community": "LEARN",
+    "asn": "62912"
+  },
+  {
+    "addresses": [
+      "170.76.133.0/24",
+      "74.200.184.96/31",
+      "74.200.187.210/31",
+      "2620:12b:b000::/44"
+    ],
+    "org_name": "Texarkana College",
+    "community": "LEARN",
+    "asn": "395770"
+  },
+  {
+    "addresses": [
+      "129.105.0.0/16",
+      "165.124.0.0/17",
+      "199.74.64.0/18",
+      "165.124.128.0/19",
+      "165.124.192.0/19",
+      "165.124.160.0/20",
+      "165.124.240.0/20",
+      "165.124.176.0/21",
+      "165.124.224.0/21",
+      "165.124.232.0/22",
+      "8.28.178.0/23",
+      "165.124.184.0/23",
+      "199.249.168.0/23",
+      "165.124.186.0/24",
+      "192.5.143.0/24",
+      "192.26.85.0/24",
+      "192.31.253.0/24",
+      "199.249.165.0/24",
+      "2620:10d:2000::/41"
+    ],
+    "org_name": "Northwestern University",
+    "asn": "103",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "149.151.0.0/16"
+    ],
+    "org_name": "William Paterson University",
+    "asn": "10955",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "129.174.0.0/17",
+      "129.174.128.0/17",
+      "192.5.215.0/24",
+      "199.26.254.0/24",
+      "2620:10e:6000::/40"
+    ],
+    "org_name": "George Mason University",
+    "asn": "11279",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "137.155.128.0/21",
+      "137.155.156.0/24",
+      "137.155.200.0/24",
+      "137.155.240.0/23",
+      "137.155.249.0/23",
+      "137.155.253.0/23",
+      "137.155.255.0/24"
+    ],
+    "org_name": "Christopher Newport University",
+    "asn": "1411",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "159.91.0.0/16"
+    ],
+    "org_name": "College of New Jersey",
+    "asn": "15166",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "155.246.0.0/16"
+    ],
+    "org_name": "Stevens Institute of Technology",
+    "asn": "16889",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "134.210.0.0/16"
+    ],
+    "org_name": "Stockton University",
+    "asn": "18711",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "74.214.96.0/19",
+      "199.115.136.0/21",
+      "192.107.108.0/24"
+    ],
+    "org_name": "Ramapo College of New Jersey",
+    "asn": "18794",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "130.68.0.0/16"
+    ],
+    "org_name": "Montclair State University",
+    "asn": "205",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "130.156.1.0/24"
+    ],
+    "org_name": "Bergen Community College",
+    "asn": "21976",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "130.156.24.0/24",
+      "130.156.25.0/24"
+    ],
+    "org_name": "Bloomfield College",
+    "asn": "21976",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "130.156.20.0/22"
+    ],
+    "org_name": "Brookdale Community College",
+    "asn": "21976",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "130.156.3.0/24"
+    ],
+    "org_name": "County College of Morris",
+    "asn": "21976",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "192.231.202.0/24"
+    ],
+    "org_name": "Georgian Court University",
+    "asn": "21976",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "130.156.44.0/24"
+    ],
+    "org_name": "Hudson County Community College",
+    "asn": "21976",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "192.135.209.0/24"
+    ],
+    "org_name": "Middlesex College",
+    "asn": "21976",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "130.156.5.0/24",
+      "130.156.6.0/24",
+      "130.156.7.0/24",
+      "130.156.8.0/24",
+      "130.156.9.0/24",
+      "130.156.10.0/24",
+      "130.156.11.0/24",
+      "130.156.12.0/24"
+    ],
+    "org_name": "New Jersey City University",
+    "asn": "21976",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "130.156.4.0/24",
+      "130.156.14.0/24"
+    ],
+    "org_name": "Ocean County College",
+    "asn": "21976",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "130.156.38.0/23",
+      "130.156.37.0/24",
+      "130.156.40.0/24"
+    ],
+    "org_name": "Passaic County Community College",
+    "asn": "21976",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "130.156.111.0/24"
+    ],
+    "org_name": "Warren County Community College",
+    "asn": "21976",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "149.150.48.0/21",
+      "149.150.236.0/22",
+      "149.150.253.0/24"
+    ],
+    "org_name": "Seton Hall University",
+    "asn": "31828",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "192.107.43.0/24"
+    ],
+    "org_name": "Thomas Edison State University",
+    "asn": "32450",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "150.250.0.0/16"
+    ],
+    "org_name": "Rowan University",
+    "asn": "33523",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "128.175.0.0/16",
+      "2604:580::/32"
+    ],
+    "org_name": "University of Delaware",
+    "asn": "34",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "216.87.192.0/20",
+      "8.39.117.0/24",
+      "192.70.186.0/24"
+    ],
+    "org_name": "Susquehanna University",
+    "asn": "394170",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "192.231.177.0/24",
+      "192.231.178.0/24"
+    ],
+    "org_name": "Princeton Theological Seminary",
+    "asn": "394761",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "192.108.16.0/24"
+    ],
+    "org_name": "Saint Elizabeth University",
+    "asn": "395987",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "192.107.39.0/24"
+    ],
+    "org_name": "Drew University",
+    "asn": "401456",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "128.235.0.0/16"
+    ],
+    "org_name": "New Jersey Institute of Technology",
+    "asn": "4246",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "207.200.160.0/20",
+      "192.231.207.0/24"
+    ],
+    "org_name": "Raritan Valley Community College",
+    "asn": "4460",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "132.238.0.0/16"
+    ],
+    "org_name": "Fairleigh Dickinson University",
+    "asn": "63319",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "204.152.148.0/23",
+      "192.154.128.0/24",
+      "192.154.129.0/24",
+      "192.154.130.0/24",
+      "192.100.64.0/24",
+      "2620:3a:c000::/48"
+    ],
+    "org_name": "Monmouth University",
+    "asn": "21976",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "128.112.0.0/16",
+      "140.180.0.0/16",
+      "66.180.176.0/20",
+      "192.12.53.0/24",
+      "204.153.48.0/24",
+      "204.153.49.0/24",
+      "204.153.50.0/24",
+      "204.153.51.0/24",
+      "2604:4540:1000::/36",
+      "2620:c4::/48"
+    ],
+    "org_name": "Princeton University",
+    "asn": "88",
+    "community": "NJEdge"
+  },
+  {
+    "addresses": [
+      "131.123.0.0/16"
+    ],
+    "org_name": "Kent State University",
+    "asn": "11050",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "208.68.192.0/22",
+      "198.30.228.0/24"
+    ],
+    "org_name": "Lakeland Community College",
+    "asn": "11446",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "206.212.0.0/18",
+      "199.217.0.0/21",
+      "198.206.224.0/24",
+      "204.69.191.0/24",
+      "2620:3::/48"
+    ],
+    "org_name": "Marshall University",
+    "asn": "14200",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "132.235.0.0/16",
+      "64.247.64.0/18"
+    ],
+    "org_name": "Ohio University",
+    "asn": "17135",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "2606:fc0::/32"
+    ],
+    "org_name": "University of Akron",
+    "asn": "20085",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "129.137.0.0/16"
+    ],
+    "org_name": "University of Cincinnati",
+    "asn": "20126",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "134.53.0.0/16",
+      "208.115.160.0/19"
+    ],
+    "org_name": "Miami University",
+    "asn": "22968",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "198.30.132.0/24"
+    ],
+    "org_name": "Tiffin University",
+    "asn": "25822",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "150.134.0.0/16"
+    ],
+    "org_name": "Youngstown State University",
+    "asn": "30499",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "67.217.226.0/24"
+    ],
+    "org_name": "John Carroll University",
+    "asn": "30681",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "192.42.153.0/24",
+      "206.21.14.0/24",
+      "206.21.104.0/24",
+      "206.21.105.0/24",
+      "2620:6d:c000::/48"
+    ],
+    "org_name": "Malone University",
+    "asn": "31921",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "140.106.48.0/20"
+    ],
+    "org_name": "Sinclair Community College",
+    "asn": "32178",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "131.238.0.0/16",
+      "64.93.128.0/17",
+      "2620:30:c000::/44"
+    ],
+    "org_name": "University of Dayton",
+    "asn": "32234",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "129.22.0.0/16",
+      "192.5.109.0/24",
+      "192.5.110.0/24",
+      "192.5.113.0/24",
+      "2606:ea00::/32"
+    ],
+    "org_name": "Case Western Reserve University",
+    "asn": "32666",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "137.148.0.0/16"
+    ],
+    "org_name": "Cleveland State University",
+    "asn": "32818",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "132.162.0.0/16"
+    ],
+    "org_name": "Oberlin College",
+    "asn": "36368",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "149.143.192.0/18"
+    ],
+    "org_name": "Mount Vernon Nazarene University",
+    "asn": "36403",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "199.30.208.0/22",
+      "192.70.252.0/24"
+    ],
+    "org_name": "Franklin University",
+    "asn": "53568",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "199.123.13.0/24"
+    ],
+    "org_name": "Ashland University",
+    "asn": "54762",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "129.1.0.0/16",
+      "2604:5480::/32"
+    ],
+    "org_name": "Bowling Green State University",
+    "asn": "55194",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "144.50.0.0/16"
+    ],
+    "org_name": "Central State University",
+    "asn": "600",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "140.220.0.0/16"
+    ],
+    "org_name": "Northeast Ohio Medical University",
+    "asn": "600",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "146.85.0.0/19",
+      "146.85.32.0/19",
+      "146.85.160.0/19",
+      "146.85.224.0/19"
+    ],
+    "org_name": "Shawnee State University",
+    "asn": "600",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "192.131.123.0/24"
+    ],
+    "org_name": "Antioch University",
+    "asn": "600",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "163.11.0.0/16"
+    ],
+    "org_name": "Cedarville University",
+    "asn": "600",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "140.141.0.0/17"
+    ],
+    "org_name": "Denison University",
+    "asn": "600",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "138.28.0.0/16"
+    ],
+    "org_name": "Kenyon College",
+    "asn": "600",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "140.228.0.0/20",
+      "2607:ab00::/32"
+    ],
+    "org_name": "Ohio Northern University",
+    "asn": "600",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "192.157.5.0/24",
+      "192.148.247.0/24"
+    ],
+    "org_name": "Ohio Supercomputer Center (OSC)",
+    "asn": "600",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "192.68.223.0/24"
+    ],
+    "org_name": "Ohio Wesleyan University",
+    "asn": "600",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "136.227.0.0/18"
+    ],
+    "org_name": "Wittenberg University",
+    "asn": "600",
+    "community": "OARnet"
+  },
+  {
+    "addresses": [
+      "128.196.0.0/16",
+      "150.135.0.0/16",
+      "199.104.128.0/19",
+      "206.207.224.0/19",
+      "199.104.224.0/20",
+      "198.60.136.0/21",
+      "199.104.240.0/21",
+      "208.75.160.0/21",
+      "199.104.248.0/22",
+      "206.207.52.0/22",
+      "208.68.28.0/22",
+      "198.60.134.0/23",
+      "199.104.254.0/23",
+      "206.207.2.0/23",
+      "206.207.48.0/23",
+      "192.12.69.0/24",
+      "192.80.43.0/24",
+      "198.60.152.0/24",
+      "198.60.159.0/24",
+      "198.60.160.0/24",
+      "198.60.161.0/24",
+      "198.60.188.0/24",
+      "204.27.250.0/24",
+      "206.207.1.0/24",
+      "206.207.4.0/24",
+      "206.207.7.0/24",
+      "206.207.42.0/24",
+      "206.207.51.0/24",
+      "206.207.59.0/24",
+      "206.207.62.0/24",
+      "2607:f088::/32"
+    ],
+    "org_name": "University of Arizona (UArizona)",
+    "asn": "1706",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "129.219.0.0/16",
+      "149.169.0.0/16",
+      "209.147.128.0/18",
+      "207.246.32.0/19",
+      "198.60.132.0/24",
+      "206.207.0.0/24",
+      "206.207.50.0/24",
+      "2620:d8:8000::/48"
+    ],
+    "org_name": "Arizona State University",
+    "asn": "2900",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "199.195.64.0/19",
+      "199.195.96.0/20",
+      "199.195.112.0/23"
+    ],
+    "org_name": "Paradise Valley Unified School District",
+    "asn": "4514",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "144.90.0.0/16"
+    ],
+    "org_name": "Pima Community College",
+    "asn": "6652",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "199.101.32.0/21",
+      "199.101.40.0/23"
+    ],
+    "org_name": "City of Mesa",
+    "asn": "19185",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "68.228.111.0/24",
+      "204.43.7.0/24"
+    ],
+    "org_name": "Vail School District",
+    "asn": "20269",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "134.114.0.0/16",
+      "207.246.0.0/19",
+      "198.60.189.0/24"
+    ],
+    "org_name": "Northern Arizona University",
+    "asn": "21582",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "140.198.0.0/12",
+      "140.198.240.0/20"
+    ],
+    "org_name": "Maricopa County Community College District",
+    "asn": "26783",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "98.179.129.0/24"
+    ],
+    "org_name": "Translational Genomics Research Institute (TGEN)",
+    "asn": "53372",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "204.43.1.0/28",
+      "204.43.1.16/28",
+      "206.207.6.16/30",
+      "206.207.5.24/30"
+    ],
+    "org_name": "Arizona State School For The Deaf And The Blind (ASDB)",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "204.43.1.64/29",
+      "206.207.6.36/30"
+    ],
+    "org_name": "Altar Valley School District",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "206.210.128.0/20",
+      "206.210.144.0/20"
+    ],
+    "org_name": "Amphitheater Public Schools",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "206.207.5.172/30"
+    ],
+    "org_name": "Arizona PBS KAET",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "204.43.4.0/27",
+      "206.207.5.48/30"
+    ],
+    "org_name": "Avondale Elementary School",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "206.207.6.48/30"
+    ],
+    "org_name": "Basis Peoria Primary",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "206.207.6.52/30"
+    ],
+    "org_name": "Basis Phoenix Central",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "206.207.6.56/30"
+    ],
+    "org_name": "Basis Phoenix Primary",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "206.207.6.60/30"
+    ],
+    "org_name": "Basis Phoenix South Primary",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "206.207.6.64/30"
+    ],
+    "org_name": "Basis Scottsdale Primary East",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "206.207.6.68/30"
+    ],
+    "org_name": "Basis Tucson North",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "206.207.6.72/30"
+    ],
+    "org_name": "Basis Tucson Primary",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "104.166.108.0/24"
+    ],
+    "org_name": "Crane Schools",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "206.207.5.100/30"
+    ],
+    "org_name": "Fala (Flagstaff Arts And Leadership Academy)",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "204.43.0.128/26",
+      "206.207.5.168/30"
+    ],
+    "org_name": "Flagstaff Unified School District",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "206.207.5.176/30"
+    ],
+    "org_name": "Gila Bend Unified School District",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "204.43.5.0/25",
+      "206.207.5.8/30"
+    ],
+    "org_name": "Isaac Elementary District",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "140.252.0.0/16"
+    ],
+    "org_name": "National Optical Astronomy Observatories",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "206.207.5.104/30"
+    ],
+    "org_name": "Northland Preparatory Academy",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "206.207.5.84/30",
+      "204.43.6.0/30"
+    ],
+    "org_name": "Paradise Honors Hs",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "206.207.5.88/30",
+      "204.43.6.4/30"
+    ],
+    "org_name": "Paradise Honors Elementary",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "206.207.5.44/30"
+    ],
+    "org_name": "Ponderosa High School",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "204.43.0.40/29",
+      "206.207.6.40/30"
+    ],
+    "org_name": "Riverbend Prep Academy",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "204.43.4.96/27",
+      "206.207.5.64/30"
+    ],
+    "org_name": "Somerton School District",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "204.43.0.48/29",
+      "206.207.6.44/30"
+    ],
+    "org_name": "Sonoran Science Academy",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "204.43.0.64/28",
+      "206.207.6.88/29"
+    ],
+    "org_name": "Sunnyside Unified School District",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "206.207.5.96/30"
+    ],
+    "org_name": "The Mountain School",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "206.207.6.4/30"
+    ],
+    "org_name": "Us Geological Survey",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "204.43.2.0/24"
+    ],
+    "org_name": "Usda Ars",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "206.207.5.112/30"
+    ],
+    "org_name": "Usda Ars - Maricopa",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "198.60.126.0/23",
+      "198.60.121.0/24",
+      "198.60.128.0/24"
+    ],
+    "org_name": "Yavapai College",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "23.130.48.0/24",
+      "2602:fdf4::/36"
+    ],
+    "org_name": "Yuma Union High School",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "204.43.0.0/29",
+      "206.207.5.20/30"
+    ],
+    "org_name": "Continental Elementary School",
+    "asn": "62600",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "164.50.0.0/16"
+    ],
+    "org_name": "City of Tempe",
+    "asn": "395877",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "162.212.20.0/22"
+    ],
+    "org_name": "Gilbert Public Schools",
+    "asn": "400285",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "206.168.10.0/23"
+    ],
+    "org_name": "Higley Unified School District",
+    "asn": "400896",
+    "community": "SCN"
+  },
+  {
+    "addresses": [
+      "198.180.132.0/22",
+      "204.27.217.0/24"
+    ],
+    "org_name": "Alabama A&M University (AAMU)",
+    "asn": "18682",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "129.66.0.0/16",
+      "157.149.0.0/16",
+      "207.157.0.0/17",
+      "207.157.0.0/17",
+      "204.29.64.0/18",
+      "216.109.0.0/18",
+      "216.109.0.0/18",
+      "199.88.16.0/20",
+      "205.174.48.0/20",
+      "198.180.132.0/22",
+      "198.204.100.0/22",
+      "192.211.32.0/23",
+      "192.211.44.0/23",
+      "199.248.174.0/23",
+      "199.248.176.0/23",
+      "192.31.107.0/24",
+      "192.111.112.0/24",
+      "192.211.39.0/24",
+      "192.211.41.0/24",
+      "192.211.42.0/24",
+      "192.245.165.0/24",
+      "198.49.31.0/24",
+      "198.179.130.0/24",
+      "198.200.158.0/24",
+      "199.248.173.0/24",
+      "199.248.178.0/24",
+      "204.27.217.0/24",
+      "2607:f808::/32"
+    ],
+    "org_name": "Alabama Supercomputer Authority (ASC)",
+    "asn": "3464",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "131.204.0.0/16"
+    ],
+    "org_name": "Auburn University (AUB)",
+    "asn": "6112",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "128.23.0.0/16",
+      "130.127.0.0/16",
+      "153.9.0.0/16",
+      "198.21.128.0/17",
+      "205.186.32.0/19",
+      "205.186.224.0/19",
+      "192.251.46.0/23",
+      "23.151.224.0/24",
+      "23.153.32.0/24",
+      "64.53.18.0/24",
+      "192.188.108.0/24",
+      "198.102.206.0/24",
+      "2602:80a::/40",
+      "2605:4000::/32",
+      "2620:56:6000::/48",
+      "2620:56:a000::/48",
+      "2620:103:a000::/44",
+      "2804:269c:fe10::/48",
+      "2804:269c:fe50::/48"
+    ],
+    "org_name": "C-Light",
+    "asn": 2722,
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "158.111.0.0/16",
+      "198.246.96.0/19"
+    ],
+    "org_name": "Center for Disease Control (CDC)",
+    "asn": 15029,
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "205.129.160.0/19"
+    ],
+    "org_name": "Clark Atlanta Univ (CAU)",
+    "asn": 398034,
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "130.127.0.0/16",
+      "198.21.128.0/17",
+      "192.5.219.0/24",
+      "192.42.3.0/24",
+      "2620:103:a000::/44"
+    ],
+    "org_name": "Clemson University",
+    "asn": "12148",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "163.246.0.0/16",
+      "170.140.0.0/16",
+      "206.57.72.0/21",
+      "206.3.42.0/24",
+      "64.214.127.128/27"
+    ],
+    "org_name": "Emory University",
+    "asn": 3512,
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "128.186.0.0/16",
+      "128.227.0.0/16",
+      "129.171.0.0/16",
+      "131.91.0.0/16",
+      "131.247.0.0/16",
+      "137.52.0.0/16",
+      "139.62.0.0/16",
+      "143.88.0.0/16",
+      "144.174.0.0/16",
+      "155.31.0.0/16",
+      "159.178.0.0/16",
+      "163.118.0.0/16",
+      "168.223.0.0/16",
+      "132.170.0.0/17",
+      "146.201.0.0/17",
+      "132.170.128.0/18",
+      "146.201.192.0/18",
+      "199.242.64.0/18",
+      "69.88.160.0/19",
+      "132.170.192.0/19",
+      "204.68.64.0/19",
+      "132.170.224.0/20",
+      "204.78.96.0/20",
+      "204.193.112.0/20",
+      "206.224.208.0/20",
+      "216.114.80.0/20",
+      "216.120.208.0/20",
+      "107.152.64.0/21",
+      "132.170.240.0/21",
+      "204.78.88.0/21",
+      "204.78.112.0/21",
+      "206.224.200.0/21",
+      "216.146.168.0/21",
+      "35.128.208.0/22",
+      "64.56.84.0/22",
+      "64.56.88.0/22",
+      "131.94.68.0/22",
+      "131.94.88.0/22",
+      "132.170.248.0/22",
+      "162.254.92.0/22",
+      "206.81.164.0/22",
+      "216.146.164.0/22",
+      "216.146.176.0/22",
+      "216.146.184.0/22",
+      "8.6.244.0/23",
+      "12.174.210.0/23",
+      "64.56.80.0/23",
+      "66.195.118.0/23",
+      "108.59.16.0/23",
+      "108.59.22.0/23",
+      "108.59.24.0/23",
+      "132.170.252.0/23",
+      "151.132.236.0/23",
+      "162.248.66.0/23",
+      "165.161.10.0/23",
+      "169.139.190.0/23",
+      "198.187.212.0/23",
+      "199.87.226.0/23",
+      "204.78.86.0/23",
+      "205.173.34.0/23",
+      "216.146.162.0/23",
+      "216.146.182.0/23",
+      "216.146.188.0/23",
+      "23.128.112.0/24",
+      "35.128.192.0/24",
+      "35.128.194.0/24",
+      "64.56.83.0/24",
+      "64.56.92.0/24",
+      "64.56.95.0/24",
+      "71.44.212.0/24",
+      "104.250.229.0/24",
+      "108.59.19.0/24",
+      "108.59.20.0/24",
+      "108.59.26.0/24",
+      "108.59.31.0/24",
+      "132.170.254.0/24",
+      "151.132.95.0/24",
+      "151.132.200.0/24",
+      "161.243.255.0/24",
+      "162.223.23.0/24",
+      "162.248.69.0/24",
+      "162.248.70.0/24",
+      "162.254.11.0/24",
+      "169.139.176.0/24",
+      "170.117.201.0/24",
+      "184.185.222.0/24",
+      "192.5.2.0/24",
+      "192.31.89.0/24",
+      "192.31.108.0/24",
+      "192.35.61.0/24",
+      "192.42.239.0/24",
+      "192.70.171.0/24",
+      "192.80.53.0/24",
+      "192.88.124.0/24",
+      "192.203.97.0/24",
+      "198.134.152.0/24",
+      "198.187.211.0/24",
+      "198.187.214.0/24",
+      "199.44.40.0/24",
+      "199.44.67.0/24",
+      "199.44.72.0/24",
+      "199.181.82.0/24",
+      "204.78.75.0/24",
+      "204.78.76.0/24",
+      "204.78.125.0/24",
+      "204.78.127.0/24",
+      "204.145.157.0/24",
+      "205.173.36.0/24",
+      "205.236.81.0/24",
+      "216.146.161.0/24",
+      "216.146.181.0/24",
+      "216.146.190.0/24",
+      "2607:9c0::/32",
+      "2607:f5d8::/32",
+      "2607:f5d8:1::/48",
+      "2607:f5d8:2::/48",
+      "2607:f5d8:10::/48",
+      "2607:f5d8:20::/48",
+      "2607:fe50::/32",
+      "2620:104::/40",
+      "2620:129:e000::/44"
+    ],
+    "org_name": "FLR (Florida Lambda Rail)",
+    "asn": 11096,
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "131.96.0.0/16"
+    ],
+    "org_name": "Georgia State University (GSU)",
+    "asn": 10631,
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "168.8.0.0/14",
+      "168.12.0.0/16",
+      "173.242.64.0/20",
+      "198.72.64.0/22",
+      "192.43.223.0/24"
+    ],
+    "org_name": "Georgia DoE",
+    "asn": 3480,
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "128.61.0.0/16",
+      "130.207.0.0/16",
+      "143.215.0.0/16",
+      "38.29.188.0/24",
+      "38.110.42.0/24",
+      "38.110.46.0/24",
+      "192.76.181.0/24",
+      "2001:468:300::/48",
+      "2001:550:9005::/48",
+      "2001:550:5605::/48",
+      "2610:148::/32"
+    ],
+    "org_name": "Georgia Institute of Technology (GT)",
+    "asn": 2637,
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "52.119.14.0/24",
+      "52.119.15.0/24"
+    ],
+    "org_name": "HudsonAlpha Institute for Biotechnology",
+    "asn": "40735",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "130.218.0.0/16",
+      "168.28.176.0/20"
+    ],
+    "org_name": "Kennesaw State Univ (KSU)",
+    "asn": 21517,
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "128.82.0.0/16",
+      "128.143.0.0/16",
+      "128.173.0.0/16",
+      "137.54.0.0/16",
+      "139.70.0.0/16",
+      "198.82.0.0/16",
+      "45.3.64.0/18",
+      "199.111.192.0/18",
+      "199.111.160.0/19",
+      "199.111.48.0/20",
+      "199.111.40.0/21",
+      "199.111.0.0/22",
+      "192.35.48.0/23",
+      "192.33.115.0/24",
+      "192.33.117.0/24",
+      "192.70.187.0/24",
+      "192.131.232.0/24",
+      "198.51.208.0/24",
+      "199.111.18.0/24",
+      "2001:468:c80::/48",
+      "2001:468:ce0::/44"
+    ],
+    "org_name": "MARIA",
+    "asn": 40220,
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "128.23.0.0/16"
+    ],
+    "org_name": "Medical University of South Carolina",
+    "asn": "13429",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "161.45.0.0/16",
+      "204.152.130.0/23"
+    ],
+    "org_name": "Middle Tennessee State University (MTSU)",
+    "asn": "26335",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "69.87.160.0/20"
+    ],
+    "org_name": "Morehouse College",
+    "asn": 26883,
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "38.66.193.0/24",
+      "192.83.232.0/24"
+    ],
+    "org_name": "Morehouse School of Medicine (MSM)",
+    "asn": "29972",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "12.35.54.0/24",
+      "12.13.176.128/25"
+    ],
+    "org_name": "Spelman Univ",
+    "asn": 27355,
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "149.149.248.0/22"
+    ],
+    "org_name": "Tennessee Tech University",
+    "asn": 33600,
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "192.203.127.0/24"
+    ],
+    "org_name": "Tuskegee Univ (TUSK)",
+    "asn": 64700,
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "128.192.0.0/16",
+      "70.33.64.0/18",
+      "198.137.16.0/20"
+    ],
+    "org_name": "Univ of Georgia (UGA)",
+    "asn": 36441,
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "130.160.0.0/16"
+    ],
+    "org_name": "University of Alabama (UA)",
+    "asn": "12173",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "138.26.0.0/16",
+      "164.111.0.0/16"
+    ],
+    "org_name": "University of Alabama at Birmingham (UAB)",
+    "asn": "3452",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "146.229.0.0/16",
+      "207.157.74.0/23",
+      "207.157.81.0/24"
+    ],
+    "org_name": "University of Alabama in Huntsville (UAH)",
+    "asn": "10364",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "128.192.0.0/16",
+      "70.33.64.0/18",
+      "198.137.16.0/20"
+    ],
+    "org_name": "University of Georgia (UGA)",
+    "asn": "36441",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "69.85.216.0/23",
+      "192.245.222.0/23",
+      "199.33.130.0/23",
+      "199.33.132.0/23",
+      "69.85.215.0/24",
+      "192.245.221.0/24",
+      "192.245.224.0/24",
+      "199.33.134.0/24"
+    ],
+    "org_name": "University of South Alabama (USA)",
+    "asn": "398940",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "129.252.0.0/16",
+      "65.122.168.0/21"
+    ],
+    "org_name": "University of South Carolina",
+    "asn": "12005",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "96.4.0.0/16",
+      "160.36.0.0/16",
+      "150.182.128.0/17",
+      "165.6.0.0/17",
+      "216.96.128.0/17",
+      "96.5.0.0/18",
+      "165.6.128.0/18",
+      "192.249.0.0/20",
+      "208.87.72.0/22",
+      "192.30.208.0/24",
+      "2620:ed:c000::/48"
+    ],
+    "org_name": "Univ of Tennessee Knoxville (UTK)",
+    "asn": 3450,
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "168.16.0.0/12",
+      "168.8.0.0/13",
+      "130.218.0.0/16",
+      "131.144.0.0/16",
+      "141.165.0.0/16",
+      "143.100.0.0/16",
+      "150.179.0.0/16",
+      "158.93.0.0/16",
+      "160.10.0.0/16",
+      "130.254.128.0/17",
+      "130.254.0.0/19",
+      "173.242.64.0/20",
+      "198.72.64.0/21",
+      "198.72.72.0/22",
+      "72.162.240.0/23",
+      "198.72.76.0/23",
+      "192.43.223.0/24",
+      "192.88.111.0/24",
+      "192.107.44.0/24"
+    ],
+    "org_name": "Univ System of GA (PeachNet)",
+    "asn": 3479,
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "129.59.0.0/16",
+      "192.111.108.0/23",
+      "192.111.110.0/24",
+      "2607:8a00::/32"
+    ],
+    "org_name": "Vanderbilt University",
+    "asn": "7212",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "160.129.0.0/16",
+      "2620:4e:a000::/48"
+    ],
+    "org_name": "Vanderbilt University Medical Center (VUMC)",
+    "asn": "393529",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "216.150.22.0/23"
+    ],
+    "org_name": "Woodruff Library",
+    "asn": 21784,
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "128.62.0.0/16",
+      "128.83.0.0/16",
+      "129.116.0.0/16",
+      "146.6.0.0/16",
+      "198.213.192.0/18",
+      "206.76.64.0/18",
+      "198.214.80.0/20",
+      "198.214.250.0/23"
+    ],
+    "org_name": "University of Texas at Austin (UT Austin)",
+    "community": "UT Systems",
+    "asn": "18"
+  },
+  {
+    "addresses": [
+      "192.12.10.77/30",
+      "192.88.12.81/30"
+    ],
+    "org_name": "MD Anderson Cancer Center (MDACC)",
+    "community": "UT Systems",
+    "asn": "276"
+  },
+  {
+    "addresses": [
+      "129.114.0.0/17",
+      "192.88.12.228/30",
+      "192.88.12.232/30",
+      "2605:2800:2000::/40"
+    ],
+    "org_name": "Texas Advanced Computing Center (TACC)",
+    "community": "UT Systems",
+    "asn": "32093"
+  },
+  {
+    "addresses": [
+      "129.108.0.0/16",
+      "192.12.10.61/30",
+      "192.12.10.73/30",
+      "192.124.228.53/30",
+      "192.88.12.21/30",
+      "192.88.12.29/30",
+      "192.88.12.37/30"
+    ],
+    "org_name": "University of Texas at El Paso (UTEP)",
+    "community": "UT Systems",
+    "asn": "16461"
+  },
+  {
+    "addresses": [
+      "192.12.10.161/30",
+      "192.124.228.61/30",
+      "192.88.12.85/30"
+    ],
+    "org_name": "UT Health Science Center Houston (UTHSCH)",
+    "community": "UT Systems",
+    "asn": "276"
+  },
+  {
+    "addresses": [
+      "129.111.0.0/16",
+      "192.124.225.160/30",
+      "192.124.227.160/30",
+      "192.88.12.156/30"
+    ],
+    "org_name": "UT Health Science Center San Antonio (UTHSCSA)",
+    "community": "UT Systems",
+    "asn": "26971"
+  },
+  {
+    "addresses": [
+      "129.109.0.0/16",
+      "192.124.226.100/30",
+      "192.124.226.104/30",
+      "192.124.226.140/30",
+      "192.124.227.104/30",
+      "192.124.227.216/30",
+      "192.88.12.124/30"
+    ],
+    "org_name": "University of Texas Medical Branch, Galveston (UTMB)",
+    "community": "UT Systems",
+    "asn": "14373"
+  },
+  {
+    "addresses": [
+      "129.115.0.0/16",
+      "192.124.225.112/30",
+      "192.124.227.156/30",
+      "192.88.12.148/30",
+      "192.88.12.60/30"
+    ],
+    "org_name": "University of Texas at San Antonio (UTSA)",
+    "community": "UT Systems",
+    "asn": "27594"
+  },
+  {
+    "addresses": [
+      "192.124.227.220/30",
+      "192.124.228.220/30",
+      "192.88.12.168/30"
+    ],
+    "org_name": "University of Texas at Tyler (UTTYLER)",
+    "community": "UT Systems",
+    "asn": "6922"
+  },
+  {
+    "addresses": [
+      "128.194.0.0/16",
+      "165.91.0.0/16",
+      "2606:aa00::/32"
+    ],
+    "org_name": "Texas A&M University (TAMU)",
+    "community": "UT Systems",
+    "asn": "3794"
+  },
+  {
+    "addresses": [
+      "192.124.226.29/30",
+      "192.124.232.105/30",
+      "206.77.110.0/24"
+    ],
+    "org_name": "University of Texas/Texas A&M Investment Management Company (UTIMCO)",
+    "community": "UT Systems",
+    "asn": "3354"
+  },
+  {
+    "addresses": [
+      "198.214.228.0/24",
+      "198.214.229.0/24",
+      "206.76.136.0/24",
+      "206.76.137.0/24",
+      "206.76.138.0/24",
+      "192.124.226.177/29"
+    ],
+    "org_name": "McDonald Observatory (UTMDO)",
+    "community": "UT Systems",
+    "asn": "3354"
+  },
+  {
+    "addresses": [
+      "204.158.160.0/19",
+      "204.158.144.0/20",
+      "192.124.225.169/30",
+      "192.124.227.21/30",
+      "192.124.227.29/30"
+    ],
+    "org_name": "University of Texas Permian Basin (UTPB)",
+    "community": "UT Systems",
+    "asn": "3354"
+  },
+  {
+    "addresses": [
+      "207.64.118.0/23",
+      "207.64.126.0/23",
+      "207.64.117.0/24",
+      "207.64.125.0/24",
+      "192.124.225.232/29",
+      "192.124.228.192/29",
+      "192.124.228.200/29",
+      "192.124.232.192/29",
+      "192.124.232.200/29"
+    ],
+    "org_name": "University of Texas Shared Information Services (UTSIS)",
+    "community": "UT Systems",
+    "asn": "3354"
+  },
+  {
+    "addresses": [
+      "198.147.138.0/23",
+      "198.215.16.0/24",
+      "192.124.225.32/29",
+      "192.124.225.32/29",
+      "192.124.227.192/30",
+      "192.124.234.248/30"
+    ],
+    "org_name": "UT Systems (UTSYS)",
+    "community": "UT Systems",
+    "asn": "3354"
+  },
+  {
+    "addresses": [
+      "144.96.0.0/16",
+      "192.70.161.0/24",
+      "192.124.227.40/30",
+      "192.124.228.32/30",
+      "2604:2100::/32"
+    ],
+    "org_name": "Stephen F. Austin State University (SFASU)",
+    "community": "UT Systems",
+    "asn": "3634"
+  },
+  {
+    "addresses": [
+      "129.112.0.0/16",
+      "198.215.176.0/20",
+      "198.215.48.0/20",
+      "198.215.96.0/20",
+      "198.241.16.0/20",
+      "198.215.36.0/22",
+      "199.242.236.0/22",
+      "207.64.152.0/22",
+      "199.165.152.0/23",
+      "199.242.234.0/23",
+      "199.165.154.0/24",
+      "199.249.214.0/24",
+      "192.124.226.32/30",
+      "192.124.226.36/30",
+      "192.124.227.164/30",
+      "192.124.227.32/30",
+      "192.124.232.168/30",
+      "192.88.12.144/30",
+      "192.88.12.44/30",
+      "192.88.12.52/30",
+      "2620:0:840::/48"
+    ],
+    "org_name": "UT Southwestern Medical Center (SWMED)",
+    "community": "UT Systems",
+    "asn": "6922"
+  },
+  {
+    "addresses": [
+      "192.124.227.8/29",
+      "192.124.227.72/30"
+    ],
+    "org_name": "Applied Research Laboratories, UT Austin (UTARL)",
+    "community": "UT Systems",
+    "asn": "6922"
+  },
+  {
+    "addresses": [
+      "129.110.0.0/16",
+      "192.124.220.28/30",
+      "192.124.227.108/30"
+    ],
+    "org_name": "University of Texas at Dallas (UT Dallas)",
+    "community": "UT Systems",
+    "asn": "6922"
+  },
+  {
+    "addresses": [
+      "192.124.220.64/27",
+      "192.124.220.56/29",
+      "192.124.229.0/29",
+      "192.124.229.96/29",
+      "192.124.229.104/29",
+      "192.124.229.112/29",
+      "192.124.229.120/29",
+      "192.124.229.128/29",
+      "192.124.229.8/29",
+      "192.124.229.136/29",
+      "192.124.229.144/29",
+      "192.124.229.152/29",
+      "192.124.229.160/29",
+      "192.124.229.168/29",
+      "192.124.229.176/29",
+      "192.124.229.184/29",
+      "192.124.229.192/29",
+      "192.124.229.200/29",
+      "192.124.229.208/29",
+      "192.124.229.224/29",
+      "192.124.229.232/29",
+      "192.124.229.40/29",
+      "192.124.229.80/29",
+      "192.124.234.104/29"
+    ],
+    "org_name": "University of Texas at Austin Information Security Office (UTISO)",
+    "community": "UT Systems",
+    "asn": "6922"
+  },
+  {
+    "addresses": [
+      "204.158.28.0/24",
+      "192.124.226.16/30",
+      "192.124.228.36/30"
+    ],
+    "org_name": "University Lands (UTLANDS)",
+    "community": "UT Systems",
+    "asn": "6922"
+  },
+  {
+    "addresses": [
+      "129.113.0.0/16",
+      "67.207.0.0/19",
+      "207.64.148.0/24",
+      "2605:2800:c300::/48"
+    ],
+    "org_name": "University of Texas Rio Grande Valley (UTRGV)",
+    "community": "UT Systems",
+    "asn": "11481"
+  },
+  {
+    "addresses": [
+      "129.114.128.0/17",
+      "192.88.11.0/24",
+      "192.124.220.48/30",
+      "192.124.227.36/30",
+      "192.124.228.20/30",
+      "192.124.228.48/30"
+    ],
+    "org_name": "UT Health Science Center Tyler (UTHSCT)",
+    "community": "UT Systems",
+    "asn": "16600"
+  }
+]
