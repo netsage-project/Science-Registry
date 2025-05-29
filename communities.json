@@ -2025,29 +2025,50 @@
   },
   {
     "addresses": [
-      "139.94.0.0/16",
-      "165.95.0.0/16",
-      "204.56.128.0/17",
-      "184.174.192.0/18",
-      "68.232.0.0/19",
-      "98.159.48.0/20",
-      "64.71.80.0/20",
-      "192.58.112.0/22",
-      "66.171.223.0/24",
-      "2607:b800::/32"
-    ],
-    "org_name": "Texas A&M University (TAMU)",
-    "community": "LEARN",
-    "asn": "1970"
-  },
-  {
-    "addresses": [
       "72.18.160.0/19",
-      "74.200.187.54/31"
+      "72.18.168.0/21"
     ],
     "org_name": "Angelo State University",
     "community": "LEARN",
-    "asn": "16905"
+    "asn": "36658"
+  },
+  {
+    "addresses": [
+      "128.249.0.0/16",
+      "2620:0:5070::/48"
+    ],
+    "community": "LEARN",
+    "org_name": "Baylor College of Medicine",
+    "asn": "302"
+  },
+  {
+    "addresses": [
+      "129.62.0.0/16",
+      "74.200.133.0/24",
+      "74.200.187.208/31",
+      "2605:c780::/32"
+    ],
+    "org_name": "Baylor University",
+    "community": "LEARN",
+    "asn": "30674"
+  },
+  {
+    "addresses": [
+      "50.21.240.0/20",
+      "64.92.176.0/20"
+    ],
+    "community": "LEARN",
+    "org_name": "Blinn College",
+    "asn": "22645"
+  },
+  {
+    "addresses": [
+      "74.200.142.0/24",
+      "74.200.176.10/31"
+    ],
+    "org_name": "City of San Angelo",
+    "community": "LEARN",
+    "asn": "22645"
   },
   {
     "addresses": [
@@ -2112,6 +2133,15 @@
   },
   {
     "addresses": [
+      "38.100.171.0/24",
+      "74.200.135.0/24"
+    ],
+    "org_name": "Kilgore College",
+    "community": "LEARN",
+    "asn": "22645"
+  },
+  {
+    "addresses": [
       "140.158.0.0/16",
       "74.200.176.4/31",
       "74.200.176.8/31",
@@ -2121,6 +2151,24 @@
     "org_name": "Lamar University",
     "community": "LEARN",
     "asn": "16905"
+  },
+  {
+    "addresses": [
+      "74.200.128.0/18",
+      "2607:f928::/32"
+    ],
+    "org_name": "Lonestar Education and Research Network (LEARN)",
+    "community": "LEARN",
+    "asn": "22645"
+  },
+  {
+    "addresses": [
+      "192.12.10.77/30",
+      "192.88.12.81/30"
+    ],
+    "org_name": "MD Anderson Cancer Center (MDACC)",
+    "community": "LEARN",
+    "asn": "276"
   },
   {
     "addresses": [
@@ -2145,6 +2193,14 @@
   },
   {
     "addresses": [
+      "74.200.144.0/24"
+    ],
+    "org_name": "Midsouth U.S. Internet Exchange (MUS-IX)",
+    "community": "LEARN",
+    "asn": "32440"
+  },
+  {
+    "addresses": [
       "206.197.219.0/24",
       "74.200.187.166/31"
     ],
@@ -2154,12 +2210,62 @@
   },
   {
     "addresses": [
+      "74.200.128.0/24",
+      "74.200.129.0/24",
+      "74.200.137.0/24",
+      "74.200.141.0/24"
+    ],
+    "org_name": "Odyssey Academy, Inc.",
+    "community": "LEARN",
+    "asn": "22645"
+  },
+  {
+    "addresses": [
+      "74.200.140.0/24",
+      "74.200.159.64/28",
+      "74.200.159.80/28"
+    ],
+    "org_name": "Parker University",
+    "community": "LEARN",
+    "asn": "22645"
+  },
+  {
+    "addresses": [
+      "198.32.224.0/20"
+    ],
+    "community": "LEARN",
+    "org_name": "Rice University",
+    "asn": "4557"
+  },
+  {
+    "addresses": [
       "74.200.187.214/31",
       "74.200.187.216/31"
     ],
     "org_name": "Round Rock Independent School District",
     "community": "LEARN",
     "asn": "16905"
+  },
+  {
+    "addresses": [
+      "158.135.0.0/16",
+      "74.200.176.32/31",
+      "74.200.176.34/31",
+      "2620:7e:c080::/48"
+    ],
+    "org_name": "Sam Houston State University",
+    "community": "LEARN",
+    "asn": "33187"
+  },
+  {
+    "addresses": [
+      "64.69.240.0/20",
+      "216.117.112.0/20",
+      "74.200.176.64/31"
+    ],
+    "org_name": "South Plains College",
+    "community": "LEARN",
+    "asn": "22645"
   },
   {
     "addresses": [
@@ -2206,6 +2312,59 @@
   },
   {
     "addresses": [
+      "64.28.240.0/20",
+      "74.200.159.0/29",
+      "74.200.159.8/29",
+      "74.200.159.16/29",
+      "74.200.159.24/29",
+      "74.200.159.32/29",
+      "74.200.159.40/29"
+    ],
+    "org_name": "Tarrant County College District",
+    "community": "LEARN",
+    "asn": "22645"
+  },
+  {
+    "addresses": [
+      "170.76.133.0/24",
+      "74.200.184.96/31",
+      "74.200.187.210/31",
+      "2620:12b:b000::/44"
+    ],
+    "org_name": "Texarkana College",
+    "community": "LEARN",
+    "asn": "395770"
+  },
+  {
+    "addresses": [
+      "139.94.0.0/16",
+      "165.95.0.0/16",
+      "204.56.128.0/17",
+      "184.174.192.0/18",
+      "68.232.0.0/19",
+      "98.159.48.0/20",
+      "64.71.80.0/20",
+      "192.58.112.0/22",
+      "66.171.223.0/24",
+      "2607:b800::/32"
+    ],
+    "org_name": "Texas A&M University (TAMU)",
+    "community": "LEARN",
+    "asn": "1970"
+  },
+  {
+    "addresses": [
+      "129.114.0.0/17",
+      "192.88.12.228/30",
+      "192.88.12.232/30",
+      "2605:2800:2000::/40"
+    ],
+    "org_name": "Texas Advanced Computing Center (TACC)",
+    "community": "LEARN",
+    "asn": "32093"
+  },
+  {
+    "addresses": [
       "138.237.0.0/16",
       "74.200.134.0/24",
       "74.200.176.44/31",
@@ -2225,6 +2384,16 @@
   },
   {
     "addresses": [
+      "74.200.131.0/24",
+      "74.200.184.94/31",
+      "74.200.187.206/31"
+    ],
+    "org_name": "Texas Lutheran University",
+    "community": "LEARN",
+    "asn": "16905"
+  },
+  {
+    "addresses": [
       "147.26.0.0/16",
       "74.200.136.0/24",
       "74.200.138.0/24",
@@ -2238,30 +2407,106 @@
   },
   {
     "addresses": [
-      "74.200.187.52/31"
+      "64.111.0.0/20",
+      "100.43.32.0/19",
+      "74.200.187.80/30",
+      "2602:805::/44"
+    ],
+    "org_name": "Texas Tech University",
+    "community": "LEARN",
+    "asn": "53809"
+  },
+  {
+    "addresses": [
+      "66.230.0.0/18",
+      "69.175.128.0/17",
+      "208.122.128.0/18",
+      "2620:118:3000::/40"
     ],
     "org_name": "Texas Tech University Health Sciences Center",
     "community": "LEARN",
-    "asn": "16905"
+    "asn": "46476"
   },
   {
     "addresses": [
-      "74.200.176.16/31",
-      "74.200.187.84/31"
+      "64.111.0.0/20",
+      "100.43.32.0/19",
+      "2602:805::/44"
     ],
     "org_name": "Texas Tech University Health Sciences Center at El Paso",
     "community": "LEARN",
+    "asn": "53809"
+  },
+  {
+    "addresses": [
+      "199.181.16.0/20",
+      "192.135.186.0/24",
+      "198.178.139.0/24",
+      "198.178.140.0/24",
+      "198.186.242.0/24",
+      "198.186.246.0/24"
+    ],
+    "org_name": "Texas Woman's University",
+    "community": "LEARN",
+    "asn": "26633"
+  },
+  {
+    "addresses": [
+      "131.194.0.0/16"
+    ],
+    "org_name": "Trinity University",
+    "community": "LEARN",
+    "asn": "19342"
+  },
+  {
+    "addresses": [
+      "74.200.184.98/31",
+      "74.200.187.220/31"
+    ],
+    "org_name": "Trinity Valley Community College",
+    "community": "LEARN",
     "asn": "16905"
   },
   {
     "addresses": [
-      "74.200.176.12/31",
-      "74.200.187.40/31",
-      "74.200.187.118/31"
+      "192.12.10.161/30",
+      "192.124.228.61/30",
+      "192.88.12.85/30"
     ],
-    "org_name": "Texas Woman's University",
+    "org_name": "UT Health Science Center Houston (UTHSCH)",
     "community": "LEARN",
-    "asn": "16905"
+    "asn": "276"
+  },
+  {
+    "addresses": [
+      "129.111.0.0/16",
+      "192.124.225.160/30",
+      "192.124.227.160/30",
+      "192.88.12.156/30"
+    ],
+    "org_name": "UT Health Science Center San Antonio (UTHSCSA)",
+    "community": "LEARN",
+    "asn": "26971"
+  },
+  {
+    "addresses": [
+      "129.112.0.0/16",
+      "198.215.176.0/20",
+      "198.215.48.0/20",
+      "198.215.96.0/20",
+      "198.241.16.0/20",
+      "198.215.36.0/22",
+      "199.242.236.0/22",
+      "207.64.152.0/22",
+      "199.165.152.0/23",
+      "199.242.234.0/23",
+      "199.165.154.0/24",
+      "199.249.214.0/24",
+      "2620:0:840::/48"
+    ],
+    "org_name": "UT Southwestern Medical Center (SWMED)",
+    "community": "LEARN",
+    "asn": "6922"
   },
   {
     "addresses": [
@@ -2270,35 +2515,6 @@
       "74.200.187.164/31"
     ],
     "org_name": "University Of Texas M.D. Anderson Cancer Center",
-    "community": "LEARN",
-    "asn": "16905"
-  },
-  {
-    "addresses": [
-      "74.200.131.0/24",
-      "74.200.184.94/31",
-      "74.200.187.206/31"
-    ],
-    "org_name": "Texas Lutheran University",
-    "community": "LEARN",
-    "asn": "16905"
-  },
-  {
-    "addresses": [
-      "131.194.0.0/16",
-      "74.200.184.88/31",
-      "74.200.187.108/31"
-    ],
-    "org_name": "Trinity University",
-    "community": "LEARN",
-    "asn": "16905"
-  },
-  {
-    "addresses": [
-      "74.200.184.98/31",
-      "74.200.187.220/31"
-    ],
-    "org_name": "Trinity Valley Community College",
     "community": "LEARN",
     "asn": "16905"
   },
@@ -2314,14 +2530,45 @@
   },
   {
     "addresses": [
-      "129.110.0.0/16",
-      "74.200.176.38/31",
-      "74.200.187.110/31",
-      "74.200.187.112/31"
+      "129.120.0.0/16",
+      "2620:101:1000::/42"
     ],
-    "org_name": "University of Texas at Dallas",
     "community": "LEARN",
-    "asn": "16905"
+    "org_name": "University of North Texas",
+    "asn": "589"
+  },
+  {
+    "addresses": [
+      "129.114.128.0/17"
+    ],
+    "community": "LEARN",
+    "org_name": "University of Texas Health Science Center at Tyler (UTHSCT)",
+    "asn": "16600"
+  },
+  {
+    "addresses": [
+      "129.109.0.0/16",
+      "192.124.226.100/30",
+      "192.124.226.104/30",
+      "192.124.226.140/30",
+      "192.124.227.104/30",
+      "192.124.227.216/30",
+      "192.88.12.124/30"
+    ],
+    "org_name": "University of Texas Medical Branch, Galveston (UTMB)",
+    "community": "LEARN",
+    "asn": "14373"
+  },
+  {
+    "addresses": [
+      "129.113.0.0/16",
+      "67.207.0.0/19",
+      "207.64.148.0/24",
+      "2605:2800:c300::/48"
+    ],
+    "org_name": "University of Texas Rio Grande Valley (UTRGV)",
+    "community": "LEARN",
+    "asn": "11481"
   },
   {
     "addresses": [
@@ -2341,126 +2588,55 @@
   },
   {
     "addresses": [
-      "74.200.128.0/18",
-      "2607:f928::/32"
+      "128.62.0.0/16",
+      "128.83.0.0/16",
+      "129.116.0.0/16",
+      "146.6.0.0/16",
+      "198.213.192.0/18",
+      "206.76.64.0/18",
+      "198.214.80.0/20",
+      "198.214.250.0/23"
     ],
-    "org_name": "Lonestar Education and Research Network (LEARN)",
+    "org_name": "University of Texas at Austin (UT Austin)",
     "community": "LEARN",
-    "asn": "22645"
+    "asn": "18"
   },
   {
     "addresses": [
-      "74.200.142.0/24",
-      "74.200.176.10/31"
+      "129.110.0.0/16",
+      "74.200.176.38/31",
+      "74.200.187.110/31",
+      "74.200.187.112/31"
     ],
-    "org_name": "City of San Angelo",
+    "org_name": "University of Texas at Dallas",
     "community": "LEARN",
-    "asn": "22645"
+    "asn": "16905"
   },
   {
     "addresses": [
-      "38.100.171.0/24",
-      "74.200.135.0/24"
+      "129.108.0.0/16",
+      "192.12.10.61/30",
+      "192.12.10.73/30",
+      "192.124.228.53/30",
+      "192.88.12.21/30",
+      "192.88.12.29/30",
+      "192.88.12.37/30"
     ],
-    "org_name": "Kilgore College",
+    "org_name": "University of Texas at El Paso (UTEP)",
     "community": "LEARN",
-    "asn": "22645"
+    "asn": "16461"
   },
   {
     "addresses": [
-      "74.200.128.0/24",
-      "74.200.129.0/24",
-      "74.200.137.0/24",
-      "74.200.141.0/24"
+      "129.115.0.0/16",
+      "192.124.225.112/30",
+      "192.124.227.156/30",
+      "192.88.12.148/30",
+      "192.88.12.60/30"
     ],
-    "org_name": "Odyssey Academy, Inc.",
+    "org_name": "University of Texas at San Antonio (UTSA)",
     "community": "LEARN",
-    "asn": "22645"
-  },
-  {
-    "addresses": [
-      "74.200.140.0/24",
-      "74.200.159.64/28",
-      "74.200.159.80/28"
-    ],
-    "org_name": "Parker University",
-    "community": "LEARN",
-    "asn": "22645"
-  },
-  {
-    "addresses": [
-      "64.69.240.0/20",
-      "216.117.112.0/20",
-      "74.200.176.64/31"
-    ],
-    "org_name": "South Plains College",
-    "community": "LEARN",
-    "asn": "22645"
-  },
-  {
-    "addresses": [
-      "64.28.240.0/20",
-      "74.200.159.0/29",
-      "74.200.159.8/29",
-      "74.200.159.16/29",
-      "74.200.159.24/29",
-      "74.200.159.32/29",
-      "74.200.159.40/29"
-    ],
-    "org_name": "Tarrant County College District",
-    "community": "LEARN",
-    "asn": "22645"
-  },
-  {
-    "addresses": [
-      "74.200.139.0/24",
-      "74.200.182.208/31",
-      "74.200.182.210/31"
-    ],
-    "org_name": "Wharton County Junior College",
-    "community": "LEARN",
-    "asn": "22645"
-  },
-  {
-    "addresses": [
-      "129.62.0.0/16",
-      "74.200.133.0/24",
-      "74.200.187.208/31",
-      "2605:c780::/32"
-    ],
-    "org_name": "Baylor University",
-    "community": "LEARN",
-    "asn": "30674"
-  },
-  {
-    "addresses": [
-      "74.200.144.0/24"
-    ],
-    "org_name": "Midsouth U.S. Internet Exchange (MUS-IX)",
-    "community": "LEARN",
-    "asn": "32440"
-  },
-  {
-    "addresses": [
-      "158.135.0.0/16",
-      "74.200.176.32/31",
-      "74.200.176.34/31",
-      "2620:7e:c080::/48"
-    ],
-    "org_name": "Sam Houston State University",
-    "community": "LEARN",
-    "asn": "33187"
-  },
-  {
-    "addresses": [
-      "64.111.0.0/20",
-      "100.43.32.0/19",
-      "74.200.187.80/30",
-      "2602:805::/44"
-    ],
-    "org_name": "Texas Tech University",
-    "community": "LEARN",
-    "asn": "53809"
+    "asn": "27594"
   },
   {
     "addresses": [
@@ -2472,14 +2648,13 @@
   },
   {
     "addresses": [
-      "170.76.133.0/24",
-      "74.200.184.96/31",
-      "74.200.187.210/31",
-      "2620:12b:b000::/44"
+      "74.200.139.0/24",
+      "74.200.182.208/31",
+      "74.200.182.210/31"
     ],
-    "org_name": "Texarkana College",
+    "org_name": "Wharton County Junior College",
     "community": "LEARN",
-    "asn": "395770"
+    "asn": "22645"
   },
   {
     "addresses": [
