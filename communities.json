@@ -2077,7 +2077,7 @@
     ],
     "org_name": "City of Waco",
     "community": "LEARN",
-    "asn": "16905"
+    "asn": "30267"
   },
   {
     "addresses": [
@@ -2087,7 +2087,7 @@
     ],
     "org_name": "Dallas College",
     "community": "LEARN",
-    "asn": "16905"
+    "asn": "10849"
   },
   {
     "addresses": [
@@ -2099,11 +2099,13 @@
   },
   {
     "addresses": [
+      "108.163.72.0/21",
+      "108.163.64.0/22",
       "74.200.187.138/31"
     ],
     "org_name": "Education Service Center Region 14",
     "community": "LEARN",
-    "asn": "16905"
+    "asn": "54084"
   },
   {
     "addresses": [
@@ -2143,6 +2145,7 @@
   {
     "addresses": [
       "140.158.0.0/16",
+      "140.158.25.0/24",
       "74.200.176.4/31",
       "74.200.176.8/31",
       "74.200.187.56/31",
@@ -2150,7 +2153,7 @@
     ],
     "org_name": "Lamar University",
     "community": "LEARN",
-    "asn": "16905"
+    "asn": "25709"
   },
   {
     "addresses": [
@@ -2179,7 +2182,7 @@
     ],
     "org_name": "McLennan Community College",
     "community": "LEARN",
-    "asn": "16905"
+    "asn": "398845"
   },
   {
     "addresses": [
@@ -2189,7 +2192,7 @@
     ],
     "org_name": "Midland College",
     "community": "LEARN",
-    "asn": "16905"
+    "asn": "6362"
   },
   {
     "addresses": [
@@ -2206,7 +2209,7 @@
     ],
     "org_name": "National Radio Astronomy Observatory",
     "community": "LEARN",
-    "asn": "16905"
+    "asn": "3627"
   },
   {
     "addresses": [
@@ -2239,12 +2242,13 @@
   },
   {
     "addresses": [
+      "168.69.254.0/23",
       "74.200.187.214/31",
       "74.200.187.216/31"
     ],
     "org_name": "Round Rock Independent School District",
     "community": "LEARN",
-    "asn": "16905"
+    "asn": "394001"
   },
   {
     "addresses": [
@@ -2278,7 +2282,7 @@
     ],
     "org_name": "South Texas College",
     "community": "LEARN",
-    "asn": "16905"
+    "asn": "23302"
   },
   {
     "addresses": [
@@ -2288,10 +2292,12 @@
     ],
     "org_name": "Southern Methodist University",
     "community": "LEARN",
-    "asn": "16905"
+    "asn": "1832"
   },
   {
     "addresses": [
+      "69.150.209.0/24",
+      "172.83.49.0/24",
       "74.200.176.14/31",
       "74.200.176.42/31",
       "74.200.184.90/31",
@@ -2299,7 +2305,7 @@
     ],
     "org_name": "St Mary's University",
     "community": "LEARN",
-    "asn": "16905"
+    "asn": "399346"
   },
   {
     "addresses": [
@@ -2308,7 +2314,7 @@
     ],
     "org_name": "Tarleton State University",
     "community": "LEARN",
-    "asn": "16905"
+    "asn": "400224"
   },
   {
     "addresses": [
@@ -2372,7 +2378,7 @@
     ],
     "org_name": "Texas Christian University",
     "community": "LEARN",
-    "asn": "16905"
+    "asn": "18791"
   },
   {
     "addresses": [
@@ -2390,7 +2396,7 @@
     ],
     "org_name": "Texas Lutheran University",
     "community": "LEARN",
-    "asn": "16905"
+    "asn": "393530"
   },
   {
     "addresses": [
@@ -2403,7 +2409,7 @@
     ],
     "org_name": "Texas State University",
     "community": "LEARN",
-    "asn": "16905"
+    "asn": "18777"
   },
   {
     "addresses": [
@@ -2511,16 +2517,35 @@
   {
     "addresses": [
       "143.111.0.0/16",
+      "192.108.242.0/24",
       "74.200.187.114/31",
       "74.200.187.164/31"
     ],
     "org_name": "University Of Texas M.D. Anderson Cancer Center",
     "community": "LEARN",
-    "asn": "16905"
+    "asn": "11773"
   },
   {
     "addresses": [
-      "199.216.150.0/24",
+      "129.7.0.0/16",
+      "192.138.193.0/24",
+      "192.138.194.0/24",
+      "2604:ee80::/32"
+    ],
+    "org_name": "University of Houston",
+    "community": "LEARN",
+    "asn": "7276"
+  },
+  {
+    "addresses": [
+      "216.145.160.0/19"
+    ],
+    "org_name": "University of Houston - Downtown",
+    "community": "LEARN",
+    "asn": "23030"
+  },
+  {
+    "addresses": [
       "74.200.187.128/31",
       "74.200.187.152/29"
     ],
@@ -2610,7 +2635,7 @@
     ],
     "org_name": "University of Texas at Dallas",
     "community": "LEARN",
-    "asn": "16905"
+    "asn": "20162"
   },
   {
     "addresses": [
