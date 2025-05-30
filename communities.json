@@ -2077,7 +2077,7 @@
     ],
     "org_name": "City of Waco",
     "community": "LEARN",
-    "asn": "30267"
+    "asn": "16905"
   },
   {
     "addresses": [
@@ -2087,7 +2087,7 @@
     ],
     "org_name": "Dallas College",
     "community": "LEARN",
-    "asn": "10849"
+    "asn": "16905"
   },
   {
     "addresses": [
@@ -2099,13 +2099,11 @@
   },
   {
     "addresses": [
-      "108.163.72.0/21",
-      "108.163.64.0/22",
       "74.200.187.138/31"
     ],
     "org_name": "Education Service Center Region 14",
     "community": "LEARN",
-    "asn": "54084"
+    "asn": "16905"
   },
   {
     "addresses": [
@@ -2145,7 +2143,6 @@
   {
     "addresses": [
       "140.158.0.0/16",
-      "140.158.25.0/24",
       "74.200.176.4/31",
       "74.200.176.8/31",
       "74.200.187.56/31",
@@ -2153,7 +2150,7 @@
     ],
     "org_name": "Lamar University",
     "community": "LEARN",
-    "asn": "25709"
+    "asn": "16905"
   },
   {
     "addresses": [
@@ -2182,7 +2179,7 @@
     ],
     "org_name": "McLennan Community College",
     "community": "LEARN",
-    "asn": "398845"
+    "asn": "16905"
   },
   {
     "addresses": [
@@ -2192,7 +2189,7 @@
     ],
     "org_name": "Midland College",
     "community": "LEARN",
-    "asn": "6362"
+    "asn": "16905"
   },
   {
     "addresses": [
@@ -2209,7 +2206,7 @@
     ],
     "org_name": "National Radio Astronomy Observatory",
     "community": "LEARN",
-    "asn": "3627"
+    "asn": "16905"
   },
   {
     "addresses": [
@@ -2234,6 +2231,21 @@
   },
   {
     "addresses": [
+      "128.42.0.0/16",
+      "168.2.0.0/16",
+      "168.3.0.0/16",
+      "168.4.0.0/16",
+      "168.5.0.0/16",
+      "168.6.0.0/16",
+      "168.7.0.0/16",
+      "2604:5e80::/32"
+    ],
+    "community": "LEARN",
+    "org_name": "Rice University",
+    "asn": "8"
+  },
+  {
+    "addresses": [
       "198.32.224.0/20"
     ],
     "community": "LEARN",
@@ -2242,13 +2254,12 @@
   },
   {
     "addresses": [
-      "168.69.254.0/23",
       "74.200.187.214/31",
       "74.200.187.216/31"
     ],
     "org_name": "Round Rock Independent School District",
     "community": "LEARN",
-    "asn": "394001"
+    "asn": "16905"
   },
   {
     "addresses": [
@@ -2282,7 +2293,7 @@
     ],
     "org_name": "South Texas College",
     "community": "LEARN",
-    "asn": "23302"
+    "asn": "16905"
   },
   {
     "addresses": [
@@ -2292,12 +2303,10 @@
     ],
     "org_name": "Southern Methodist University",
     "community": "LEARN",
-    "asn": "1832"
+    "asn": "16905"
   },
   {
     "addresses": [
-      "69.150.209.0/24",
-      "172.83.49.0/24",
       "74.200.176.14/31",
       "74.200.176.42/31",
       "74.200.184.90/31",
@@ -2305,7 +2314,7 @@
     ],
     "org_name": "St Mary's University",
     "community": "LEARN",
-    "asn": "399346"
+    "asn": "16905"
   },
   {
     "addresses": [
@@ -2314,7 +2323,7 @@
     ],
     "org_name": "Tarleton State University",
     "community": "LEARN",
-    "asn": "400224"
+    "asn": "16905"
   },
   {
     "addresses": [
@@ -2352,7 +2361,10 @@
       "64.71.80.0/20",
       "192.58.112.0/22",
       "66.171.223.0/24",
-      "2607:b800::/32"
+      "2607:b800::/32",
+      "2605:efc0::/32",
+      "2620:92::/44",
+      "2620:13a:2000::/40"
     ],
     "org_name": "Texas A&M University (TAMU)",
     "community": "LEARN",
@@ -2378,7 +2390,7 @@
     ],
     "org_name": "Texas Christian University",
     "community": "LEARN",
-    "asn": "18791"
+    "asn": "16905"
   },
   {
     "addresses": [
@@ -2396,7 +2408,7 @@
     ],
     "org_name": "Texas Lutheran University",
     "community": "LEARN",
-    "asn": "393530"
+    "asn": "16905"
   },
   {
     "addresses": [
@@ -2409,7 +2421,7 @@
     ],
     "org_name": "Texas State University",
     "community": "LEARN",
-    "asn": "18777"
+    "asn": "16905"
   },
   {
     "addresses": [
@@ -2517,35 +2529,16 @@
   {
     "addresses": [
       "143.111.0.0/16",
-      "192.108.242.0/24",
       "74.200.187.114/31",
       "74.200.187.164/31"
     ],
     "org_name": "University Of Texas M.D. Anderson Cancer Center",
     "community": "LEARN",
-    "asn": "11773"
+    "asn": "16905"
   },
   {
     "addresses": [
-      "129.7.0.0/16",
-      "192.138.193.0/24",
-      "192.138.194.0/24",
-      "2604:ee80::/32"
-    ],
-    "org_name": "University of Houston",
-    "community": "LEARN",
-    "asn": "7276"
-  },
-  {
-    "addresses": [
-      "216.145.160.0/19"
-    ],
-    "org_name": "University of Houston - Downtown",
-    "community": "LEARN",
-    "asn": "23030"
-  },
-  {
-    "addresses": [
+      "199.216.150.0/24",
       "74.200.187.128/31",
       "74.200.187.152/29"
     ],
@@ -2635,7 +2628,7 @@
     ],
     "org_name": "University of Texas at Dallas",
     "community": "LEARN",
-    "asn": "20162"
+    "asn": "16905"
   },
   {
     "addresses": [
