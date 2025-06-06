@@ -100,8 +100,7 @@
     },
     {
         "addresses": [
-            "140.198.0.0/12",
-            "140.198.240.0/20"
+            "140.198.0.0/12"
         ],
         "org_name": "Maricopa County Community College District",
         "asn": "26783",
