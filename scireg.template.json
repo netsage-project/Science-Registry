@@ -24,8 +24,6 @@
       "resource_name" : "TACC - Jetstream - Compute",
       // sample projects: ATLAS, CMS, FIONA, Environmental Molecular Sciences Lab (EMSL), etc (optional)
       "project_name" : null,
-      // community (eg: DOE, LEARN, FRGP, etc) (optional)
-      "community" : null,
       // email list to contact to see if information is current, avoid personal emails
       "contact_email" : null
 }
