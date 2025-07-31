@@ -1508,11 +1508,13 @@
         "project_name": "",
         "scireg_id": 100,
         "contact_email": "engage@es.net",
-        "last_updated": "unknown"
+        "last_updated": "unknown",
+        "scireg_id": 101
     },
     {
         "addresses": [
-            "192.148.247.0/24"
+            "192.148.247.0/24",
+            "192.148.240.0/28"
         ],
         "org_name": "Ohio Supercomputer Center (OSC)",
         "discipline": "Multi-Science Facility",
@@ -1522,6 +1524,19 @@
         "project_name": "",
         "contact_email": "unknown",
         "last_updated": "2024-10-09",
+        "scireg_id": 101
+    },
+    {
+        "addresses": [
+            "137.99.174.0/24"
+        ],
+        "org_name": "University of Connecticut (UConn)",
+        "discipline": "Multi-Science Facility",
+        "resource_name": "Uconn - Storrs HPC Facility - Compute",
+        "project_name": "",
+        "scireg_id": 102,
+        "contact_email": "unknown",
+        "last_updated": "unknown",
         "scireg_id": 101
     },
     {
@@ -1908,7 +1923,19 @@
     },
     {
         "addresses": [
-            "148.187.27.196/29"
+            "148.187.27.192/28"
+        ],
+        "org_name": "Ghent University (UGent)",
+        "discipline": "Multi-Science Facility",
+        "resource_name": "",
+        "project_name": "",
+        "scireg_id": 128,
+        "contact_email": "unknown",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "148.187.27.192/28"
         ],
         "org_name": "Swiss National Supercomputing Centre (CSCS)",
         "discipline": "Multi-Science Facility",
