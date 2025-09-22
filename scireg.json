@@ -2073,20 +2073,6 @@
     },
     {
         "addresses": [
-            "129.114.0.0/17"
-        ],
-        "org_name": "Texas Advanced Computing Center (TACC)",
-        "discipline": "Multi-Science Facility",
-        "latitude": "30.3897376",
-        "longitude": "-97.7261257",
-        "resource_name": "TACC - Other",
-        "project_name": "",
-        "scireg_id": 140,
-        "contact_email": "nmendoza@tacc.utexas.edu",
-        "last_updated": "11-07-2024"
-    },
-    {
-        "addresses": [
             "129.114.36.0/22"
         ],
         "org_name": "Texas Advanced Computing Center (TACC)",
@@ -2096,7 +2082,7 @@
         "resource_name": "TACC - Jetstream - Compute",
         "project_name": "ACCESS",
         "notes": "also need to update community-ACCESS.json file when updating address list",
-        "scireg_id": 141,
+        "scireg_id": 140,
         "contact_email": "nmendoza@tacc.utexas.edu",
         "last_updated": "11-07-2024"
     },
@@ -2111,7 +2097,7 @@
         "resource_name": "TACC - Cyclone - Compute",
         "project_name": "ACCESS",
         "notes": "also need to update community-ACCESS.json file when updating address list",
-        "scireg_id": 142,
+        "scireg_id": 141,
         "contact_email": "nmendoza@tacc.utexas.edu",
         "last_updated": "11-07-2024"
     },
@@ -2127,7 +2113,7 @@
         "longitude": "-97.7261257",
         "resource_name": "TACC - Chameleon - Compute",
         "project_name": "",
-        "scireg_id": 143,
+        "scireg_id": 142,
         "contact_email": "nmendoza@tacc.utexas.edu",
         "last_updated": "11-07-2024"
     },
@@ -2144,7 +2130,7 @@
         "longitude": "-97.7261257",
         "resource_name": "TACC - Frontera - Compute",
         "project_name": "",
-        "scireg_id": 144,
+        "scireg_id": 143,
         "contact_email": "nmendoza@tacc.utexas.edu",
         "last_updated": "11-07-2024"
     },
@@ -2162,7 +2148,7 @@
         "resource_name": "TACC - Stampede - Compute",
         "project_name": "ACCESS",
         "notes": "also need to update community-ACCESS.json file when updating address list",
-        "scireg_id": 145,
+        "scireg_id": 144,
         "contact_email": "nmendoza@tacc.utexas.edu",
         "last_updated": "11-07-2024"
     },
@@ -2177,7 +2163,7 @@
         "longitude": "-97.7261257",
         "resource_name": "TACC - Vista - Compute",
         "project_name": "",
-        "scireg_id": 146,
+        "scireg_id": 145,
         "contact_email": "nmendoza@tacc.utexas.edu",
         "last_updated": "11-07-2024"
     },
@@ -2195,7 +2181,7 @@
         "resource_name": "TACC - Corral - Storage",
         "project_name": "",
         "notes": "129.114.4.29 (login2.data.tacc.utexas.edu) is a head node for Corral",
-        "scireg_id": 147,
+        "scireg_id": 146,
         "contact_email": "nmendoza@tacc.utexas.edu",
         "last_updated": "11-07-2024"
     },
@@ -2210,7 +2196,7 @@
         "resource_name": "TACC - Ranch Data Archive - Storage",
         "project_name": "ACCESS",
         "notes": "also need to update community-ACCESS.json file when updating address list",
-        "scireg_id": 148,
+        "scireg_id": 147,
         "contact_email": "nmendoza@tacc.utexas.edu",
         "last_updated": "11-07-2024"
     },
@@ -2224,7 +2210,7 @@
         "longitude": "-97.7261257",
         "resource_name": "TACC - Galaxy Platform, Vertebrate Genomes Project (VGP) - Storage",
         "project_name": "Vertebrate Genomes Project (VGP)",
-        "scireg_id": 149,
+        "scireg_id": 148,
         "contact_email": "nmendoza@tacc.utexas.edu",
         "last_updated": "11-07-2024"
     },
@@ -2241,7 +2227,7 @@
         "longitude": "-97.7261257",
         "resource_name": "TACC - Lonestar - Compute",
         "project_name": "",
-        "scireg_id": 150,
+        "scireg_id": 149,
         "contact_email": "nmendoza@tacc.utexas.edu",
         "last_updated": "11-07-2024"
     },
@@ -2256,6 +2242,20 @@
         "latitude": "30.3897376",
         "longitude": "-97.7261257",
         "resource_name": "TACC - perfSONAR",
+        "project_name": "",
+        "scireg_id": 150,
+        "contact_email": "nmendoza@tacc.utexas.edu",
+        "last_updated": "11-07-2024"
+    },
+    {
+        "addresses": [
+            "129.114.0.0/17"
+        ],
+        "org_name": "Texas Advanced Computing Center (TACC)",
+        "discipline": "Multi-Science Facility",
+        "latitude": "30.3897376",
+        "longitude": "-97.7261257",
+        "resource_name": "TACC - Other",
         "project_name": "",
         "scireg_id": 151,
         "contact_email": "nmendoza@tacc.utexas.edu",
