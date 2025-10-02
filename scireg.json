@@ -15,46 +15,17 @@
     },
     {
         "addresses": [
-            "192.5.174.0/25"
+            "140.221.96.57/32"
         ],
         "org_name": "Argonne National Laboratory (ANL)",
-        "discipline": "MPS.DMR",
-        "latitude": "41.718400",
-        "longitude": "-87.978700",
-        "resource_name": "ANL - Advanced Photon Source (APS) - DTNs",
-        "project_name": "",
+        "discipline": "CS.Network Testing and Monitoring",
+        "latitude": "41.681500",
+        "longitude": "-87.970600",
+        "resource_name": "ANL - DTN for Data Mover Challenge - Data Transfer",
+        "project_name": "Data Mover Challenge",
         "scireg_id": 1,
         "contact_email": "engage@es.net",
         "last_updated": "unknown"
-    },
-    {
-        "addresses": [
-            "140.221.68.0/23",
-            "140.221.96.0/23"
-        ],
-        "org_name": "Argonne National Laboratory (ANL)",
-        "discipline": "Multi-Science Facility",
-        "latitude": "41.718400",
-        "longitude": "-87.978700",
-        "resource_name": "ANL - Argonne Leadership Computing Facility (ALCF) - Compute",
-        "project_name": "",
-        "scireg_id": 2,
-        "contact_email": "engage@es.net",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
-            "140.221.60.0/24"
-        ],
-        "org_name": "Argonne National Laboratory (ANL)",
-        "discipline": "Multi-Science Facility",
-        "latitude": "41.718400",
-        "longitude": "-87.978700",
-        "resource_name": "ANL - Argonne Laboratory Computing Resource Center (LCRC) - Compute",
-        "project_name": "",
-        "scireg_id": 3,
-        "contact_email": "engage@es.net",
-        "last_updated": "9/16/2024"
     },
     {
         "addresses": [
@@ -66,7 +37,21 @@
         "longitude": "-87.978700",
         "resource_name": "ANL - Polaris - Compute",
         "project_name": "",
-        "scireg_id": 4,
+        "scireg_id": 2,
+        "contact_email": "engage@es.net",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "192.5.174.0/25"
+        ],
+        "org_name": "Argonne National Laboratory (ANL)",
+        "discipline": "MPS.DMR",
+        "latitude": "41.718400",
+        "longitude": "-87.978700",
+        "resource_name": "ANL - Advanced Photon Source (APS) - DTNs",
+        "project_name": "",
+        "scireg_id": 3,
         "contact_email": "engage@es.net",
         "last_updated": "unknown"
     },
@@ -80,7 +65,36 @@
         "longitude": "-87.970600",
         "resource_name": "ANL - Argonne Tandem Linac Accelerator System (ATLAS)",
         "project_name": "",
+        "scireg_id": 4,
+        "contact_email": "engage@es.net",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "140.221.60.0/24"
+        ],
+        "org_name": "Argonne National Laboratory (ANL)",
+        "discipline": "Multi-Science Facility",
+        "latitude": "41.718400",
+        "longitude": "-87.978700",
+        "resource_name": "ANL - Argonne Laboratory Computing Resource Center (LCRC) - Compute",
+        "project_name": "",
         "scireg_id": 5,
+        "contact_email": "engage@es.net",
+        "last_updated": "9/16/2024"
+    },
+    {
+        "addresses": [
+            "140.221.68.0/23",
+            "140.221.96.0/23"
+        ],
+        "org_name": "Argonne National Laboratory (ANL)",
+        "discipline": "Multi-Science Facility",
+        "latitude": "41.718400",
+        "longitude": "-87.978700",
+        "resource_name": "ANL - Argonne Leadership Computing Facility (ALCF) - Compute",
+        "project_name": "",
+        "scireg_id": 6,
         "contact_email": "engage@es.net",
         "last_updated": "unknown"
     },
@@ -103,7 +117,7 @@
         "longitude": "-87.970600",
         "resource_name": "ANL - Center for Nanoscale Materials (CNM)",
         "project_name": "",
-        "scireg_id": 6,
+        "scireg_id": 7,
         "contact_email": "engage@es.net",
         "last_updated": "unknown"
     },
@@ -117,20 +131,6 @@
         "longitude": "-87.970600",
         "resource_name": "ANL - Advanced Photon Source (APS)",
         "project_name": "",
-        "scireg_id": 7,
-        "contact_email": "engage@es.net",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
-            "140.221.96.57/32"
-        ],
-        "org_name": "Argonne National Laboratory (ANL)",
-        "discipline": "CS.Network Testing and Monitoring",
-        "latitude": "41.681500",
-        "longitude": "-87.970600",
-        "resource_name": "ANL - DTN for Data Mover Challenge - Data Transfer",
-        "project_name": "Data Mover Challenge",
         "scireg_id": 8,
         "contact_email": "engage@es.net",
         "last_updated": "unknown"
@@ -198,20 +198,6 @@
     },
     {
         "addresses": [
-            "130.199.224.0/23"
-        ],
-        "org_name": "Brookhaven National Laboratory (BNL)",
-        "discipline": "MPS.Physics",
-        "latitude": "40.869500",
-        "longitude": "-72.886800",
-        "resource_name": "BNL - Accelerator Test Facility (ATF)",
-        "project_name": "",
-        "scireg_id": 13,
-        "contact_email": "engage@es.net",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
             "130.199.242.0/24",
             "130.199.243.0/24",
             "130.199.119.0/25"
@@ -222,7 +208,7 @@
         "longitude": "-72.886800",
         "resource_name": "BNL - Center for Functional Nanomaterials (CFN)",
         "project_name": "",
-        "scireg_id": 14,
+        "scireg_id": 13,
         "contact_email": "engage@es.net",
         "last_updated": "unknown"
     },
@@ -240,6 +226,20 @@
         "latitude": "40.869500",
         "longitude": "-72.886800",
         "resource_name": "BNL - National Synchrotron Light Source II (NSLS-II)",
+        "project_name": "",
+        "scireg_id": 14,
+        "contact_email": "engage@es.net",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "130.199.224.0/23"
+        ],
+        "org_name": "Brookhaven National Laboratory (BNL)",
+        "discipline": "MPS.Physics",
+        "latitude": "40.869500",
+        "longitude": "-72.886800",
+        "resource_name": "BNL - Accelerator Test Facility (ATF)",
         "project_name": "",
         "scireg_id": 15,
         "contact_email": "engage@es.net",
@@ -265,11 +265,11 @@
     },
     {
         "addresses": [
-            "132.219.138.0/24"
+            "132.219.136.0/24"
         ],
         "org_name": "Calcul Qu\u00e9bec",
         "discipline": "Multi-Science Facility",
-        "resource_name": "Calcul Qu\u00e9bec - Narval - Compute",
+        "resource_name": "Calcul Qu\u00e9bec - Beluga - Compute",
         "project_name": "",
         "scireg_id": 17,
         "contact_email": "unknown",
@@ -277,11 +277,11 @@
     },
     {
         "addresses": [
-            "132.219.136.0/24"
+            "132.219.138.0/24"
         ],
         "org_name": "Calcul Qu\u00e9bec",
         "discipline": "Multi-Science Facility",
-        "resource_name": "Calcul Qu\u00e9bec - Beluga - Compute",
+        "resource_name": "Calcul Qu\u00e9bec - Narval - Compute",
         "project_name": "",
         "scireg_id": 18,
         "contact_email": "unknown",
@@ -289,15 +289,28 @@
     },
     {
         "addresses": [
-            "134.4.54.0/24"
+            "192.84.86.208/29"
         ],
         "org_name": "California Institute of Technology (Caltech)",
         "discipline": "MPS.Astronomy",
+        "latitude": "38.052900",
+        "longitude": "-78.535400",
+        "resource_name": "Caltech - IPAC - Compute/Storage",
+        "scireg_id": 19,
+        "contact_email": "unknown",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "192.84.86.128/27"
+        ],
+        "org_name": "California Institute of Technology (Caltech)",
+        "discipline": "MPS.Physics",
         "latitude": "33.786600",
         "longitude": "-118.298700",
-        "resource_name": "Caltech - Infrared Science Archive (IRSA) - Storage",
+        "resource_name": "Caltech - LIGO",
         "project_name": "",
-        "scireg_id": 19,
+        "scireg_id": 20,
         "contact_email": "unknown",
         "last_updated": "unknown"
     },
@@ -311,32 +324,19 @@
         "longitude": "-118.298700",
         "resource_name": "Caltech - IPAC",
         "project_name": "",
-        "scireg_id": 20,
-        "contact_email": "unknown",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
-            "192.84.86.208/29"
-        ],
-        "org_name": "California Institute of Technology (Caltech)",
-        "latitude": "33.786600",
-        "longitude": "-118.298700",
-        "resource_name": "Caltech - Pacific Research Platform (PRP) - Storage",
-        "project_name": "",
         "scireg_id": 21,
         "contact_email": "unknown",
         "last_updated": "unknown"
     },
     {
         "addresses": [
-            "192.84.86.128/27"
+            "134.4.54.0/24"
         ],
         "org_name": "California Institute of Technology (Caltech)",
-        "discipline": "MPS.Physics",
+        "discipline": "MPS.Astronomy",
         "latitude": "33.786600",
         "longitude": "-118.298700",
-        "resource_name": "Caltech - LIGO",
+        "resource_name": "Caltech - Infrared Science Archive (IRSA) - Storage",
         "project_name": "",
         "scireg_id": 22,
         "contact_email": "unknown",
@@ -803,23 +803,6 @@
     },
     {
         "addresses": [
-            "149.165.168.0/21",
-            "149.165.152.0/22",
-            "149.165.159.0/24"
-        ],
-        "org_name": "Indiana University (IU)",
-        "discipline": "Multi-Science Facility",
-        "latitude": "39.16896",
-        "longitude": "-86.508815",
-        "resource_name": "IU - Jetstream - Compute",
-        "project_name": "ACCESS",
-        "notes": "also need to update community-ACCESS.json file when updating address list",
-        "scireg_id": 55,
-        "contact_email": "unknown",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
             "149.165.238.0/27"
         ],
         "org_name": "Indiana University (IU)",
@@ -828,7 +811,7 @@
         "longitude": "-86.508815",
         "resource_name": "IU - Big Red 200 - Compute",
         "project_name": "",
-        "scireg_id": 56,
+        "scireg_id": 55,
         "contact_email": "unknown",
         "last_updated": "unknown"
     },
@@ -842,6 +825,23 @@
         "longitude": "-86.508815",
         "resource_name": "IU - Quartz - Compute",
         "project_name": "",
+        "scireg_id": 56,
+        "contact_email": "unknown",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "149.165.168.0/21",
+            "149.165.152.0/22",
+            "149.165.159.0/24"
+        ],
+        "org_name": "Indiana University (IU)",
+        "discipline": "Multi-Science Facility",
+        "latitude": "39.16896",
+        "longitude": "-86.508815",
+        "resource_name": "IU - Jetstream - Compute",
+        "project_name": "ACCESS",
+        "notes": "also need to update community-ACCESS.json file when updating address list",
         "scireg_id": 57,
         "contact_email": "unknown",
         "last_updated": "unknown"
@@ -920,21 +920,6 @@
     },
     {
         "addresses": [
-            "131.243.180.0/22",
-            "131.243.3.0/24"
-        ],
-        "org_name": "Lawrence Berkeley National Laboratory (LBL)",
-        "discipline": "Multi-Science Facility",
-        "latitude": "37.866800",
-        "longitude": "-122.253600",
-        "resource_name": "LBL - The Molecular Foundary (TMF)",
-        "project_name": "",
-        "scireg_id": 63,
-        "contact_email": "engage@es.net",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
             "131.243.188.0/22",
             "131.243.196.0/22",
             "131.243.202.0/23",
@@ -973,14 +958,28 @@
         "longitude": "-122.253600",
         "resource_name": "LBL - Advanced Light Source (ALS)",
         "project_name": "",
+        "scireg_id": 63,
+        "contact_email": "engage@es.net",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "131.243.180.0/22",
+            "131.243.3.0/24"
+        ],
+        "org_name": "Lawrence Berkeley National Laboratory (LBL)",
+        "discipline": "Multi-Science Facility",
+        "latitude": "37.866800",
+        "longitude": "-122.253600",
+        "resource_name": "LBL - The Molecular Foundary (TMF)",
+        "project_name": "",
         "scireg_id": 64,
         "contact_email": "engage@es.net",
         "last_updated": "unknown"
     },
     {
         "addresses": [
-            "192.12.135.64/28",
-            "192.12.135.194/32"
+            "192.12.135.70/32"
         ],
         "org_name": "Lawrence Livermore National Laboratory (LLNL)",
         "discipline": "GEO.Climate",
@@ -994,7 +993,8 @@
     },
     {
         "addresses": [
-            "192.12.135.70/32"
+            "192.12.135.64/28",
+            "192.12.135.194/32"
         ],
         "org_name": "Lawrence Livermore National Laboratory (LLNL)",
         "discipline": "GEO.Climate",
@@ -1082,14 +1082,14 @@
     },
     {
         "addresses": [
-            "198.116.24.0/24"
+            "129.99.230.0/24"
         ],
         "org_name": "National Aeronautics and Space Administration (NASA)",
         "discipline": "MPS.Astronomy",
-        "latitude": "34.730400",
-        "longitude": "-86.580000",
-        "resource_name": "NASA - International VLBI Service - Storage",
-        "project_name": "International VLBI Service (IVS)",
+        "resource_name": "NASA - Advanced Supercomputing Division (NAS) - Compute",
+        "latitude": "37.4153",
+        "longitude": "-122.0628",
+        "notes": "located at NASA\u2019s Ames Research Center",
         "scireg_id": 73,
         "contact_email": "unknown",
         "last_updated": "unknown"
@@ -1110,14 +1110,14 @@
     },
     {
         "addresses": [
-            "129.99.230.0/24"
+            "198.116.24.0/24"
         ],
         "org_name": "National Aeronautics and Space Administration (NASA)",
         "discipline": "MPS.Astronomy",
-        "resource_name": "NASA - Advanced Supercomputing Division (NAS) - Compute",
-        "latitude": "37.4153",
-        "longitude": "-122.0628",
-        "notes": "located at NASA\u2019s Ames Research Center",
+        "latitude": "34.730400",
+        "longitude": "-86.580000",
+        "resource_name": "NASA - International VLBI Service - Storage",
+        "project_name": "International VLBI Service (IVS)",
         "scireg_id": 75,
         "contact_email": "unknown",
         "last_updated": "unknown"
@@ -1138,6 +1138,20 @@
     },
     {
         "addresses": [
+            "133.40.7.142/32"
+        ],
+        "org_name": "National Astronomical Observatory of Japan (NAOJ)",
+        "discipline": "MPS.Astronomy",
+        "latitude": "35.690600",
+        "longitude": "139.770000",
+        "resouce_name": "",
+        "project_name": "",
+        "scireg_id": 77,
+        "contact_email": "unknown",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
             "128.171.204.0/24",
             "128.171.203.0/24"
         ],
@@ -1147,64 +1161,7 @@
         "longitude": "-155.090400",
         "resource_name": "NAOJ - Subaru Telescope - Storage",
         "project_name": "Subaru Telescope",
-        "scireg_id": 77,
-        "contact_email": "unknown",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
-            "133.40.7.142/32"
-        ],
-        "org_name": "National Astronomical Observatory of Japan (NAOJ)",
-        "discipline": "MPS.Astronomy",
-        "latitude": "35.690600",
-        "longitude": "139.770000",
-        "resouce_name": "",
-        "project_name": "",
         "scireg_id": 78,
-        "contact_email": "unknown",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
-            "128.171.190.0/24"
-        ],
-        "org_name": "National Center for Atmospheric Research (NCAR)",
-        "discipline": "MPS.Astronomy",
-        "latitude": "19.534500",
-        "longitude": "-155.576000",
-        "resource_name": "NCAR - HAO - Mauna Loa Solar Observatory (MLSO) - Storage",
-        "project_name": "Mauna Loa Solar Observatory (MLSO)",
-        "scireg_id": 79,
-        "contact_email": "unknown",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
-            "128.117.0.0/16"
-        ],
-        "org_name": "National Center for Atmospheric Research (NCAR)",
-        "discipline": "GEO.Atmospheric",
-        "latitude": "40.031080",
-        "longitude": "-105.245940",
-        "resource_name": "",
-        "project_name": "",
-        "scireg_id": 80,
-        "contact_email": "unknown",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
-            "128.117.211.0/24"
-        ],
-        "org_name": "National Center for Atmospheric Research (NCAR)",
-        "discipline": "Multi-Science Facility",
-        "latitude": "41.1339",
-        "longitude": "-104.9011",
-        "resource_name": "NCAR - Derecho - Compute",
-        "project_name": "ACCESS",
-        "notes": "also need to update community-ACCESS.json file when updating address list",
-        "scireg_id": 81,
         "contact_email": "unknown",
         "last_updated": "unknown"
     },
@@ -1219,6 +1176,49 @@
         "resource_name": "NCAR - Glade - Storage",
         "project_name": "ACCESS",
         "notes": "also need to update community-ACCESS.json file when updating address list",
+        "scireg_id": 79,
+        "contact_email": "unknown",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "128.117.211.0/24"
+        ],
+        "org_name": "National Center for Atmospheric Research (NCAR)",
+        "discipline": "Multi-Science Facility",
+        "latitude": "41.1339",
+        "longitude": "-104.9011",
+        "resource_name": "NCAR - Derecho - Compute",
+        "project_name": "ACCESS",
+        "notes": "also need to update community-ACCESS.json file when updating address list",
+        "scireg_id": 80,
+        "contact_email": "unknown",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "128.171.190.0/24"
+        ],
+        "org_name": "National Center for Atmospheric Research (NCAR)",
+        "discipline": "MPS.Astronomy",
+        "latitude": "19.534500",
+        "longitude": "-155.576000",
+        "resource_name": "NCAR - HAO - Mauna Loa Solar Observatory (MLSO) - Storage",
+        "project_name": "Mauna Loa Solar Observatory (MLSO)",
+        "scireg_id": 81,
+        "contact_email": "unknown",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "128.117.0.0/16"
+        ],
+        "org_name": "National Center for Atmospheric Research (NCAR)",
+        "discipline": "GEO.Atmospheric",
+        "latitude": "40.031080",
+        "longitude": "-105.245940",
+        "resource_name": "",
+        "project_name": "",
         "scireg_id": 82,
         "contact_email": "unknown",
         "last_updated": "unknown"
@@ -1241,14 +1241,16 @@
     },
     {
         "addresses": [
-            "141.142.0.0/16"
+            "141.142.224.0/24",
+            "2620:0:c80:1200::/64"
         ],
         "org_name": "National Center for Supercomputing Applications (NCSA)",
         "discipline": "Multi-Science Facility",
         "latitude": "40.1148751",
         "longitude": " -88.2248764",
-        "resource_name": "",
-        "project_name": "",
+        "resource_name": "NCSA - Taiga/Granite - Storage",
+        "project_name": "ACCESS",
+        "notes": "also need to update community-ACCESS.json file when updating address list",
         "scireg_id": 84,
         "contact_email": "unknown",
         "last_updated": "unknown"
@@ -1289,18 +1291,30 @@
     },
     {
         "addresses": [
-            "141.142.224.0/24",
-            "2620:0:c80:1200::/64"
+            "141.142.0.0/16"
         ],
         "org_name": "National Center for Supercomputing Applications (NCSA)",
         "discipline": "Multi-Science Facility",
         "latitude": "40.1148751",
         "longitude": " -88.2248764",
-        "resource_name": "NCSA - Taiga/Granite - Storage",
-        "project_name": "ACCESS",
-        "notes": "also need to update community-ACCESS.json file when updating address list",
+        "resource_name": "",
+        "project_name": "",
         "scireg_id": 87,
         "contact_email": "unknown",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "128.55.205.0/24"
+        ],
+        "org_name": "National Energy Research Scientific Computing Center (NERSC)",
+        "discipline": "Multi-Science Facility",
+        "latitude": "37.866800",
+        "longitude": "-122.253600",
+        "resource_name": "NERSC - Data Transfer Nodes - Storage",
+        "project_name": "",
+        "scireg_id": 88,
+        "contact_email": "engage@es.net",
         "last_updated": "unknown"
     },
     {
@@ -1317,20 +1331,6 @@
         "latitude": "37.866800",
         "longitude": "-122.253600",
         "resource_name": "National Energy Research Scientific Computing Center (NERSC) - Compute",
-        "project_name": "",
-        "scireg_id": 88,
-        "contact_email": "engage@es.net",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
-            "128.55.205.0/24"
-        ],
-        "org_name": "National Energy Research Scientific Computing Center (NERSC)",
-        "discipline": "Multi-Science Facility",
-        "latitude": "37.866800",
-        "longitude": "-122.253600",
-        "resource_name": "NERSC - Data Transfer Nodes - Storage",
         "project_name": "",
         "scireg_id": 89,
         "contact_email": "engage@es.net",
@@ -1421,14 +1421,15 @@
     },
     {
         "addresses": [
-            "192.33.115.0/24"
+            "128.171.130.0/24",
+            "128.171.131.0/24"
         ],
         "org_name": "National Radio Astronomy Observatory (NRAO)",
         "discipline": "MPS.Astronomy",
-        "latitude": "38.054000",
-        "longitude": "-78.535400",
-        "resource_name": "NRAO Technology Center at UVA - Storage",
-        "project_name": "",
+        "latitude": "34.070000",
+        "longitude": "-106.907300",
+        "resource_name": "NRAO - Very Large Baseline Array (VLBA) at Mauna Kea - Storage",
+        "project_name": "VLBA",
         "scireg_id": 96,
         "contact_email": "unknown",
         "last_updated": "unknown"
@@ -1449,15 +1450,14 @@
     },
     {
         "addresses": [
-            "128.171.130.0/24",
-            "128.171.131.0/24"
+            "192.33.115.0/24"
         ],
         "org_name": "National Radio Astronomy Observatory (NRAO)",
         "discipline": "MPS.Astronomy",
-        "latitude": "34.070000",
-        "longitude": "-106.907300",
-        "resource_name": "NRAO - Very Large Baseline Array (VLBA) at Mauna Kea - Storage",
-        "project_name": "VLBA",
+        "latitude": "38.054000",
+        "longitude": "-78.535400",
+        "resource_name": "NRAO Technology Center at UVA - Storage",
+        "project_name": "",
         "scireg_id": 98,
         "contact_email": "unknown",
         "last_updated": "unknown"
@@ -1524,16 +1524,14 @@
     },
     {
         "addresses": [
-            "128.219.128.0/20",
-            "160.91.192.0/20",
-            "192.188.178.0/23",
-            "192.12.68.0/24"
+            "160.91.144.0/22",
+            "160.91.148.0/24"
         ],
         "org_name": "Oak Ridge National Laboratory (ORNL)",
-        "discipline": "Multi-Science Facility",
-        "latitude": "36.021000",
-        "longitude": "-84.252700",
-        "resource_name": "ORNL - Oak Ridge Leadership Computing Facility (OLCF)",
+        "discipline": "MPS.Physics.High Energy",
+        "latitude": "35.972400",
+        "longitude": "-84.290400",
+        "resource_name": "ORNL - High Flux Isotope Reactor (HFIR)",
         "project_name": "",
         "scireg_id": 103,
         "contact_email": "engage@es.net",
@@ -1558,14 +1556,16 @@
     },
     {
         "addresses": [
-            "160.91.144.0/22",
-            "160.91.148.0/24"
+            "128.219.128.0/20",
+            "160.91.192.0/20",
+            "192.188.178.0/23",
+            "192.12.68.0/24"
         ],
         "org_name": "Oak Ridge National Laboratory (ORNL)",
-        "discipline": "MPS.Physics.High Energy",
-        "latitude": "35.972400",
-        "longitude": "-84.290400",
-        "resource_name": "ORNL - High Flux Isotope Reactor (HFIR)",
+        "discipline": "Multi-Science Facility",
+        "latitude": "36.021000",
+        "longitude": "-84.252700",
+        "resource_name": "ORNL - Oak Ridge Leadership Computing Facility (OLCF)",
         "project_name": "",
         "scireg_id": 105,
         "contact_email": "engage@es.net",
@@ -1616,21 +1616,6 @@
     },
     {
         "addresses": [
-            "128.182.81.0/25"
-        ],
-        "org_name": "Pittsburgh Supercomputing Center (PSC)",
-        "discipline": "Multi-Science Facility",
-        "latitude": "40.4456",
-        "longitude": "-79.9490",
-        "resource_name": "PSC - Bridges-2 - Compute",
-        "project_name": "ACCESS",
-        "notes": "also need to update community-ACCESS.json file when updating address list",
-        "scireg_id": 109,
-        "contact_email": "benninge@psc.edu",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
             "192.231.243.26/32",
             "192.231.243.27/32",
             "192.231.243.28/32"
@@ -1640,6 +1625,21 @@
         "latitude": "40.4456",
         "longitude": "-79.9490",
         "resource_name": "PSC - Bridges-2 - DTN",
+        "project_name": "ACCESS",
+        "notes": "also need to update community-ACCESS.json file when updating address list",
+        "scireg_id": 109,
+        "contact_email": "benninge@psc.edu",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "128.182.81.0/25"
+        ],
+        "org_name": "Pittsburgh Supercomputing Center (PSC)",
+        "discipline": "Multi-Science Facility",
+        "latitude": "40.4456",
+        "longitude": "-79.9490",
+        "resource_name": "PSC - Bridges-2 - Compute",
         "project_name": "ACCESS",
         "notes": "also need to update community-ACCESS.json file when updating address list",
         "scireg_id": 110,
@@ -1719,20 +1719,6 @@
     },
     {
         "addresses": [
-            "128.211.128.0/19"
-        ],
-        "org_name": "Purdue University",
-        "discipline": "MPS.Physics.High Energy",
-        "latitude": "40.423000",
-        "longitude": "-86.923400",
-        "resource_name": "Purdue CMS Tier-2",
-        "project_name": "CMS",
-        "scireg_id": 116,
-        "contact_email": "unknown",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
             "128.211.133.128/26"
         ],
         "org_name": "Purdue University",
@@ -1742,7 +1728,32 @@
         "resource_name": "Purdue - Anvil - Compute",
         "project_name": "ACCESS",
         "notes": "also need to update community-ACCESS.json file when updating address list",
+        "scireg_id": 116,
+        "contact_email": "unknown",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "128.211.128.0/19"
+        ],
+        "org_name": "Purdue University",
+        "discipline": "MPS.Physics.High Energy",
+        "latitude": "40.423000",
+        "longitude": "-86.923400",
+        "resource_name": "Purdue CMS Tier-2",
+        "project_name": "CMS",
         "scireg_id": 117,
+        "contact_email": "unknown",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "129.21.16.192/26"
+        ],
+        "org_name": "Rochester Institute of Technology (RIT)",
+        "discipline": "Multi-Science Facility",
+        "resource_name": "RIT - Center for Computational Relativity and Gravitation Rochester - Compute",
+        "scireg_id": 118,
         "contact_email": "unknown",
         "last_updated": "unknown"
     },
@@ -1756,17 +1767,6 @@
         "longitude": "-77.6715",
         "resource_name": "RIT - SPORC Cluster - Compute",
         "project_name": "",
-        "scireg_id": 118,
-        "contact_email": "unknown",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
-            "129.21.16.192/26"
-        ],
-        "org_name": "Rochester Institute of Technology (RIT)",
-        "discipline": "Multi-Science Facility",
-        "resource_name": "RIT - Center for Computational Relativity and Gravitation Rochester - Compute",
         "scireg_id": 119,
         "contact_email": "unknown",
         "last_updated": "unknown"
@@ -1784,6 +1784,84 @@
         "scireg_id": 120,
         "contact_email": "jsheehan@salk.edu",
         "last_updated": "12-22-2024"
+    },
+    {
+        "addresses": [
+            "192.67.81.133/32",
+            "192.67.81.134/32",
+            "192.67.81.135/32",
+            "192.67.81.136/32",
+            "192.67.81.137/32",
+            "192.67.81.140/32"
+        ],
+        "org_name": "San Diego Supercomputer Center (SDSC)",
+        "discipline": "Multi-Science Facility",
+        "latitude": "32.9035128",
+        "longitude": "-117.2444005",
+        "resource_name": "SDSC - Data Oasis - Storage",
+        "project_name": "",
+        "scireg_id": 121,
+        "contact_email": "noc@sdsc.edu",
+        "last_updated": "1-27-2025"
+    },
+    {
+        "addresses": [
+            "192.67.81.200/29"
+        ],
+        "org_name": "San Diego Supercomputer Center (SDSC)",
+        "discipline": "Multi-Science Facility",
+        "latitude": "32.9035128",
+        "longitude": "-117.2444005",
+        "resource_name": "SDSC - DTNs - Storage",
+        "project_name": "ACCESS",
+        "notes": "also need to update community-ACCESS.json file when updating address list",
+        "scireg_id": 122,
+        "contact_email": "noc@sdsc.edu",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "198.202.106.0/25"
+        ],
+        "org_name": "San Diego Supercomputer Center (SDSC)",
+        "discipline": "Multi-Science Facility",
+        "latitude": "32.9035128",
+        "longitude": "-117.2444005",
+        "resource_name": "SDSC - Voyager - Compute",
+        "project_name": "ACCESS",
+        "notes": "also need to update community-ACCESS.json file when updating address list",
+        "scireg_id": 123,
+        "contact_email": "noc@sdsc.edu",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "132.249.106.0/23"
+        ],
+        "org_name": "San Diego Supercomputer Center (SDSC)",
+        "discipline": "Multi-Science Facility",
+        "latitude": "32.9035128",
+        "longitude": "-117.2444005",
+        "resource_name": "SDSC - Triton Shared Computing Cluster (TSCC) - Compute",
+        "project_name": "",
+        "scireg_id": 124,
+        "contact_email": "noc@sdsc.edu",
+        "last_updated": "1-27-2025"
+    },
+    {
+        "addresses": [
+            "198.202.100.0/22"
+        ],
+        "org_name": "San Diego Supercomputer Center (SDSC)",
+        "discipline": "Multi-Science Facility",
+        "latitude": "32.9035128",
+        "longitude": "-117.2444005",
+        "resource_name": "SDSC - Expanse - Compute",
+        "project_name": "ACCESS",
+        "notes": "also need to update community-ACCESS.json file when updating address list",
+        "scireg_id": 125,
+        "contact_email": "noc@sdsc.edu",
+        "last_updated": "unknown"
     },
     {
         "addresses": [
@@ -1805,87 +1883,9 @@
         "longitude": "-117.2444005",
         "resource_name": "",
         "project_name": "",
-        "scireg_id": 121,
-        "contact_email": "noc@sdsc.edu",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
-            "198.202.106.0/25"
-        ],
-        "org_name": "San Diego Supercomputer Center (SDSC)",
-        "discipline": "Multi-Science Facility",
-        "latitude": "32.9035128",
-        "longitude": "-117.2444005",
-        "resource_name": "SDSC - Voyager - Compute",
-        "project_name": "ACCESS",
-        "notes": "also need to update community-ACCESS.json file when updating address list",
-        "scireg_id": 122,
-        "contact_email": "noc@sdsc.edu",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
-            "192.67.81.200/29"
-        ],
-        "org_name": "San Diego Supercomputer Center (SDSC)",
-        "discipline": "Multi-Science Facility",
-        "latitude": "32.9035128",
-        "longitude": "-117.2444005",
-        "resource_name": "SDSC - DTNs - Storage",
-        "project_name": "ACCESS",
-        "notes": "also need to update community-ACCESS.json file when updating address list",
-        "scireg_id": 123,
-        "contact_email": "noc@sdsc.edu",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
-            "198.202.100.0/22"
-        ],
-        "org_name": "San Diego Supercomputer Center (SDSC)",
-        "discipline": "Multi-Science Facility",
-        "latitude": "32.9035128",
-        "longitude": "-117.2444005",
-        "resource_name": "SDSC - Expanse - Compute",
-        "project_name": "ACCESS",
-        "notes": "also need to update community-ACCESS.json file when updating address list",
-        "scireg_id": 124,
-        "contact_email": "noc@sdsc.edu",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
-            "132.249.106.0/23"
-        ],
-        "org_name": "San Diego Supercomputer Center (SDSC)",
-        "discipline": "Multi-Science Facility",
-        "latitude": "32.9035128",
-        "longitude": "-117.2444005",
-        "resource_name": "SDSC - Triton Shared Computing Cluster (TSCC) - Compute",
-        "project_name": "",
-        "scireg_id": 125,
-        "contact_email": "noc@sdsc.edu",
-        "last_updated": "1-27-2025"
-    },
-    {
-        "addresses": [
-            "192.67.81.133/32",
-            "192.67.81.134/32",
-            "192.67.81.135/32",
-            "192.67.81.136/32",
-            "192.67.81.137/32",
-            "192.67.81.140/32"
-        ],
-        "org_name": "San Diego Supercomputer Center (SDSC)",
-        "discipline": "Multi-Science Facility",
-        "latitude": "32.9035128",
-        "longitude": "-117.2444005",
-        "resource_name": "SDSC - Data Oasis - Storage",
-        "project_name": "",
         "scireg_id": 126,
         "contact_email": "noc@sdsc.edu",
-        "last_updated": "1-27-2025"
+        "last_updated": "unknown"
     },
     {
         "addresses": [
@@ -1984,6 +1984,18 @@
     },
     {
         "addresses": [
+            "148.187.27.192/29"
+        ],
+        "org_name": "Swiss National Supercomputing Centre (CSCS)",
+        "discipline": "Multi-Science Facility",
+        "resource_name": "CSCS - Swiss National Supercomputing Centre - DTNs",
+        "project_name": "",
+        "scireg_id": 134,
+        "contact_email": "unknown",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
             "148.187.27.192/28"
         ],
         "org_name": "Swiss National Supercomputing Centre (CSCS)",
@@ -1992,32 +2004,21 @@
         "longitude": "9.5337",
         "resource_name": "CSCS - DTNs",
         "project_name": "",
-        "scireg_id": 134,
-        "contact_email": "unknown",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
-            "148.187.27.192/29"
-        ],
-        "org_name": "Swiss National Supercomputing Centre (CSCS)",
-        "discipline": "Multi-Science Facility",
-        "resource_name": "CSCS - Swiss National Supercomputing Centre - DTNs",
-        "project_name": "",
         "scireg_id": 135,
         "contact_email": "unknown",
         "last_updated": "unknown"
     },
     {
         "addresses": [
-            "128.194.35.0/24"
+            "128.194.37.64/28"
         ],
         "org_name": "Texas A&M University (TAMU)",
         "discipline": "Multi-Science Facility",
         "latitude": "30.6159",
         "longitude": "-96.3415",
-        "resource_name": "TAMU - High Performance Research Computing - Compute",
-        "project_name": "",
+        "resource_name": "TAMU - Launch - Compute and DTN",
+        "project_name": "ACCESS",
+        "notes": "also need to update community-ACCESS.json file when updating address list",
         "scireg_id": 136,
         "contact_email": "unknown",
         "last_updated": "unknown"
@@ -2039,48 +2040,31 @@
     },
     {
         "addresses": [
-            "128.194.37.64/28"
+            "128.194.35.0/24"
         ],
         "org_name": "Texas A&M University (TAMU)",
         "discipline": "Multi-Science Facility",
         "latitude": "30.6159",
         "longitude": "-96.3415",
-        "resource_name": "TAMU - Launch - Compute and DTN",
-        "project_name": "ACCESS",
-        "notes": "also need to update community-ACCESS.json file when updating address list",
+        "resource_name": "TAMU - High Performance Research Computing - Compute",
+        "project_name": "",
         "scireg_id": 138,
         "contact_email": "unknown",
         "last_updated": "unknown"
     },
     {
         "addresses": [
-            "129.114.110.64/26",
-            "129.114.99.3/24",
-            "2605:2800:2011:200::/56"
+            "129.114.4.81/32"
         ],
         "org_name": "Texas Advanced Computing Center (TACC)",
         "discipline": "Multi-Science Facility",
         "latitude": "30.3897376",
         "longitude": "-97.7261257",
-        "resource_name": "TACC - FABRIC - Compute/Storage",
-        "project_name": "",
+        "resource_name": "TACC - Galaxy Platform, Vertebrate Genomes Project (VGP) - Storage",
+        "project_name": "Vertebrate Genomes Project (VGP)",
         "scireg_id": 139,
         "contact_email": "nmendoza@tacc.utexas.edu",
-        "last_updated": "06-07-2025"
-    },
-    {
-        "addresses": [
-            "129.114.55.0/26"
-        ],
-        "org_name": "Texas Advanced Computing Center (TACC)",
-        "discipline": "Multi-Science Facility",
-        "latitude": "30.3897376",
-        "longitude": "-97.7261257",
-        "resource_name": "TACC - Galaxy Project Resources - Storage",
-        "project_name": "",
-        "scireg_id": 140,
-        "contact_email": "nmendoza@tacc.utexas.edu",
-        "last_updated": "06-07-2025"
+        "last_updated": "11-07-2024"
     },
     {
         "addresses": [
@@ -2092,36 +2076,70 @@
         "longitude": "-97.7261257",
         "resource_name": "TACC - Protected Data Service - Storage",
         "project_name": "",
+        "scireg_id": 140,
+        "contact_email": "nmendoza@tacc.utexas.edu",
+        "last_updated": "06-07-2025"
+    },
+    {
+        "addresses": [
+            "129.114.0.202/32",
+            "129.114.0.209/32",
+            "129.114.0.210/32"
+        ],
+        "org_name": "Texas Advanced Computing Center (TACC)",
+        "discipline": "Multi-Science Facility",
+        "latitude": "30.3897376",
+        "longitude": "-97.7261257",
+        "resource_name": "TACC - perfSONAR",
+        "project_name": "",
         "scireg_id": 141,
         "contact_email": "nmendoza@tacc.utexas.edu",
-        "last_updated": "06-07-2025"
+        "last_updated": "11-07-2024"
     },
     {
         "addresses": [
-            "129.114.53.0/24"
+            "129.114.62.96/27"
         ],
         "org_name": "Texas Advanced Computing Center (TACC)",
         "discipline": "Multi-Science Facility",
         "latitude": "30.3897376",
         "longitude": "-97.7261257",
-        "resource_name": "TACC - SambaNova - Compute",
-        "project_name": "",
+        "resource_name": "TACC - Ranch Data Archive - Storage",
+        "project_name": "ACCESS",
+        "notes": "also need to update community-ACCESS.json file when updating address list",
         "scireg_id": 142,
+        "contact_email": "nmendoza@tacc.utexas.edu",
+        "last_updated": "11-07-2024"
+    },
+    {
+        "addresses": [
+            "129.114.55.0/26"
+        ],
+        "org_name": "Texas Advanced Computing Center (TACC)",
+        "discipline": "Multi-Science Facility",
+        "latitude": "30.3897376",
+        "longitude": "-97.7261257",
+        "resource_name": "TACC - Galaxy Project Resources - Storage",
+        "project_name": "",
+        "scireg_id": 143,
         "contact_email": "nmendoza@tacc.utexas.edu",
         "last_updated": "06-07-2025"
     },
     {
         "addresses": [
-            "129.114.36.0/22"
+            "129.114.52.0/24",
+            "129.114.51.128/26",
+            "129.114.4.29/32",
+            "129.114.99.36/32"
         ],
         "org_name": "Texas Advanced Computing Center (TACC)",
         "discipline": "Multi-Science Facility",
         "latitude": "30.3897376",
         "longitude": "-97.7261257",
-        "resource_name": "TACC - Jetstream - Compute",
-        "project_name": "ACCESS",
-        "notes": "also need to update community-ACCESS.json file when updating address list",
-        "scireg_id": 143,
+        "resource_name": "TACC - Corral - Storage",
+        "project_name": "",
+        "notes": "129.114.4.29 (login2.data.tacc.utexas.edu) is a head node for Corral",
+        "scireg_id": 144,
         "contact_email": "nmendoza@tacc.utexas.edu",
         "last_updated": "11-07-2024"
     },
@@ -2136,9 +2154,39 @@
         "resource_name": "TACC - Cyclone - Compute",
         "project_name": "ACCESS",
         "notes": "also need to update community-ACCESS.json file when updating address list",
-        "scireg_id": 144,
+        "scireg_id": 145,
         "contact_email": "nmendoza@tacc.utexas.edu",
         "last_updated": "11-07-2024"
+    },
+    {
+        "addresses": [
+            "129.114.110.64/26",
+            "129.114.99.3/24",
+            "2605:2800:2011:200::/56"
+        ],
+        "org_name": "Texas Advanced Computing Center (TACC)",
+        "discipline": "Multi-Science Facility",
+        "latitude": "30.3897376",
+        "longitude": "-97.7261257",
+        "resource_name": "TACC - FABRIC - Compute/Storage",
+        "project_name": "",
+        "scireg_id": 146,
+        "contact_email": "nmendoza@tacc.utexas.edu",
+        "last_updated": "06-07-2025"
+    },
+    {
+        "addresses": [
+            "129.114.53.0/24"
+        ],
+        "org_name": "Texas Advanced Computing Center (TACC)",
+        "discipline": "Multi-Science Facility",
+        "latitude": "30.3897376",
+        "longitude": "-97.7261257",
+        "resource_name": "TACC - SambaNova - Compute",
+        "project_name": "",
+        "scireg_id": 147,
+        "contact_email": "nmendoza@tacc.utexas.edu",
+        "last_updated": "06-07-2025"
     },
     {
         "addresses": [
@@ -2152,24 +2200,54 @@
         "longitude": "-97.7261257",
         "resource_name": "TACC - Chameleon - Compute",
         "project_name": "",
-        "scireg_id": 145,
+        "scireg_id": 148,
         "contact_email": "nmendoza@tacc.utexas.edu",
         "last_updated": "11-07-2024"
     },
     {
         "addresses": [
-            "129.114.64.0/19",
-            "129.114.44.0/22",
-            "129.114.59.192/27",
-            "129.114.63.96/27"
+            "129.114.36.0/22"
         ],
         "org_name": "Texas Advanced Computing Center (TACC)",
         "discipline": "Multi-Science Facility",
         "latitude": "30.3897376",
         "longitude": "-97.7261257",
-        "resource_name": "TACC - Frontera - Compute",
+        "resource_name": "TACC - Jetstream - Compute",
+        "project_name": "ACCESS",
+        "notes": "also need to update community-ACCESS.json file when updating address list",
+        "scireg_id": 149,
+        "contact_email": "nmendoza@tacc.utexas.edu",
+        "last_updated": "11-07-2024"
+    },
+    {
+        "addresses": [
+            "129.114.40.0/22",
+            "129.114.60.0/24",
+            "129.114.54.0/25",
+            "129.114.62.192/28"
+        ],
+        "org_name": "Texas Advanced Computing Center (TACC)",
+        "discipline": "Multi-Science Facility",
+        "latitude": "30.3897376",
+        "longitude": "-97.7261257",
+        "resource_name": "TACC - Lonestar - Compute",
         "project_name": "",
-        "scireg_id": 146,
+        "scireg_id": 150,
+        "contact_email": "nmendoza@tacc.utexas.edu",
+        "last_updated": "11-07-2024"
+    },
+    {
+        "addresses": [
+            "129.114.16.0/21",
+            "129.114.63.160/27"
+        ],
+        "org_name": "Texas Advanced Computing Center (TACC)",
+        "discipline": "Multi-Science Facility",
+        "latitude": "30.3897376",
+        "longitude": "-97.7261257",
+        "resource_name": "TACC - Vista - Compute",
+        "project_name": "",
+        "scireg_id": 151,
         "contact_email": "nmendoza@tacc.utexas.edu",
         "last_updated": "11-07-2024"
     },
@@ -2187,100 +2265,22 @@
         "resource_name": "TACC - Stampede - Compute",
         "project_name": "ACCESS",
         "notes": "also need to update community-ACCESS.json file when updating address list",
-        "scireg_id": 147,
-        "contact_email": "nmendoza@tacc.utexas.edu",
-        "last_updated": "11-07-2024"
-    },
-    {
-        "addresses": [
-            "129.114.16.0/21",
-            "129.114.63.160/27"
-        ],
-        "org_name": "Texas Advanced Computing Center (TACC)",
-        "discipline": "Multi-Science Facility",
-        "latitude": "30.3897376",
-        "longitude": "-97.7261257",
-        "resource_name": "TACC - Vista - Compute",
-        "project_name": "",
-        "scireg_id": 148,
-        "contact_email": "nmendoza@tacc.utexas.edu",
-        "last_updated": "11-07-2024"
-    },
-    {
-        "addresses": [
-            "129.114.52.0/24",
-            "129.114.51.128/26",
-            "129.114.4.29/32",
-            "129.114.99.36/32"
-        ],
-        "org_name": "Texas Advanced Computing Center (TACC)",
-        "discipline": "Multi-Science Facility",
-        "latitude": "30.3897376",
-        "longitude": "-97.7261257",
-        "resource_name": "TACC - Corral - Storage",
-        "project_name": "",
-        "notes": "129.114.4.29 (login2.data.tacc.utexas.edu) is a head node for Corral",
-        "scireg_id": 149,
-        "contact_email": "nmendoza@tacc.utexas.edu",
-        "last_updated": "11-07-2024"
-    },
-    {
-        "addresses": [
-            "129.114.62.96/27"
-        ],
-        "org_name": "Texas Advanced Computing Center (TACC)",
-        "discipline": "Multi-Science Facility",
-        "latitude": "30.3897376",
-        "longitude": "-97.7261257",
-        "resource_name": "TACC - Ranch Data Archive - Storage",
-        "project_name": "ACCESS",
-        "notes": "also need to update community-ACCESS.json file when updating address list",
-        "scireg_id": 150,
-        "contact_email": "nmendoza@tacc.utexas.edu",
-        "last_updated": "11-07-2024"
-    },
-    {
-        "addresses": [
-            "129.114.4.81/32"
-        ],
-        "org_name": "Texas Advanced Computing Center (TACC)",
-        "discipline": "Multi-Science Facility",
-        "latitude": "30.3897376",
-        "longitude": "-97.7261257",
-        "resource_name": "TACC - Galaxy Platform, Vertebrate Genomes Project (VGP) - Storage",
-        "project_name": "Vertebrate Genomes Project (VGP)",
-        "scireg_id": 151,
-        "contact_email": "nmendoza@tacc.utexas.edu",
-        "last_updated": "11-07-2024"
-    },
-    {
-        "addresses": [
-            "129.114.40.0/22",
-            "129.114.60.0/24",
-            "129.114.54.0/25",
-            "129.114.62.192/28"
-        ],
-        "org_name": "Texas Advanced Computing Center (TACC)",
-        "discipline": "Multi-Science Facility",
-        "latitude": "30.3897376",
-        "longitude": "-97.7261257",
-        "resource_name": "TACC - Lonestar - Compute",
-        "project_name": "",
         "scireg_id": 152,
         "contact_email": "nmendoza@tacc.utexas.edu",
         "last_updated": "11-07-2024"
     },
     {
         "addresses": [
-            "129.114.0.202/32",
-            "129.114.0.209/32",
-            "129.114.0.210/32"
+            "129.114.64.0/19",
+            "129.114.44.0/22",
+            "129.114.59.192/27",
+            "129.114.63.96/27"
         ],
         "org_name": "Texas Advanced Computing Center (TACC)",
         "discipline": "Multi-Science Facility",
         "latitude": "30.3897376",
         "longitude": "-97.7261257",
-        "resource_name": "TACC - perfSONAR",
+        "resource_name": "TACC - Frontera - Compute",
         "project_name": "",
         "scireg_id": 153,
         "contact_email": "nmendoza@tacc.utexas.edu",
@@ -2342,13 +2342,13 @@
     },
     {
         "addresses": [
-            "164.111.161.0/24"
+            "138.26.220.64/28"
         ],
         "org_name": "University of Alabama at Birmingham (UAB)",
         "discipline": "Multi-Science Facility",
         "latitude": "33.5025",
         "longitude": "-86.8197",
-        "resource_name": "UAB - Compute",
+        "resource_name": "UAB - Science DMZ - Storage",
         "project_name": "",
         "scireg_id": 158,
         "contact_email": "unknown",
@@ -2370,7 +2370,7 @@
     },
     {
         "addresses": [
-            "138.26.48.0/23"
+            "164.111.161.0/24"
         ],
         "org_name": "University of Alabama at Birmingham (UAB)",
         "discipline": "Multi-Science Facility",
@@ -2384,13 +2384,13 @@
     },
     {
         "addresses": [
-            "138.26.220.64/28"
+            "138.26.48.0/23"
         ],
         "org_name": "University of Alabama at Birmingham (UAB)",
         "discipline": "Multi-Science Facility",
         "latitude": "33.5025",
         "longitude": "-86.8197",
-        "resource_name": "UAB - Science DMZ - Storage",
+        "resource_name": "UAB - Compute",
         "project_name": "",
         "scireg_id": 161,
         "contact_email": "unknown",
@@ -2528,16 +2528,75 @@
     },
     {
         "addresses": [
-            "128.171.165.0/24",
-            "128.171.110.128/25"
+            "128.171.169.205/32"
+        ],
+        "org_name": "University of Hawaii (UHawaii)",
+        "discipline": "GEO.Atmospheric",
+        "latitude": "21.326700",
+        "longitude": "-157.810000",
+        "resource_name": "UHawaii - Maunakea Weather Center - Storage",
+        "project_name": "",
+        "scireg_id": 172,
+        "contact_email": "unknown",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "166.122.71.144/29",
+            "166.122.71.160/29"
+        ],
+        "org_name": "University of Hawaii (UHawaii)",
+        "discipline": "MPS.Astronomy",
+        "latitude": "19.534500",
+        "longitude": "-155.576000",
+        "resource_name": "UHawaii - Asteroid Terrestrial-impact Last Alert System (ATLAS) - Storage",
+        "project_name": "Asteroid Terrestrial-impact Last Alert System (ATLAS)",
+        "scireg_id": 173,
+        "contact_email": "unknown",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "166.122.71.152/29"
+        ],
+        "org_name": "University of Hawaii (UHawaii)",
+        "discipline": "MPS.Astronomy",
+        "latitude": "19.534500",
+        "longitude": "-155.576000",
+        "resource_name": "UHawaii - Variable Young Stellar Objects Survey (VYSOS) - Storage",
+        "project_name": "Variable Young Stellar Objects Survey (VYSOS)",
+        "scireg_id": 174,
+        "contact_email": "unknown",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "128.171.73.64/27"
         ],
         "org_name": "University of Hawaii (UHawaii)",
         "discipline": "MPS.Astronomy",
         "latitude": "19.703500",
         "longitude": "-155.090300",
-        "resource_name": "UHawaii - NASA IRTF - Storage",
-        "project_name": "Infrared Telescope Facility (IRTF)",
-        "scireg_id": 172,
+        "resource_name": "UHawaii - Institute for Astronomy (IfA) Hilo",
+        "project_name": "",
+        "scireg_id": 175,
+        "contact_email": "unknown",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "128.171.177.0/27",
+            "128.171.123.128/27",
+            "128.171.123.192/27",
+            "128.171.123.160/27"
+        ],
+        "org_name": "University of Hawaii (UHawaii)",
+        "discipline": "MPS.Astronomy",
+        "latitude": "21.298800",
+        "longitude": "-157.817100",
+        "resource_name": "UHawaii - Institute for Astronomy (IfA) ITC",
+        "project_name": "",
+        "scireg_id": 176,
         "contact_email": "unknown",
         "last_updated": "unknown"
     },
@@ -2551,38 +2610,21 @@
         "longitude": "-157.811600",
         "resource_name": "UHawaii - Asteroid Terrestrial-impact Last Alert System (ATLAS) - Compute",
         "project_name": "Asteroid Terrestrial-impact Last Alert System (ATLAS)",
-        "scireg_id": 173,
+        "scireg_id": 177,
         "contact_email": "unknown",
         "last_updated": "unknown"
     },
     {
         "addresses": [
-            "166.122.172.0/24",
-            "128.171.123.224/27",
-            "128.171.177.128/27",
-            "128.171.45.0/27"
+            "128.171.72.0/24"
         ],
         "org_name": "University of Hawaii (UHawaii)",
         "discipline": "MPS.Astronomy",
-        "latitude": "21.298800",
-        "longitude": "-157.817100",
-        "resource_name": "UHawaii - Pan-STARRS - Compute",
-        "project_name": "Pan-STARRS",
-        "scireg_id": 174,
-        "contact_email": "unknown",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
-            "132.160.100.0/24"
-        ],
-        "org_name": "University of Hawaii (UHawaii)",
-        "discipline": "MPS.Astronomy",
-        "latitude": "20.821900",
-        "longitude": "-156.332500",
-        "resource_name": "UHawaii - Pan-STARRS - Storage",
-        "project_name": "Pan-STARRS",
-        "scireg_id": 175,
+        "latitude": "19.703400",
+        "longitude": "-155.090400",
+        "resource_name": "UHawaii - 2.2m Telescope - Storage",
+        "project_name": "2.2m Telescope",
+        "scireg_id": 178,
         "contact_email": "unknown",
         "last_updated": "unknown"
     },
@@ -2600,38 +2642,7 @@
         "longitude": "-157.811600",
         "resource_name": "UHawaii - Institute for Astronomy (IfA) Manoa",
         "project_name": "",
-        "scireg_id": 176,
-        "contact_email": "unknown",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
-            "128.171.177.0/27",
-            "128.171.123.128/27",
-            "128.171.123.192/27",
-            "128.171.123.160/27"
-        ],
-        "org_name": "University of Hawaii (UHawaii)",
-        "discipline": "MPS.Astronomy",
-        "latitude": "21.298800",
-        "longitude": "-157.817100",
-        "resource_name": "UHawaii - Institute for Astronomy (IfA) ITC",
-        "project_name": "",
-        "scireg_id": 177,
-        "contact_email": "unknown",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
-            "128.171.73.64/27"
-        ],
-        "org_name": "University of Hawaii (UHawaii)",
-        "discipline": "MPS.Astronomy",
-        "latitude": "19.703500",
-        "longitude": "-155.090300",
-        "resource_name": "UHawaii - Institute for Astronomy (IfA) Hilo",
-        "project_name": "",
-        "scireg_id": 178,
+        "scireg_id": 179,
         "contact_email": "unknown",
         "last_updated": "unknown"
     },
@@ -2647,21 +2658,53 @@
         "longitude": "-156.332500",
         "resource_name": "UHawaii - Institute for Astronomy (IfA) Maui",
         "project_name": "",
-        "scireg_id": 179,
+        "scireg_id": 180,
         "contact_email": "unknown",
         "last_updated": "unknown"
     },
     {
         "addresses": [
-            "128.171.72.0/24"
+            "128.171.165.0/24",
+            "128.171.110.128/25"
         ],
         "org_name": "University of Hawaii (UHawaii)",
         "discipline": "MPS.Astronomy",
-        "latitude": "19.703400",
-        "longitude": "-155.090400",
-        "resource_name": "UHawaii - 2.2m Telescope - Storage",
-        "project_name": "2.2m Telescope",
-        "scireg_id": 180,
+        "latitude": "19.703500",
+        "longitude": "-155.090300",
+        "resource_name": "UHawaii - NASA IRTF - Storage",
+        "project_name": "Infrared Telescope Facility (IRTF)",
+        "scireg_id": 181,
+        "contact_email": "unknown",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "166.122.172.0/24",
+            "128.171.123.224/27",
+            "128.171.177.128/27",
+            "128.171.45.0/27"
+        ],
+        "org_name": "University of Hawaii (UHawaii)",
+        "discipline": "MPS.Astronomy",
+        "latitude": "21.298800",
+        "longitude": "-157.817100",
+        "resource_name": "UHawaii - Pan-STARRS - Compute",
+        "project_name": "Pan-STARRS",
+        "scireg_id": 182,
+        "contact_email": "unknown",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "132.160.100.0/24"
+        ],
+        "org_name": "University of Hawaii (UHawaii)",
+        "discipline": "MPS.Astronomy",
+        "latitude": "20.821900",
+        "longitude": "-156.332500",
+        "resource_name": "UHawaii - Pan-STARRS - Storage",
+        "project_name": "Pan-STARRS",
+        "scireg_id": 183,
         "contact_email": "unknown",
         "last_updated": "unknown"
     },
@@ -2675,65 +2718,7 @@
         "longitude": "-155.090300",
         "resource_name": "UHawaii - UKIRT - Storage",
         "project_name": "UK Infrared Telescope (UKIRT)",
-        "scireg_id": 181,
-        "contact_email": "unknown",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
-            "166.122.71.144/29",
-            "166.122.71.160/29"
-        ],
-        "org_name": "University of Hawaii (UHawaii)",
-        "discipline": "MPS.Astronomy",
-        "latitude": "19.534500",
-        "longitude": "-155.576000",
-        "resource_name": "UHawaii - Asteroid Terrestrial-impact Last Alert System (ATLAS) - Storage",
-        "project_name": "Asteroid Terrestrial-impact Last Alert System (ATLAS)",
-        "scireg_id": 182,
-        "contact_email": "unknown",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
-            "166.122.71.152/29"
-        ],
-        "org_name": "University of Hawaii (UHawaii)",
-        "discipline": "MPS.Astronomy",
-        "latitude": "19.534500",
-        "longitude": "-155.576000",
-        "resource_name": "UHawaii - Variable Young Stellar Objects Survey (VYSOS) - Storage",
-        "project_name": "Variable Young Stellar Objects Survey (VYSOS)",
-        "scireg_id": 183,
-        "contact_email": "unknown",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
-            "128.171.169.205/32"
-        ],
-        "org_name": "University of Hawaii (UHawaii)",
-        "discipline": "GEO.Atmospheric",
-        "latitude": "21.326700",
-        "longitude": "-157.810000",
-        "resource_name": "UHawaii - Maunakea Weather Center - Storage",
-        "project_name": "",
         "scireg_id": 184,
-        "contact_email": "unknown",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
-            "141.142.112.0/20",
-            "2620:0:c80:1500::/64"
-        ],
-        "org_name": "University of Illinois at Urbana-Champaign (UIUC)",
-        "discipline": "Multi-Science Facility",
-        "latitude": "40.1148751",
-        "longitude": " -88.2248764",
-        "resource_name": "UIUC - Illinois CampusCluster  - Compute",
-        "project_name": "",
-        "scireg_id": 185,
         "contact_email": "unknown",
         "last_updated": "unknown"
     },
@@ -2748,6 +2733,21 @@
         "longitude": " -88.2248764",
         "resource_name": "UIUC - Midwest Tier 2 (MWT2); LHC/ATLAS - Storage",
         "project_name": "ATLAS",
+        "scireg_id": 185,
+        "contact_email": "unknown",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "141.142.112.0/20",
+            "2620:0:c80:1500::/64"
+        ],
+        "org_name": "University of Illinois at Urbana-Champaign (UIUC)",
+        "discipline": "Multi-Science Facility",
+        "latitude": "40.1148751",
+        "longitude": " -88.2248764",
+        "resource_name": "UIUC - Illinois CampusCluster  - Compute",
+        "project_name": "",
         "scireg_id": 186,
         "contact_email": "unknown",
         "last_updated": "unknown"
@@ -2820,21 +2820,6 @@
     },
     {
         "addresses": [
-            "129.93.182.0/23",
-            "2600:900:6:1102::/64"
-        ],
-        "org_name": "University of Nebraska-Lincoln (UNL)",
-        "discipline": "MPS.Physics.High Energy",
-        "latitude": "40.813000",
-        "longitude": "-96.702900",
-        "resource_name": "UNL - CMS Tier 2 - Compute",
-        "project_name": "CMS",
-        "scireg_id": 192,
-        "contact_email": "unknown",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
             "129.93.241.1/32",
             "2600:900:6:1302::7ac0:b0a7/128"
         ],
@@ -2844,6 +2829,20 @@
         "longitude": "-96.667000",
         "resource_name": "UNL - HCC FIONA DTN - Data Transfer",
         "project_name": "FIONA",
+        "scireg_id": 192,
+        "contact_email": "unknown",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "129.93.175.0/26"
+        ],
+        "org_name": "University of Nebraska-Lincoln (UNL)",
+        "discipline": "Multi-Science Facility",
+        "latitude": "41.247400",
+        "longitude": "-96.017800",
+        "resource_name": "UNL - Anvil Cloud - Compute",
+        "project_name": "",
         "scireg_id": 193,
         "contact_email": "unknown",
         "last_updated": "unknown"
@@ -2882,13 +2881,11 @@
     },
     {
         "addresses": [
-            "129.93.175.0/26"
+            "129.93.161.0/24"
         ],
         "org_name": "University of Nebraska-Lincoln (UNL)",
-        "discipline": "Multi-Science Facility",
-        "latitude": "41.247400",
-        "longitude": "-96.017800",
-        "resource_name": "UNL - Anvil Cloud - Compute",
+        "discipline": "BIO.Agricultural Sciences",
+        "resource_name": "UNL - Precision Pesticide Application Technology Laboratory (PAT Lab)",
         "project_name": "",
         "scireg_id": 196,
         "contact_email": "unknown",
@@ -2896,27 +2893,16 @@
     },
     {
         "addresses": [
-            "129.93.161.0/24"
+            "129.93.182.0/23",
+            "2600:900:6:1102::/64"
         ],
         "org_name": "University of Nebraska-Lincoln (UNL)",
-        "discipline": "BIO.Agricultural Sciences",
-        "resource_name": "UNL - Precision Pesticide Application Technology Laboratory (PAT Lab)",
-        "project_name": "",
+        "discipline": "MPS.Physics.High Energy",
+        "latitude": "40.813000",
+        "longitude": "-96.702900",
+        "resource_name": "UNL - CMS Tier 2 - Compute",
+        "project_name": "CMS",
         "scireg_id": 197,
-        "contact_email": "unknown",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
-            "129.15.42.0/23"
-        ],
-        "org_name": "University of Oklahoma (OU)",
-        "discipline": "Multi-Science Facility",
-        "latitude": "35.181500",
-        "longitude": "-97.432800",
-        "resource_name": "OU - Supercomputing Center for Education and Research (OSCER) - Compute",
-        "project_name": "",
-        "scireg_id": 198,
         "contact_email": "unknown",
         "last_updated": "unknown"
     },
@@ -2929,6 +2915,20 @@
         "latitude": "35.183700",
         "longitude": "-97.437100",
         "resource_name": "OU - Schooner DTNs - Storage",
+        "project_name": "",
+        "scireg_id": 198,
+        "contact_email": "unknown",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "129.15.42.0/23"
+        ],
+        "org_name": "University of Oklahoma (OU)",
+        "discipline": "Multi-Science Facility",
+        "latitude": "35.181500",
+        "longitude": "-97.432800",
+        "resource_name": "OU - Supercomputing Center for Education and Research (OSCER) - Compute",
         "project_name": "",
         "scireg_id": 199,
         "contact_email": "unknown",
@@ -2984,30 +2984,6 @@
     },
     {
         "addresses": [
-            "128.62.0.0/16",
-            "128.83.0.0/16",
-            "129.116.0.0/16",
-            "146.6.0.0/16",
-            "198.213.192.0/18",
-            "206.76.64.0/18",
-            "198.214.80.0/20",
-            "192.207.52.0/23",
-            "192.207.51.0/24",
-            "192.124.228.0/24",
-            "192.207.54.0/24"
-        ],
-        "org_name": "University of Texas at Austin (UT Austin)",
-        "latitude": "30.2849",
-        "longitude": "-97.7341",
-        "resource_name": "",
-        "project_name": "",
-        "notes": "maxmind was placing 192.124.228.0/24 (and others) in Kansas, so need to make sure that subnet is here",
-        "scireg_id": 204,
-        "contact_email": "unknown",
-        "last_updated": "unknown"
-    },
-    {
-        "addresses": [
             "128.83.41.128/26"
         ],
         "org_name": "University of Texas at Austin (UT Austin)",
@@ -3015,6 +2991,20 @@
         "latitude": "30.2849",
         "longitude": "-97.7341",
         "resource_name": "UT Austin - Biological Sciences",
+        "project_name": "",
+        "scireg_id": 204,
+        "contact_email": "unknown",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "129.116.130.0/26"
+        ],
+        "org_name": "University of Texas at Austin (UT Austin)",
+        "discipline": "GEO.General",
+        "latitude": "30.2849",
+        "longitude": "-97.7341",
+        "resource_name": "UT Austin - Geosciences",
         "project_name": "",
         "scireg_id": 205,
         "contact_email": "unknown",
@@ -3036,27 +3026,49 @@
     },
     {
         "addresses": [
-            "129.116.130.0/26"
+            "128.62.0.0/16",
+            "128.83.0.0/16",
+            "129.116.0.0/16",
+            "146.6.0.0/16",
+            "198.213.192.0/18",
+            "206.76.64.0/18",
+            "198.214.80.0/20",
+            "192.207.52.0/23",
+            "192.207.51.0/24",
+            "192.124.228.0/24",
+            "192.207.54.0/24"
         ],
         "org_name": "University of Texas at Austin (UT Austin)",
-        "discipline": "GEO.General",
         "latitude": "30.2849",
         "longitude": "-97.7341",
-        "resource_name": "UT Austin - Geosciences",
+        "resource_name": "",
         "project_name": "",
+        "notes": "maxmind was placing 192.124.228.0/24 (and others) in Kansas, so need to make sure that subnet is here",
         "scireg_id": 207,
         "contact_email": "unknown",
         "last_updated": "unknown"
     },
     {
         "addresses": [
-            "142.1.174.224/29"
+            "129.112.9.0/25"
+        ],
+        "org_name": "University of Texas Southwestern Medical Center (SWMED)",
+        "discipline": "BIO.General",
+        "resource_name": "SWMED - BioHPC - Compute/Storage",
+        "project_name": "",
+        "scireg_id": 208,
+        "contact_email": "unknown",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
+            "142.1.174.224/28"
         ],
         "org_name": "University of Toronto (UofT)",
         "discipline": "Multi-Science Facility",
         "resource_name": "UofT - SciNet Supercomputing Centre - Storage",
         "project_name": "",
-        "scireg_id": 208,
+        "scireg_id": 209,
         "contact_email": "unknown",
         "last_updated": "unknown"
     },
@@ -3073,7 +3085,7 @@
         "longitude": "-111.730000",
         "resource_name": "Telescope Array (TARA)",
         "project_name": "Telescope Array (TARA)",
-        "scireg_id": 209,
+        "scireg_id": 210,
         "contact_email": "unknown",
         "last_updated": "unknown"
     },
@@ -3086,7 +3098,7 @@
         "resource_name": "UVA - Rivanna HPC System - Storage",
         "notes": "not everything on this subnet is storage, but no clear subnets",
         "project_name": "",
-        "scireg_id": 210,
+        "scireg_id": 211,
         "contact_email": "unknown",
         "last_updated": "unknown"
     },
@@ -3100,7 +3112,7 @@
         "longitude": "21.018600",
         "resource_name": "UoW - DTN for Data Mover Challenge - Data Transfer",
         "project_name": "Data Mover Challenge",
-        "scireg_id": 211,
+        "scireg_id": 212,
         "contact_email": "unknown",
         "last_updated": "unknown"
     },
@@ -3114,7 +3126,7 @@
         "longitude": "-122.290000",
         "resource_name": "UW - Department of Atmospheric Sciences - Storage",
         "project_name": "",
-        "scireg_id": 212,
+        "scireg_id": 213,
         "contact_email": "unknown",
         "last_updated": "unknown"
     },
@@ -3128,7 +3140,7 @@
         "longitude": "-89.4125",
         "resource_name": "UWisc - IceCube Neutrino Observatory",
         "project_name": "IceCube",
-        "scireg_id": 213,
+        "scireg_id": 214,
         "contact_email": "unknown",
         "last_updated": "unknown"
     },
@@ -3149,7 +3161,7 @@
         "longitude": "-155.665300",
         "resource_name": "WMKO - Keck Telescopes - Storage",
         "project_name": "Keck Telescopes",
-        "scireg_id": 214,
+        "scireg_id": 215,
         "contact_email": "unknown",
         "last_updated": "unknown"
     },
@@ -3161,7 +3173,7 @@
         "discipline": "Multi-Science Facility",
         "resource_name": "WUSTL - Research Infrastructure Services (RIS) - DTNs",
         "project_name": "",
-        "scireg_id": 215,
+        "scireg_id": 216,
         "contact_email": "unknown",
         "last_updated": "unknown"
     },
@@ -3172,7 +3184,7 @@
         "org_name": "William & Mary (WM)",
         "discipline": "Multi-Science Facility",
         "resource_name": "WM - SciClone HPC Cluster  - Compute",
-        "scireg_id": 216,
+        "scireg_id": 217,
         "contact_email": "unknown",
         "last_updated": "unknown"
     }
