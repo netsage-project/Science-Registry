@@ -1988,6 +1988,18 @@
     },
     {
         "addresses": [
+            "171.67.99.192/28"
+        ],
+        "org_name": "Stanford University",
+        "discipline": "Multi-Science Facility",
+        "resource_name": "Stanford - Marlow Cluster - Compute/Storage",
+        "project_name": "",
+        "scireg_id": 135,
+        "contact_email": "unknown",
+        "last_updated": "unknown"
+    },
+    {
+        "addresses": [
             "171.67.98.128/25"
         ],
         "org_name": "Stanford University",
