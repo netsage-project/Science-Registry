@@ -60,6 +60,17 @@
     "community": "ACCESS"
   },
   {
+    "org_name": "Cloudbank",
+    "addresses": [
+      "98.89.122.6/32",
+      "18.205.5.125/32",
+      "98.90.113.92/32"
+    ],
+    "asn": "14618",
+    "notes": "Amazon AWS nodes that are part of NSF ACCESS. Google and Azure nodes coming soon. see scireg.json for description of this resource. make sure address list is the same",
+    "community": "ACCESS"
+  },
+  {
     "org_name": "San Diego Supercomputer Center (SDSC)",
     "addresses": [
       "198.202.100.0/22",
