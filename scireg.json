@@ -426,8 +426,10 @@
         ],
         "resource_name": "Cloudbank - commercial cloud resources",
         "project_name": "",
+        "latitude": "32.9035128",
+        "longitude": "-117.2444005",
         "scireg_id": 28,
-        "notes": "special case for ACCESS Cloudbank nodes, which are on AWS",
+        "notes": "special case for ACCESS Cloudbank nodes, which are on AWS, Google, and Azure",
         "contact_email": "ssmallen@mail.ucsd.edu",
         "last_updated": "11-4-2025"
     },
