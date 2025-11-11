@@ -64,10 +64,13 @@
     "addresses": [
       "98.89.122.6/32",
       "18.205.5.125/32",
-      "98.90.113.92/32"
+      "98.90.113.92/32",
+      "34.21.25.181/32",
+      "34.11.21.182/32",
+      "34.145.149.69/32"
     ],
     "asn": "14618",
-    "notes": "Amazon AWS nodes that are part of NSF ACCESS. Google and Azure nodes coming soon. see scireg.json for description of this resource. make sure address list is the same",
+    "notes": "Amazon AWS and Google nodes that are part of NSF ACCESS. Google ASN is: AS396982. Azure nodes coming soon. see scireg.json for description of this resource. make sure address list is the same",
     "community": "ACCESS"
   },
   {
