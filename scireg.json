@@ -421,17 +421,11 @@
     {
         "org_name": "Cloudbank",
         "addresses": [
-            "98.89.122.1/32",
             "98.89.122.6/32",
-            "18.205.5.1/32",
             "18.205.5.125/32",
-            "98.90.113.1/32",
             "98.90.113.92/32",
-            "34.21.25.1/32",
             "34.21.25.181/32",
-            "34.11.21.1/32",
             "34.11.21.182/32",
-            "34.145.149.1/32",
             "34.145.149.69/32"
         ],
         "resource_name": "Cloudbank - commercial cloud resources",
@@ -439,7 +433,7 @@
         "latitude": "32.9035128",
         "longitude": "-117.2444005",
         "scireg_id": 28,
-        "notes": "special case for ACCESS Cloudbank nodes, which are on AWS, Google, and Azure. Need to include .1, so that Globus log processing will catch them",
+        "notes": "special case for ACCESS Cloudbank nodes, which are on AWS, Google, and Azure. ",
         "contact_email": "ssmallen@mail.ucsd.edu",
         "last_updated": "11-4-2025"
     },
