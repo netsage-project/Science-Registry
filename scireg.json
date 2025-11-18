@@ -1535,7 +1535,7 @@
     },
     {
         "addresses": [
-            "128.240.34.0/24"
+            "128.240.0.0/16"
         ],
         "org_name": "Newcastle University (NU)",
         "discipline": "Multi-Science Facility",
@@ -1543,6 +1543,7 @@
         "longitude": "-1.614661",
         "resource_name": "",
         "project_name": "",
+        "notes": "entry needed, otherwise shows up as org_name JISC",
         "scireg_id": 104
     },
     {
@@ -2624,7 +2625,9 @@
     },
     {
         "addresses": [
-            "193.60.60.0/24"
+            "193.37.240.0/21",
+            "193.60.60.0/24",
+            "194.36.121.0/24"
         ],
         "org_name": "University of Greenwich",
         "discipline": "Multi-Science Facility",
@@ -2632,6 +2635,7 @@
         "longitude": "-0.003900",
         "resource_name": "",
         "project_name": "",
+        "notes": "entry needed, otherwise shows up as org_name JISC",
         "scireg_id": 180
     },
     {
@@ -2862,7 +2866,7 @@
     },
     {
         "addresses": [
-            "129.11.78.0/24"
+            "129.11.0.0/16"
         ],
         "org_name": "University of Leeds (ULeeds)",
         "discipline": "Multi-Science Facility",
@@ -2870,11 +2874,12 @@
         "longitude": "-1.555033",
         "resource_name": "",
         "project_name": "",
+        "notes": "entry needed, otherwise shows up as org_name JISC",
         "scireg_id": 196
     },
     {
         "addresses": [
-            "143.210.182.0/24"
+            "143.210.0.0/16"
         ],
         "org_name": "University of Leicester (UoL)",
         "discipline": "Multi-Science Facility",
@@ -2882,6 +2887,7 @@
         "longitude": "-1.125730",
         "resource_name": "",
         "project_name": "",
+        "notes": "entry needed, otherwise shows up as org_name JISC",
         "scireg_id": 197
     },
     {
@@ -3068,7 +3074,7 @@
     },
     {
         "addresses": [
-            "129.67.8.0/24"
+            "129.67.0.0/16"
         ],
         "org_name": "University of Oxford",
         "discipline": "Multi-Science Facility",
@@ -3076,6 +3082,7 @@
         "longitude": "-1.254367",
         "resource_name": "",
         "project_name": "",
+        "notes": "entry needed, otherwise shows up as org_name JISC",
         "scireg_id": 211
     },
     {
@@ -3365,6 +3372,7 @@
         "longitude": "0.187500",
         "resource_name": "",
         "project_name": "",
+        "notes": "entry needed, otherwise shows up as org_name JISC",
         "scireg_id": 232
     },
     {
