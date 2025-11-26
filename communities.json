@@ -60,6 +60,22 @@
     "community": "ACCESS"
   },
   {
+    "org_name": "Cloudbank",
+    "addresses": [
+      "18.234.209.152/32",
+      "54.227.69.92/32",
+      "98.89.122.6/32",
+      "18.205.5.125/32",
+      "98.90.113.92/32",
+      "34.21.25.181/32",
+      "34.11.21.182/32",
+      "34.145.149.69/32"
+    ],
+    "asn": "14618",
+    "notes": "Amazon AWS and Google nodes that are part of NSF ACCESS. Google ASN is: AS396982. Azure nodes coming soon. see scireg.json for description of this resource. make sure address list is the same. ",
+    "community": "ACCESS"
+  },
+  {
     "org_name": "San Diego Supercomputer Center (SDSC)",
     "addresses": [
       "198.202.100.0/22",
@@ -3970,34 +3986,6 @@
     ],
     "org_name": "Kennesaw State Univ (KSU)",
     "asn": 21517,
-    "community": "SoX"
-  },
-  {
-    "addresses": [
-      "128.82.0.0/16",
-      "128.143.0.0/16",
-      "128.173.0.0/16",
-      "137.54.0.0/16",
-      "139.70.0.0/16",
-      "198.82.0.0/16",
-      "45.3.64.0/18",
-      "199.111.192.0/18",
-      "199.111.160.0/19",
-      "199.111.48.0/20",
-      "199.111.40.0/21",
-      "199.111.0.0/22",
-      "192.35.48.0/23",
-      "192.33.115.0/24",
-      "192.33.117.0/24",
-      "192.70.187.0/24",
-      "192.131.232.0/24",
-      "198.51.208.0/24",
-      "199.111.18.0/24",
-      "2001:468:c80::/48",
-      "2001:468:ce0::/44"
-    ],
-    "org_name": "MARIA",
-    "asn": 40220,
     "community": "SoX"
   },
   {
