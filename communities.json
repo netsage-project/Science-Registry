@@ -165,6 +165,7 @@
     "addresses": [
       "132.249.0.0/16",
       "198.202.64.0/18",
+      "67.58.56.0/21",
       "198.17.46.0/23",
       "192.12.207.0/24",
       "192.67.20.0/24",
@@ -2033,6 +2034,568 @@
     "org_name": "Franklin College",
     "community": "iLight",
     "asn": "399909"
+  },
+  {
+    "addresses": [
+      "128.16.0.0/16",
+      "2a03:aba0::/29"
+    ],
+    "org_name": "University College London, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "128.232.0.0/16",
+      "129.169.0.0/16",
+      "131.111.0.0/16"
+    ],
+    "org_name": "University of Cambridge, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "128.240.0.0/16"
+    ],
+    "org_name": "University of Newcastle upon Tyne, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "128.243.0.0/16"
+    ],
+    "org_name": "University of Nottingham, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "129.11.0.0/16"
+    ],
+    "org_name": "University of Leeds, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "129.12.0.0/16"
+    ],
+    "org_name": "University of Kent, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "129.67.0.0/16",
+      "163.1.0.0/16",
+      "2a0a:200::/29"
+    ],
+    "org_name": "University of Oxford, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "129.215.0.0/16"
+    ],
+    "org_name": "University of Edinburgh, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "129.234.0.0/16"
+    ],
+    "org_name": "University of Durham, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "130.88.0.0/16"
+    ],
+    "org_name": "University of Manchester, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "130.159.0.0/16"
+    ],
+    "org_name": "University of Strathclyde, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "130.209.0.0/16"
+    ],
+    "org_name": "University of Glasgow, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "130.246.0.0/16"
+    ],
+    "org_name": "Science Technology Facilities Council, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "131.227.0.0/16"
+    ],
+    "org_name": "University of Surrey, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "131.231.0.0/16",
+      "158.125.0.0/16"
+    ],
+    "org_name": "Loughborough University, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "131.251.0.0/16"
+    ],
+    "org_name": "Cardiff University, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "134.36.0.0/16"
+    ],
+    "org_name": "University of Dundee, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "134.83.0.0/16"
+    ],
+    "org_name": "Brunel University London, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "134.151.0.0/16"
+    ],
+    "org_name": "Aston University, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "134.219.0.0/16"
+    ],
+    "org_name": "Royal Holloway, University of London, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "134.220.0.0/16"
+    ],
+    "org_name": "University of Wolverhampton, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "134.225.0.0/16"
+    ],
+    "org_name": "University of Reading, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "136.148.0.0/16"
+    ],
+    "org_name": "London South Bank University, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "137.44.0.0/16"
+    ],
+    "org_name": "Swansea University, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "137.50.0.0/16",
+      "139.133.0.0/16"
+    ],
+    "org_name": "University of Aberdeen, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "137.73.0.0/16"
+    ],
+    "org_name": "King’s College London, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "137.108.0.0/16"
+    ],
+    "org_name": "The Open University, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "137.195.0.0/16"
+    ],
+    "org_name": "Heriot-Watt University, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "137.222.0.0/16"
+    ],
+    "org_name": "University of Bristol, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "137.253.0.0/16"
+    ],
+    "org_name": "University of London, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "138.38.0.0/16"
+    ],
+    "org_name": "University of Bath, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "139.153.0.0/16"
+    ],
+    "org_name": "University of Stirling, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "139.166.0.0/16"
+    ],
+    "org_name": "National Oceanography Centre, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "139.184.0.0/16",
+      "2001:678:718::/48"
+    ],
+    "org_name": "University of Sussex, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "139.222.0.0/16"
+    ],
+    "org_name": "University of East Anglia, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "140.97.0.0/16",
+      "163.167.0.0/16"
+    ],
+    "org_name": "London Metropolitan University, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "143.117.0.0/16"
+    ],
+    "org_name": "Queen’s University Belfast, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "143.167.0.0/16"
+    ],
+    "org_name": "University of Sheffield, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "143.210.0.0/16"
+    ],
+    "org_name": "University of Leicester, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "143.234.0.0/16"
+    ],
+    "org_name": "Scottish Agricultural & Biological Research Institutes, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "144.32.0.0/16"
+    ],
+    "org_name": "University of York, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "144.173.0.0/16"
+    ],
+    "org_name": "University of Exeter, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "146.87.0.0/16"
+    ],
+    "org_name": "University of Salford, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "146.97.0.0/16"
+    ],
+    "org_name": "Jisc Services Limited, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "146.169.0.0/16",
+      "155.198.0.0/16"
+    ],
+    "org_name": "Imperial College London, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "146.176.0.0/16"
+    ],
+    "org_name": "Edinburgh Napier University, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "146.179.0.0/16"
+    ],
+    "org_name": "Imperial College (IC), UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "146.191.0.0/16"
+    ],
+    "org_name": "University of the West of Scotland, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "147.188.0.0/16"
+    ],
+    "org_name": "University of Birmingham, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "147.197.0.0/16"
+    ],
+    "org_name": "University of Hertfordshire, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "148.79.0.0/16"
+    ],
+    "org_name": "Daresbury Laboratory (STFC), UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "148.88.0.0/16"
+    ],
+    "org_name": "Lancaster University, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "148.197.0.0/16"
+    ],
+    "org_name": "University of Portsmouth, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "149.155.0.0/16"
+    ],
+    "org_name": "Biotechnology and Biological Sciences Research Council (BBSRC), UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "150.204.0.0/16"
+    ],
+    "org_name": "Liverpool John Moores University, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "152.71.0.0/16"
+    ],
+    "org_name": "Nottingham Trent University, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "152.78.0.0/16"
+    ],
+    "org_name": "University of Southampton, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "152.105.0.0/16"
+    ],
+    "org_name": "Teesside University, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "157.140.0.0/16"
+    ],
+    "org_name": "Natural History Museum, UK, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "157.228.0.0/16"
+    ],
+    "org_name": "University of Sunderland, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "158.223.0.0/16"
+    ],
+    "org_name": "Goldsmiths, University of London, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "159.86.0.0/16"
+    ],
+    "org_name": "Welsh Government, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "160.5.0.0/16"
+    ],
+    "org_name": "Keele University, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "160.9.0.0/16"
+    ],
+    "org_name": "Leeds Beckett University, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "161.73.0.0/16"
+    ],
+    "org_name": "Oxford Brookes University, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "161.74.0.0/16"
+    ],
+    "org_name": "University of Westminster, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "161.76.0.0/16"
+    ],
+    "org_name": "University of East London, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "161.112.0.0/16"
+    ],
+    "org_name": "University of Huddersfield, UK",
+    "community": "JISC",
+    "asn": "786"
+  },
+  {
+    "addresses": [
+      "164.11.0.0/16"
+    ],
+    "org_name": "University of the West of England, UK",
+    "community": "JISC",
+    "asn": "786"
   },
   {
     "addresses": [
@@ -4176,6 +4739,352 @@
     "org_name": "Woodruff Library",
     "asn": 21784,
     "community": "SoX"
+  },
+  {
+    "addresses": [
+      "141.249.0.0/16"
+    ],
+    "org_name": "Bundesamt fuer Meteorologie und Klimatologie",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "138.131.0.0/16"
+    ],
+    "org_name": "CSEM Centre Suisse d'Electronique et de",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "155.105.0.0/16"
+    ],
+    "org_name": "Centre hospitalier universitaire vaudois (CHUV)",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "148.187.0.0/16"
+    ],
+    "org_name": "Centro Svizzero di Calcolo Scientifico",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "128.178.0.0/15",
+      "192.26.28.0/22",
+      "192.26.32.0/21",
+      "192.26.40.0/22",
+      "192.26.46.0/23",
+      "192.33.192.0/20",
+      "192.33.208.0/22"
+    ],
+    "org_name": "Ecole Polytechnique Federale de Lausanne",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "193.134.200.0/21"
+    ],
+    "org_name": "Eidgenoessische Forschungsanstalt fuer W ald,",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "193.5.58.0/24"
+    ],
+    "org_name": "Fachhochschule Graubuenden",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "147.86.0.0/16",
+      "192.152.98.0/24",
+      "193.8.136.0/23",
+      "193.73.125.0/24",
+      "193.135.240.0/21",
+      "193.222.241.0/24",
+      "193.222.242.0/23",
+      "193.222.244.0/22",
+      "193.222.248.0/23",
+      "193.222.250.0/24"
+    ],
+    "org_name": "Fachhochschule Nordwestschweiz FHNW",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "82.130.64.0/18",
+      "129.132.0.0/16",
+      "192.33.87.0/24",
+      "192.33.89.0/24",
+      "192.33.90.0/24",
+      "192.33.91.0/24",
+      "192.33.92.0/22",
+      "192.33.96.0/21",
+      "192.33.104.0/22",
+      "192.33.108.0/23",
+      "192.33.110.0/24",
+      "2001:67c:10ec::/48"
+    ],
+    "org_name": "Federal Institute of Technology Zurich (ETHZ)",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "192.135.152.0/21"
+    ],
+    "org_name": "Haute Ecole Pedagogique BEJUNE",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "185.144.36.0/22",
+      "193.134.216.0/21"
+    ],
+    "org_name": "Haute ecole d ingenierie et de gestion du canton",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "147.88.0.0/16"
+    ],
+    "org_name": "Hochschule Luzern",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "193.247.190.0/23"
+    ],
+    "org_name": "Hoehere Fachschule fur Technik Mittelland AG",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "193.5.22.0/24",
+      "193.36.32.0/24"
+    ],
+    "org_name": "IMD -International Institute for Management",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "161.62.0.0/16"
+    ],
+    "org_name": "Inselspital Bern",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "185.207.116.0/24"
+    ],
+    "org_name": "Kinderspital Zuerich - Eleonorenstiftung",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "193.222.112.0/20"
+    ],
+    "org_name": "Liechtensteinische Landesverwaltung",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "146.136.0.0/16",
+      "152.96.0.0/16"
+    ],
+    "org_name": "Ost Ostschweizer Fachochschule",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "193.5.53.0/24"
+    ],
+    "org_name": "Paedagogische Hochschule Zurich",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "129.129.0.0/16",
+      "192.33.118.0/23",
+      "192.33.120.0/21"
+    ],
+    "org_name": "Paul Scherrer Institut",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "193.246.176.0/20"
+    ],
+    "org_name": "Repubblica e Cantone Ticino",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "148.196.0.0/16",
+      "157.26.0.0/16",
+      "192.135.150.0/23",
+      "192.135.151.0/24"
+    ],
+    "org_name": "Republique et Canton de Neuchatel",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "193.5.60.0/24"
+    ],
+    "org_name": "Schweizerisches Forschungsinstitut fuer",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "193.5.152.0/22",
+      "193.246.121.0/24",
+      "193.247.182.0/24"
+    ],
+    "org_name": "Scuola universitaria professionale della Svizzera",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "144.200.0.0/16",
+      "2a02:7dc0::/32"
+    ],
+    "org_name": "Universitatsspital Zurich (USZG)",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "134.21.0.0/16",
+      "192.47.244.0/22",
+      "192.47.248.0/23"
+    ],
+    "org_name": "Universite de Fribourg",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "192.33.212.0/22",
+      "192.33.216.0/22",
+      "192.33.222.0/23",
+      "192.33.224.0/21"
+    ],
+    "org_name": "Universite de Geneve",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "130.125.0.0/16",
+      "192.42.42.0/23",
+      "192.42.44.0/22"
+    ],
+    "org_name": "Universite de Neuchatel",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "131.152.0.0/16",
+      "192.43.192.0/22",
+      "192.43.196.0/24"
+    ],
+    "org_name": "University of Basel",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "130.92.0.0/16",
+      "192.41.149.0/24",
+      "192.41.150.0/23",
+      "192.41.152.0/21",
+      "192.41.160.0/24",
+      "192.101.176.0/24",
+      "193.5.168.0/22",
+      "193.135.168.0/22",
+      "193.247.240.0/22",
+      "194.153.96.0/24"
+    ],
+    "org_name": "University of Bern",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "130.223.0.0/16",
+      "192.42.180.0/22",
+      "192.42.184.0/21",
+      "192.42.192.0/21",
+      "192.42.200.0/23"
+    ],
+    "org_name": "University of Lausanne",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "193.5.26.0/23"
+    ],
+    "org_name": "University of Liechtenstein",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "130.82.0.0/16"
+    ],
+    "org_name": "University of St. Gallen",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "89.206.64.0/18",
+      "130.60.0.0/16",
+      "185.207.117.0/24",
+      "185.207.118.0/23",
+      "192.12.247.0/24",
+      "192.41.136.0/24",
+      "2001:67c:16dc::/48"
+    ],
+    "org_name": "University of Zuerich",
+    "community": "SWITCH",
+    "asn": "559"
+  },
+  {
+    "addresses": [
+      "160.85.0.0/16",
+      "193.5.54.0/23"
+    ],
+    "org_name": "Zurich University of Applied Sciences (ZHA W)",
+    "community": "SWITCH",
+    "asn": "559"
   },
   {
     "addresses": [
