@@ -1,0 +1,137 @@
+[
+    {
+        "addresses": [
+            "138.7.0.0/18"
+        ],
+        "org_name": "Australian Institute of Marine Science",
+        "community": "AARnet",
+        "asn": "7575"
+    },
+    {
+        "addresses": [
+            "130.56.0.0/16",
+            "150.203.0.0/16"
+        ],
+        "org_name": "Australian National University",
+        "community": "AARnet",
+        "asn": "7575"
+    },
+    {
+        "addresses": [
+            "139.230.0.0/16",
+            "2400:6980::/32"
+        ],
+        "org_name": "Edith Cowan University",
+        "community": "AARnet",
+        "asn": "7575"
+    },
+    {
+        "addresses": [
+            "141.132.0.0/16"
+        ],
+        "org_name": "Federation University Australia",
+        "community": "AARnet",
+        "asn": "7575"
+    },
+    {
+        "addresses": [
+            "129.96.0.0/16",
+            "2402:a700::/32"
+        ],
+        "org_name": "Flinders University",
+        "community": "AARnet",
+        "asn": "7575"
+    },
+    {
+        "addresses": [
+            "132.234.0.0/16",
+            "2405:ce00::/32"
+        ],
+        "org_name": "GRIFFITH UNIVERSITY",
+        "community": "AARnet",
+        "asn": "7575"
+    },
+    {
+        "addresses": [
+            "203.1.224.0/20"
+        ],
+        "org_name": "Gordon Institute of TAFE",
+        "community": "AARnet",
+        "asn": "7575"
+    },
+    {
+        "addresses": [
+            "2001:df7:ec00::/48"
+        ],
+        "org_name": "MONTE SANT' ANGELO MERCY COLLEGE LIMITED",
+        "community": "AARnet",
+        "asn": "7575"
+    },
+    {
+        "addresses": [
+            "137.111.0.0/16"
+        ],
+        "org_name": "Macquarie University",
+        "community": "AARnet",
+        "asn": "7575"
+    },
+    {
+        "addresses": [
+            "131.181.0.0/16",
+            "2402:ec00::/32"
+        ],
+        "org_name": "Queensland University of Technology",
+        "community": "AARnet",
+        "asn": "7575"
+    },
+    {
+        "addresses": [
+            "131.170.0.0/16",
+            "144.205.0.0/16"
+        ],
+        "org_name": "Royal Melbourne Institute of Technology",
+        "community": "AARnet",
+        "asn": "7575"
+    },
+    {
+        "addresses": [
+            "152.98.0.0/16"
+        ],
+        "org_name": "The Council Of The Queensland Institute Of Medical Research",
+        "community": "AARnet",
+        "asn": "7575"
+    },
+    {
+        "addresses": [
+            "203.1.32.0/19",
+            "2406:8700::/32"
+        ],
+        "org_name": "The University of Newcastle",
+        "community": "AARnet",
+        "asn": "7575"
+    },
+    {
+        "addresses": [
+            "134.148.0.0/16"
+        ],
+        "org_name": "University of Newcastle, Australia - Callaghan campus",
+        "community": "AARnet",
+        "asn": "7575"
+    },
+    {
+        "addresses": [
+            "138.25.0.0/16"
+        ],
+        "org_name": "University of Technology Sydney",
+        "community": "AARnet",
+        "asn": "7575"
+    },
+    {
+        "addresses": [
+            "203.57.160.0/19"
+        ],
+        "org_name": "University of the Sunshine Coast",
+        "community": "AARnet",
+        "asn": "7575"
+    }
+]
