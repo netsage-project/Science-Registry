@@ -1,0 +1,610 @@
+[
+    {
+        "addresses": [
+            "202.15.16.0/20"
+        ],
+        "org_name": "Aichi Institute of Technology",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "202.250.160.0/20"
+        ],
+        "org_name": "Aichi University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "163.214.0.0/16"
+        ],
+        "org_name": "Aichi-Gakuin University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "163.54.0.0/16"
+        ],
+        "org_name": "Aomori Public University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "2405:d200::/32"
+        ],
+        "org_name": "Chikushi Jogakuen University Network,",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "157.6.0.0/16"
+        ],
+        "org_name": "Fukui Prefectural University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "202.251.224.0/20"
+        ],
+        "org_name": "Fukushima Medical University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "163.42.0.0/16"
+        ],
+        "org_name": "Geospatial Information Authority of Japan, Ministry of Land, Infrastructure, Transport and Tourism",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "202.175.144.0/20"
+        ],
+        "org_name": "Human Genome Center, Institute of Medical Science, University of Tokyo",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "202.254.0.0/19"
+        ],
+        "org_name": "Hyogo University of Teacher Education",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "157.80.0.0/16"
+        ],
+        "org_name": "Ibaraki University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "157.114.0.0/16"
+        ],
+        "org_name": "Institue National Colleges of Technology, Japan",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "160.29.0.0/16"
+        ],
+        "org_name": "Iwate University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "202.25.224.0/20"
+        ],
+        "org_name": "Joetsu University of Education",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "163.209.0.0/16"
+        ],
+        "org_name": "Kagoshima University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "157.13.0.0/16"
+        ],
+        "org_name": "Kindai Univercity,",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "163.51.0.0/16"
+        ],
+        "org_name": "Kindai University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "202.246.128.0/19"
+        ],
+        "org_name": "Kobe City Public University Corporation",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "202.253.224.0/20"
+        ],
+        "org_name": "Kokushikan University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "160.247.0.0/16"
+        ],
+        "org_name": "Konan University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "192.218.160.0/20"
+        ],
+        "org_name": "Kwansei Gakuin University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "131.206.0.0/16"
+        ],
+        "org_name": "Kyushu Institute of Technology",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "202.18.32.0/19"
+        ],
+        "org_name": "Kyushu Kyoritsu University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "160.194.0.0/16"
+        ],
+        "org_name": "Meisei University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "160.28.0.0/16"
+        ],
+        "org_name": "Miyagi University of Education",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "202.35.192.0/19"
+        ],
+        "org_name": "Nagoya City University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "160.11.0.0/16"
+        ],
+        "org_name": "Nara Women's University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "160.204.0.0/16"
+        ],
+        "org_name": "Naruto University of Education",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "160.190.0.0/16"
+        ],
+        "org_name": "National Cancer Center",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "144.213.0.0/16"
+        ],
+        "org_name": "National Institute for Materials Science",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "163.220.0.0/17",
+            "163.220.128.0/20"
+        ],
+        "org_name": "National Institute of Advanced Industrial Science and Technology",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "136.187.0.0/16"
+        ],
+        "org_name": "National Institute of Informatics",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "192.244.80.0/20"
+        ],
+        "org_name": "National Institute of Technology, Japan",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "157.111.0.0/16",
+            "157.111.0.0/20"
+        ],
+        "org_name": "National Institutes for Quantum and Radiological Science and Technology",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "202.243.16.0/20"
+        ],
+        "org_name": "National University Corporation Asahikawa Medical College",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "202.253.0.0/18"
+        ],
+        "org_name": "National University Corporation Hamamatsu University School of Medicine",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "202.252.128.0/18"
+        ],
+        "org_name": "National University Corporation Hokkaido University of Education",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "202.242.160.0/19"
+        ],
+        "org_name": "National University Corporation Institute of Science Tokyo",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "157.19.0.0/16"
+        ],
+        "org_name": "National University Corporation Muroran Institute of Technology",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "157.105.0.0/16"
+        ],
+        "org_name": "National University Corporation Tokyo Gakugei University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "165.93.0.0/16"
+        ],
+        "org_name": "National University Corporation Tokyo University of Agriculture and Technology",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "192.244.144.0/20"
+        ],
+        "org_name": "National University Corporation Tokyo University of Marine Science and Technology",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "202.18.160.0/20"
+        ],
+        "org_name": "Nippon Institute of Technology",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "163.225.0.0/16"
+        ],
+        "org_name": "Okayama Prefectural University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "202.236.128.0/20"
+        ],
+        "org_name": "Osaka Dental University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "202.26.160.0/20"
+        ],
+        "org_name": "Public University Corporation Prefectural University of Kumamoto",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "157.7.0.0/19"
+        ],
+        "org_name": "Radiation Effects Research Foundation",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "157.17.0.0/19"
+        ],
+        "org_name": "Reitaku University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "157.1.0.0/16",
+            "192.174.128.0/17",
+            "2001:2f8::/32",
+            "202.209.0.0/16",
+            "202.211.0.0/20",
+            "202.211.16.0/20",
+            "202.213.160.0/20",
+            "202.223.128.0/17",
+            "202.231.0.0/18",
+            "202.235.128.0/19",
+            "202.235.160.0/19",
+            "202.241.0.0/17",
+            "203.181.192.0/18",
+            "210.133.64.0/19",
+            "210.137.0.0/16",
+            "210.146.64.0/20",
+            "210.151.64.0/18",
+            "210.156.32.0/19"
+        ],
+        "org_name": "Research Organization of Information and Systems, National Institute of Informatics",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "202.244.112.0/20"
+        ],
+        "org_name": "Shikoku University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "192.244.208.0/20"
+        ],
+        "org_name": "Shimane University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "160.252.0.0/16"
+        ],
+        "org_name": "Shinshu University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "202.16.128.0/20"
+        ],
+        "org_name": "Sojo University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "202.16.208.0/20"
+        ],
+        "org_name": "TOHO University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "160.237.0.0/18",
+            "160.237.192.0/18"
+        ],
+        "org_name": "Tama University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "157.102.0.0/16"
+        ],
+        "org_name": "Teikyo University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "157.63.0.0/16"
+        ],
+        "org_name": "Teikyo University of Science",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "160.244.0.0/16"
+        ],
+        "org_name": "Tezukayama University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "130.153.0.0/16"
+        ],
+        "org_name": "The University of Electro-Communications",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "202.243.128.0/20"
+        ],
+        "org_name": "The University of Shiga Prefecture",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "130.34.0.0/16"
+        ],
+        "org_name": "Tohoku University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "150.7.0.0/16",
+            "202.250.0.0/20"
+        ],
+        "org_name": "Tokai University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "202.245.64.0/19"
+        ],
+        "org_name": "Tokiwa University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "163.215.0.0/16"
+        ],
+        "org_name": "Tokyo University Of Technology",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "164.161.0.0/16"
+        ],
+        "org_name": "Tokyo University of Marine Science and Technology",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "202.244.240.0/20"
+        ],
+        "org_name": "Tokyo University of the Arts",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "160.15.0.0/16"
+        ],
+        "org_name": "Tottori University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "147.157.0.0/17",
+            "147.157.128.0/17"
+        ],
+        "org_name": "Tsukuba College of Technology",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "157.76.0.0/16"
+        ],
+        "org_name": "Ube Frontier University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "157.16.0.0/16",
+            "160.193.0.0/16",
+            "163.226.0.0/16"
+        ],
+        "org_name": "University Public Corporation Osaka",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "160.198.0.0/16"
+        ],
+        "org_name": "University of Occupational and Environmental Health ,Japan",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "160.12.0.0/16"
+        ],
+        "org_name": "Utsunomiya University",
+        "community": "SINET",
+        "asn": "2907"
+    },
+    {
+        "addresses": [
+            "163.212.0.0/16"
+        ],
+        "org_name": "Yokohama City University",
+        "community": "SINET",
+        "asn": "2907"
+    }
+]
