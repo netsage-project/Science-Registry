@@ -1,5 +1,140 @@
 [
   {
+    "addresses": [
+      "138.7.0.0/18"
+    ],
+    "org_name": "Australian Institute of Marine Science",
+    "community": "AARnet",
+    "asn": "7575"
+  },
+  {
+    "addresses": [
+      "130.56.0.0/16",
+      "150.203.0.0/16"
+    ],
+    "org_name": "Australian National University",
+    "community": "AARnet",
+    "asn": "7575"
+  },
+  {
+    "addresses": [
+      "139.230.0.0/16",
+      "2400:6980::/32"
+    ],
+    "org_name": "Edith Cowan University",
+    "community": "AARnet",
+    "asn": "7575"
+  },
+  {
+    "addresses": [
+      "141.132.0.0/16"
+    ],
+    "org_name": "Federation University Australia",
+    "community": "AARnet",
+    "asn": "7575"
+  },
+  {
+    "addresses": [
+      "129.96.0.0/16",
+      "2402:a700::/32"
+    ],
+    "org_name": "Flinders University",
+    "community": "AARnet",
+    "asn": "7575"
+  },
+  {
+    "addresses": [
+      "132.234.0.0/16",
+      "2405:ce00::/32"
+    ],
+    "org_name": "GRIFFITH UNIVERSITY",
+    "community": "AARnet",
+    "asn": "7575"
+  },
+  {
+    "addresses": [
+      "203.1.224.0/20"
+    ],
+    "org_name": "Gordon Institute of TAFE",
+    "community": "AARnet",
+    "asn": "7575"
+  },
+  {
+    "addresses": [
+      "2001:df7:ec00::/48"
+    ],
+    "org_name": "MONTE SANT' ANGELO MERCY COLLEGE LIMITED",
+    "community": "AARnet",
+    "asn": "7575"
+  },
+  {
+    "addresses": [
+      "137.111.0.0/16"
+    ],
+    "org_name": "Macquarie University",
+    "community": "AARnet",
+    "asn": "7575"
+  },
+  {
+    "addresses": [
+      "131.181.0.0/16",
+      "2402:ec00::/32"
+    ],
+    "org_name": "Queensland University of Technology",
+    "community": "AARnet",
+    "asn": "7575"
+  },
+  {
+    "addresses": [
+      "131.170.0.0/16",
+      "144.205.0.0/16"
+    ],
+    "org_name": "Royal Melbourne Institute of Technology",
+    "community": "AARnet",
+    "asn": "7575"
+  },
+  {
+    "addresses": [
+      "152.98.0.0/16"
+    ],
+    "org_name": "The Council Of The Queensland Institute Of Medical Research",
+    "community": "AARnet",
+    "asn": "7575"
+  },
+  {
+    "addresses": [
+      "203.1.32.0/19",
+      "2406:8700::/32"
+    ],
+    "org_name": "The University of Newcastle",
+    "community": "AARnet",
+    "asn": "7575"
+  },
+  {
+    "addresses": [
+      "134.148.0.0/16"
+    ],
+    "org_name": "University of Newcastle, Australia - Callaghan campus",
+    "community": "AARnet",
+    "asn": "7575"
+  },
+  {
+    "addresses": [
+      "138.25.0.0/16"
+    ],
+    "org_name": "University of Technology Sydney",
+    "community": "AARnet",
+    "asn": "7575"
+  },
+  {
+    "addresses": [
+      "203.57.160.0/19"
+    ],
+    "org_name": "University of the Sunshine Coast",
+    "community": "AARnet",
+    "asn": "7575"
+  },
+  {
     "org_name": "Indiana University (IU)",
     "addresses": [
       "149.165.168.0/21",
@@ -1024,6 +1159,973 @@
     "org_name": "California State University, Sacramento",
     "asn": "396465",
     "community": "CENIC"
+  },
+  {
+    "addresses": [
+      "84.246.64.0/21"
+    ],
+    "org_name": "Fraunhofer-Gesellschaft zur Foerderung der angewandten Forschung e.V.",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "87.77.0.0/16"
+    ],
+    "org_name": "Freie Universitaet Berlin",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "128.7.0.0/16"
+    ],
+    "org_name": "Fraunhofer-Institut fuer Kommunikation, Informationsverarbeitung und Ergonomie FKIE",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "128.176.0.0/16"
+    ],
+    "org_name": "Universitaet Muenster, CIT",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "129.26.0.0/16"
+    ],
+    "org_name": "Fraunhofer-Gesellschaft zur Foerderung der angewandten Forschung e.V.",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "129.70.0.0/16"
+    ],
+    "org_name": "Universitaet Bielefeld",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "129.217.0.0/16"
+    ],
+    "org_name": "Technische Universitaet Dortmund",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "129.233.128.0/18",
+      "129.233.224.0/20"
+    ],
+    "org_name": "Fraunhofer-Gesellschaft zur Foerderung der angewandten Forschung e.V.",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "129.247.0.0/16"
+    ],
+    "org_name": "Deutsches Zentrum fuer Luft- und Raumfahrt e.V.",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "130.73.0.0/16"
+    ],
+    "org_name": "Zuse Institute Berlin",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "130.75.0.0/16"
+    ],
+    "org_name": "Gottfried Wilhelm Leibniz Universitaet Hannover",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "130.133.0.0/16"
+    ],
+    "org_name": "Freie Universitaet Berlin",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "130.149.0.0/16"
+    ],
+    "org_name": "TU Berlin",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "130.183.0.0/16"
+    ],
+    "org_name": "Max-Planck Computing and Data Facility",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "131.173.0.0/16"
+    ],
+    "org_name": "Universitaet Osnabrueck",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "131.188.0.0/16"
+    ],
+    "org_name": "Friedrich-Alexander-Universitaet Erlangen-Nuernberg",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "131.220.0.0/16"
+    ],
+    "org_name": "Rheinische Friedrich-Wilhelms-Universitaet Bonn",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "131.234.0.0/16"
+    ],
+    "org_name": "Universitaet Paderborn",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "132.176.0.0/16"
+    ],
+    "org_name": "FernUniversitaet Hagen",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "132.180.0.0/16"
+    ],
+    "org_name": "Universitaet Bayreuth",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "132.187.0.0/16"
+    ],
+    "org_name": "Universitaet Wuerzburg",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "132.195.0.0/16"
+    ],
+    "org_name": "Bergische Universitaet Wuppertal",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "132.199.0.0/16"
+    ],
+    "org_name": "Universitaet Regensburg",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "132.231.0.0/16"
+    ],
+    "org_name": "Universitaet Passau",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "132.252.0.0/16"
+    ],
+    "org_name": "Universitaet Duisburg-Essen",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "134.1.0.0/16"
+    ],
+    "org_name": "Alfred-Wegener-Institut, Helmholtz-Zentrum fuer Polar- und Meeresforschung",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "134.28.0.0/16"
+    ],
+    "org_name": "Technische Universitaet Hamburg",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "134.30.0.0/16"
+    ],
+    "org_name": "Helmholtz Zentrum Berlin fuer Materialien und Energie GmbH",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "134.91.0.0/16"
+    ],
+    "org_name": "Universitaet Duisburg-Essen",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "134.94.0.0/16"
+    ],
+    "org_name": "Forschungszentrum Juelich GmbH",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "134.96.0.0/16"
+    ],
+    "org_name": "Universitaet des Saarlandes",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "134.99.0.0/16"
+    ],
+    "org_name": "Heinrich-Heine-Universitaet Duesseldorf",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "134.100.0.0/16"
+    ],
+    "org_name": "Universitaet Hamburg",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "134.102.0.0/16"
+    ],
+    "org_name": "Universitaet Bremen",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "134.104.0.0/16"
+    ],
+    "org_name": "Max-Planck-Institut fuer Radioastronomie, Bonn",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "134.106.0.0/16"
+    ],
+    "org_name": "Carl von Ossietzky Universitaet Oldenburg",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "134.109.0.0/16"
+    ],
+    "org_name": "Technische Universitaet Chemnitz",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "134.110.0.0/16"
+    ],
+    "org_name": "Johann Heinrich von Thuenen-Institut (vTI)",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "134.169.0.0/16"
+    ],
+    "org_name": "Technische Universitaet Carolo-Wilhelmina zu Braunschweig",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "134.176.0.0/16"
+    ],
+    "org_name": "Justus-Liebig-Universitaet Giessen",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "134.245.0.0/16"
+    ],
+    "org_name": "Universitaet Kiel",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "136.156.96.0/19"
+    ],
+    "org_name": "European Centre for Medium-Range Weather Forecasts (ECMWF)",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "136.172.0.0/16"
+    ],
+    "org_name": "Deutsches Klimarechenzentrum (DKRZ), Hamburg",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "137.193.0.0/16"
+    ],
+    "org_name": "Universitaet der Bundeswehr Muenchen",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "137.248.0.0/16"
+    ],
+    "org_name": "Philipps-Universitaet Marburg",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "137.250.0.0/16"
+    ],
+    "org_name": "Universitaet Augsburg",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "139.6.0.0/16"
+    ],
+    "org_name": "Technische Hochschule Koeln",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "139.11.0.0/16"
+    ],
+    "org_name": "Helmut-Schmidt-Universitaet/Universitaet der Bundeswehr Hamburg",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "139.17.0.0/16"
+    ],
+    "org_name": "GFZ Helmholtz-Zentrum fuer Geoforschung",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "139.18.0.0/16"
+    ],
+    "org_name": "Universitaet Leipzig",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "139.19.0.0/16"
+    ],
+    "org_name": "Max-Planck-Institut fuer Informatik",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "139.20.0.0/16"
+    ],
+    "org_name": "Technische Universitaet Bergakademie Freiberg",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "139.30.0.0/16"
+    ],
+    "org_name": "Universitaet Rostock",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "139.75.0.0/16"
+    ],
+    "org_name": "Alfred-Wegener-Institut, Helmholtz-Zentrum fuer Polar- und Meeresforschung",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "139.174.0.0/16"
+    ],
+    "org_name": "Technische Universitaet Clausthal",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.4.0.0/16"
+    ],
+    "org_name": "Helmholtz-Zentrum hereon GmbH",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.5.0.0/16"
+    ],
+    "org_name": "Max Planck Institut fuer molekulare Physiologie",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.9.0.0/16"
+    ],
+    "org_name": "Deutsches Forschungsnetz",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.13.0.0/16"
+    ],
+    "org_name": "Otto-Friedrich-Universitaet Bamberg",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.14.0.0/16"
+    ],
+    "org_name": "Max-Planck-Gesellschaft zur Foerderung der Wissenschaften e.V.",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.20.0.0/16"
+    ],
+    "org_name": "Humboldt-Universitaet zu Berlin",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.22.0.0/16"
+    ],
+    "org_name": "Hochschule fuer angewandte Wissenschaften Hamburg",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.23.0.0/16"
+    ],
+    "org_name": "Technische Universitaet Berlin",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.24.0.0/16"
+    ],
+    "org_name": "Technische Universitaet Ilmenau",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.25.0.0/16"
+    ],
+    "org_name": "Physikalisch-Technische Bundesanstalt",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.27.0.0/16"
+    ],
+    "org_name": "Universitaet Wuerzburg",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.30.0.0/16"
+    ],
+    "org_name": "Technische Universitaet Dresden",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.32.0.0/16"
+    ],
+    "org_name": "Westsaechsische Hochschule Zwickau",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.33.0.0/16"
+    ],
+    "org_name": "Leibniz-Institut fuer Astrophysik Potsdam (AIP)",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.35.0.0/16"
+    ],
+    "org_name": "Friedrich Schiller Universitaet Jena",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.39.0.0/16"
+    ],
+    "org_name": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.41.0.0/16"
+    ],
+    "org_name": "Ostfalia Hochschule fuer angewandte Wissenschaften",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.42.0.0/16"
+    ],
+    "org_name": "Charite - Universitaetsmedizin Berlin",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.43.0.0/16"
+    ],
+    "org_name": "Brandenburgische Technische Universitaet Cottbus-Senftenberg",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.44.0.0/15",
+      "141.44.0.0/16"
+    ],
+    "org_name": "Otto-von-Guericke-Universitaet",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.45.0.0/16"
+    ],
+    "org_name": "Hochschule fuer Technik und Wirtschaft Berlin",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.46.0.0/16"
+    ],
+    "org_name": "Hochschule Zittau/Goerlitz",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.48.0.0/16"
+    ],
+    "org_name": "Martin-Luther-Universitaet Halle-Wittenberg",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.50.0.0/16"
+    ],
+    "org_name": "Institut fuer medizinische Informatik - Uni Giessen",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.51.0.0/16"
+    ],
+    "org_name": "Universitaet Kassel",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.53.0.0/16"
+    ],
+    "org_name": "Universitaet Greifswald",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.54.0.0/16"
+    ],
+    "org_name": "Bauhaus-Universitaet Weimar",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.55.0.0/16"
+    ],
+    "org_name": "Hochschule fuer Technik und Wirtschaft Mittweida (FH)",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.56.0.0/16"
+    ],
+    "org_name": "Hochschule fuer Technik und Wirtschaft Dresden (FH)",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.57.0.0/16"
+    ],
+    "org_name": "Hochschule fuer Technik, Wirtschaft und Kultur Leipzig",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.60.0.0/16"
+    ],
+    "org_name": "Technische Hochschule Rosenheim",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.61.0.0/16"
+    ],
+    "org_name": "Max-Planck-Intitut fuer Biochemie",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.63.0.0/16"
+    ],
+    "org_name": "Bundesministerium des Innern und fuer Heimat",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.64.0.0/16"
+    ],
+    "org_name": "Berliner Hochschule fuer Technik",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.65.0.0/16"
+    ],
+    "org_name": "Helmholtz-Zentrum fuer Umweltforschung GmbH - UFZ",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.67.0.0/16"
+    ],
+    "org_name": "Klinikum der Friedrich-Alexander-Universitaet Erlangen-Nuernberg",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.71.0.0/16"
+    ],
+    "org_name": "Hochschule Hannover",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.74.0.0/16"
+    ],
+    "org_name": "Bundesamt fuer Kartographie und Geodaesie",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.75.0.0/16"
+    ],
+    "org_name": "Technische Hochschule Nuernberg Georg Simon Ohm",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.76.0.0/16"
+    ],
+    "org_name": "Technische Universitaet Dresden",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.78.0.0/18",
+      "141.78.64.0/19",
+      "141.78.112.0/20",
+      "141.78.192.0/18"
+    ],
+    "org_name": "Katholische Universitaet Eichstaett",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.82.0.0/16"
+    ],
+    "org_name": "Technische Hochschule Augsburg",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.83.0.0/16"
+    ],
+    "org_name": "Universitaet zu Luebeck",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.89.0.0/16"
+    ],
+    "org_name": "Universitaet Potsdam",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "141.99.0.0/16"
+    ],
+    "org_name": "Universitaet Siegen",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "146.107.0.0/16"
+    ],
+    "org_name": "Helmholtz Zentrum Muenchen",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "147.172.0.0/16"
+    ],
+    "org_name": "Stiftung Universitaet Hildesheim",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "149.203.0.0/16"
+    ],
+    "org_name": "Universitaetsklinikum Magdeburg",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "149.205.0.0/16"
+    ],
+    "org_name": "Hochschule Merseburg",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "149.217.0.0/16"
+    ],
+    "org_name": "Max-Planck-Institut fuer Kernphysik",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "149.220.0.0/16"
+    ],
+    "org_name": "Helmholtz-Zentrum Dresden-Rossendorf e.V.",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "149.222.0.0/16"
+    ],
+    "org_name": "Fachhochschule Kiel",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "160.45.0.0/16"
+    ],
+    "org_name": "Freie Universitaet Berlin",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "188.1.0.0/16"
+    ],
+    "org_name": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "192.26.176.0/20"
+    ],
+    "org_name": "Universitaet Paderborn",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "193.16.112.0/20"
+    ],
+    "org_name": "Technische Hochschule Ostwestfalen-Lippe",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "193.22.32.0/20",
+      "193.22.64.0/20"
+    ],
+    "org_name": "Mitteldeutscher Rundfunk (MDR)",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "193.24.80.0/21"
+    ],
+    "org_name": "Deutsches Herzzentrum Berlin",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "193.25.16.0/20",
+      "193.25.32.0/20"
+    ],
+    "org_name": "Fachhochschule Dortmund",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "193.149.8.0/21"
+    ],
+    "org_name": "Helmholtz Zentrum Berlin fuer Materialien und Energie GmbH",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "193.174.0.0/15"
+    ],
+    "org_name": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "194.94.0.0/15"
+    ],
+    "org_name": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "195.37.0.0/16"
+    ],
+    "org_name": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "212.44.192.0/19"
+    ],
+    "org_name": "Fraunhofer-Gesellschaft zur Foerderung der angewandten Forschung e.V.",
+    "community": "DFN",
+    "asn": "680"
+  },
+  {
+    "addresses": [
+      "212.201.0.0/16"
+    ],
+    "org_name": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+    "community": "DFN",
+    "asn": "680"
   },
   {
     "addresses": [
@@ -4258,6 +5360,614 @@
   },
   {
     "addresses": [
+      "202.15.16.0/20"
+    ],
+    "org_name": "Aichi Institute of Technology",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "202.250.160.0/20"
+    ],
+    "org_name": "Aichi University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "163.214.0.0/16"
+    ],
+    "org_name": "Aichi-Gakuin University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "163.54.0.0/16"
+    ],
+    "org_name": "Aomori Public University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "2405:d200::/32"
+    ],
+    "org_name": "Chikushi Jogakuen University Network,",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "157.6.0.0/16"
+    ],
+    "org_name": "Fukui Prefectural University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "202.251.224.0/20"
+    ],
+    "org_name": "Fukushima Medical University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "163.42.0.0/16"
+    ],
+    "org_name": "Geospatial Information Authority of Japan, Ministry of Land, Infrastructure, Transport and Tourism",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "202.175.144.0/20"
+    ],
+    "org_name": "Human Genome Center, Institute of Medical Science, University of Tokyo",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "202.254.0.0/19"
+    ],
+    "org_name": "Hyogo University of Teacher Education",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "157.80.0.0/16"
+    ],
+    "org_name": "Ibaraki University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "157.114.0.0/16"
+    ],
+    "org_name": "Institue National Colleges of Technology, Japan",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "160.29.0.0/16"
+    ],
+    "org_name": "Iwate University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "202.25.224.0/20"
+    ],
+    "org_name": "Joetsu University of Education",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "163.209.0.0/16"
+    ],
+    "org_name": "Kagoshima University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "157.13.0.0/16"
+    ],
+    "org_name": "Kindai Univercity,",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "163.51.0.0/16"
+    ],
+    "org_name": "Kindai University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "202.246.128.0/19"
+    ],
+    "org_name": "Kobe City Public University Corporation",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "202.253.224.0/20"
+    ],
+    "org_name": "Kokushikan University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "160.247.0.0/16"
+    ],
+    "org_name": "Konan University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "192.218.160.0/20"
+    ],
+    "org_name": "Kwansei Gakuin University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "131.206.0.0/16"
+    ],
+    "org_name": "Kyushu Institute of Technology",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "202.18.32.0/19"
+    ],
+    "org_name": "Kyushu Kyoritsu University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "160.194.0.0/16"
+    ],
+    "org_name": "Meisei University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "160.28.0.0/16"
+    ],
+    "org_name": "Miyagi University of Education",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "202.35.192.0/19"
+    ],
+    "org_name": "Nagoya City University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "160.11.0.0/16"
+    ],
+    "org_name": "Nara Women's University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "160.204.0.0/16"
+    ],
+    "org_name": "Naruto University of Education",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "160.190.0.0/16"
+    ],
+    "org_name": "National Cancer Center",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "144.213.0.0/16"
+    ],
+    "org_name": "National Institute for Materials Science",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "163.220.0.0/17",
+      "163.220.128.0/20"
+    ],
+    "org_name": "National Institute of Advanced Industrial Science and Technology",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "136.187.0.0/16"
+    ],
+    "org_name": "National Institute of Informatics",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "192.244.80.0/20"
+    ],
+    "org_name": "National Institute of Technology, Japan",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "157.111.0.0/16",
+      "157.111.0.0/20"
+    ],
+    "org_name": "National Institutes for Quantum and Radiological Science and Technology",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "202.243.16.0/20"
+    ],
+    "org_name": "National University Corporation Asahikawa Medical College",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "202.253.0.0/18"
+    ],
+    "org_name": "National University Corporation Hamamatsu University School of Medicine",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "202.252.128.0/18"
+    ],
+    "org_name": "National University Corporation Hokkaido University of Education",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "202.242.160.0/19"
+    ],
+    "org_name": "National University Corporation Institute of Science Tokyo",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "157.19.0.0/16"
+    ],
+    "org_name": "National University Corporation Muroran Institute of Technology",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "157.105.0.0/16"
+    ],
+    "org_name": "National University Corporation Tokyo Gakugei University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "165.93.0.0/16"
+    ],
+    "org_name": "National University Corporation Tokyo University of Agriculture and Technology",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "192.244.144.0/20"
+    ],
+    "org_name": "National University Corporation Tokyo University of Marine Science and Technology",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "202.18.160.0/20"
+    ],
+    "org_name": "Nippon Institute of Technology",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "163.225.0.0/16"
+    ],
+    "org_name": "Okayama Prefectural University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "202.236.128.0/20"
+    ],
+    "org_name": "Osaka Dental University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "202.26.160.0/20"
+    ],
+    "org_name": "Public University Corporation Prefectural University of Kumamoto",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "157.7.0.0/19"
+    ],
+    "org_name": "Radiation Effects Research Foundation",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "157.17.0.0/19"
+    ],
+    "org_name": "Reitaku University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "157.1.0.0/16",
+      "192.174.128.0/17",
+      "2001:2f8::/32",
+      "202.209.0.0/16",
+      "202.211.0.0/20",
+      "202.211.16.0/20",
+      "202.213.160.0/20",
+      "202.223.128.0/17",
+      "202.231.0.0/18",
+      "202.235.128.0/19",
+      "202.235.160.0/19",
+      "202.241.0.0/17",
+      "203.181.192.0/18",
+      "210.133.64.0/19",
+      "210.137.0.0/16",
+      "210.146.64.0/20",
+      "210.151.64.0/18",
+      "210.156.32.0/19"
+    ],
+    "org_name": "Research Organization of Information and Systems, National Institute of Informatics",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "202.244.112.0/20"
+    ],
+    "org_name": "Shikoku University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "192.244.208.0/20"
+    ],
+    "org_name": "Shimane University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "160.252.0.0/16"
+    ],
+    "org_name": "Shinshu University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "202.16.128.0/20"
+    ],
+    "org_name": "Sojo University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "202.16.208.0/20"
+    ],
+    "org_name": "TOHO University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "160.237.0.0/18",
+      "160.237.192.0/18"
+    ],
+    "org_name": "Tama University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "157.102.0.0/16"
+    ],
+    "org_name": "Teikyo University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "157.63.0.0/16"
+    ],
+    "org_name": "Teikyo University of Science",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "160.244.0.0/16"
+    ],
+    "org_name": "Tezukayama University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "130.153.0.0/16"
+    ],
+    "org_name": "The University of Electro-Communications",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "202.243.128.0/20"
+    ],
+    "org_name": "The University of Shiga Prefecture",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "130.34.0.0/16"
+    ],
+    "org_name": "Tohoku University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "150.7.0.0/16",
+      "202.250.0.0/20"
+    ],
+    "org_name": "Tokai University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "202.245.64.0/19"
+    ],
+    "org_name": "Tokiwa University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "163.215.0.0/16"
+    ],
+    "org_name": "Tokyo University Of Technology",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "164.161.0.0/16"
+    ],
+    "org_name": "Tokyo University of Marine Science and Technology",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "202.244.240.0/20"
+    ],
+    "org_name": "Tokyo University of the Arts",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "160.15.0.0/16"
+    ],
+    "org_name": "Tottori University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "147.157.0.0/17",
+      "147.157.128.0/17"
+    ],
+    "org_name": "Tsukuba College of Technology",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "157.76.0.0/16"
+    ],
+    "org_name": "Ube Frontier University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "157.16.0.0/16",
+      "160.193.0.0/16",
+      "163.226.0.0/16"
+    ],
+    "org_name": "University Public Corporation Osaka",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "160.198.0.0/16"
+    ],
+    "org_name": "University of Occupational and Environmental Health ,Japan",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "160.12.0.0/16"
+    ],
+    "org_name": "Utsunomiya University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
+      "163.212.0.0/16"
+    ],
+    "org_name": "Yokohama City University",
+    "community": "SINET",
+    "asn": "2907"
+  },
+  {
+    "addresses": [
       "198.180.132.0/22",
       "204.27.217.0/24"
     ],
@@ -4739,6 +6449,276 @@
     "org_name": "Woodruff Library",
     "asn": 21784,
     "community": "SoX"
+  },
+  {
+    "addresses": [
+      "145.117.0.0/16"
+    ],
+    "org_name": "Academic Medical Centre",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "145.9.0.0/16"
+    ],
+    "org_name": "Deltares",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "139.63.0.0/16"
+    ],
+    "org_name": "Dutch organization for applied scientific research",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "156.83.0.0/16"
+    ],
+    "org_name": "Erasmus MC",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "145.5.0.0/16"
+    ],
+    "org_name": "Erasmus Universiteit Rotterdam",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "145.52.0.0/16"
+    ],
+    "org_name": "Haagse Hogeschool",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "145.37.0.0/16"
+    ],
+    "org_name": "Hanzehogeschool Groningen",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "145.24.0.0/16",
+      "145.51.0.0/16"
+    ],
+    "org_name": "Hogeschool Rotterdam & Omstreken",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "145.76.0.0/16"
+    ],
+    "org_name": "Hogeschool Saxion",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "145.19.0.0/16"
+    ],
+    "org_name": "Hogeschool Zeeland Network",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "145.91.0.0/16",
+      "194.104.240.0/20"
+    ],
+    "org_name": "Hogeschool Zuyd",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "194.13.16.0/20"
+    ],
+    "org_name": "Inspectie van het Onderwijs",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "145.23.0.0/16"
+    ],
+    "org_name": "Koninklijk Nederlands Meteorologisch Instituut",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "141.252.0.0/16"
+    ],
+    "org_name": "Noordelijke Hogeschool Leeuwarden",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "145.20.0.0/16"
+    ],
+    "org_name": "Open Universiteit",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "131.174.0.0/16",
+      "145.116.128.0/18",
+      "145.137.128.0/18"
+    ],
+    "org_name": "Radboud Universiteit Nijmegen",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "145.97.128.0/18"
+    ],
+    "org_name": "Rijks Universiteit Groningen",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "131.224.0.0/16"
+    ],
+    "org_name": "Rijksinstituut voor Volksgezondheid en Milieuhygiene",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "129.125.0.0/16"
+    ],
+    "org_name": "Rijksuniversiteit Groningen",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "145.116.64.0/18"
+    ],
+    "org_name": "ROC Mondriaan",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "145.97.48.0/20",
+      "145.97.64.0/18",
+      "145.116.224.0/19"
+    ],
+    "org_name": "ROC Oost-Nederland",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "136.231.0.0/16"
+    ],
+    "org_name": "Stichting Deltares",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "145.103.0.0/16"
+    ],
+    "org_name": "Stichting GlasLokaal",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "130.37.0.0/16"
+    ],
+    "org_name": "Stichting VU",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "143.121.0.0/16"
+    ],
+    "org_name": "Universitair Medisch Centrum Utrecht",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "132.229.0.0/16"
+    ],
+    "org_name": "Universiteit Leiden RPKI & ASPA Report",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "137.120.0.0/16"
+    ],
+    "org_name": "Universiteit Maastricht",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "145.127.0.0/17"
+    ],
+    "org_name": "Universiteit Maastricht (UM)",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "131.211.0.0/16"
+    ],
+    "org_name": "Universiteit Utrecht",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "137.56.0.0/16"
+    ],
+    "org_name": "Universiteit van Tilburg",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "145.108.0.0/16"
+    ],
+    "org_name": "Vrije Universiteit Amsterdam",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "137.224.0.0/16"
+    ],
+    "org_name": "Wageningen Universiteit",
+    "community": "SURFnet",
+    "asn": "1103"
+  },
+  {
+    "addresses": [
+      "145.116.192.0/20"
+    ],
+    "org_name": "Zeeuwse Bibliotheek",
+    "community": "SURFnet",
+    "asn": "1103"
   },
   {
     "addresses": [
