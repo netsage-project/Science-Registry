@@ -1,0 +1,272 @@
+[
+    {
+        "addresses": [
+            "145.117.0.0/16"
+        ],
+        "org_name": "Academic Medical Centre",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "145.9.0.0/16"
+        ],
+        "org_name": "Deltares",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "139.63.0.0/16"
+        ],
+        "org_name": "Dutch organization for applied scientific research",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "156.83.0.0/16"
+        ],
+        "org_name": "Erasmus MC",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "145.5.0.0/16"
+        ],
+        "org_name": "Erasmus Universiteit Rotterdam",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "145.52.0.0/16"
+        ],
+        "org_name": "Haagse Hogeschool",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "145.37.0.0/16"
+        ],
+        "org_name": "Hanzehogeschool Groningen",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "145.24.0.0/16",
+            "145.51.0.0/16"
+        ],
+        "org_name": "Hogeschool Rotterdam & Omstreken",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "145.76.0.0/16"
+        ],
+        "org_name": "Hogeschool Saxion",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "145.19.0.0/16"
+        ],
+        "org_name": "Hogeschool Zeeland Network",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "145.91.0.0/16",
+            "194.104.240.0/20"
+        ],
+        "org_name": "Hogeschool Zuyd",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "194.13.16.0/20"
+        ],
+        "org_name": "Inspectie van het Onderwijs",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "145.23.0.0/16"
+        ],
+        "org_name": "Koninklijk Nederlands Meteorologisch Instituut",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "141.252.0.0/16"
+        ],
+        "org_name": "Noordelijke Hogeschool Leeuwarden",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "145.20.0.0/16"
+        ],
+        "org_name": "Open Universiteit",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "131.174.0.0/16",
+            "145.116.128.0/18",
+            "145.137.128.0/18"
+        ],
+        "org_name": "Radboud Universiteit Nijmegen",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "145.97.128.0/18"
+        ],
+        "org_name": "Rijks Universiteit Groningen",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "131.224.0.0/16"
+        ],
+        "org_name": "Rijksinstituut voor Volksgezondheid en Milieuhygiene",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "129.125.0.0/16"
+        ],
+        "org_name": "Rijksuniversiteit Groningen",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "145.116.64.0/18"
+        ],
+        "org_name": "ROC Mondriaan",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "145.97.48.0/20",
+            "145.97.64.0/18",
+            "145.116.224.0/19"
+        ],
+        "org_name": "ROC Oost-Nederland",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "136.231.0.0/16"
+        ],
+        "org_name": "Stichting Deltares",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "145.103.0.0/16"
+        ],
+        "org_name": "Stichting GlasLokaal",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "130.37.0.0/16"
+        ],
+        "org_name": "Stichting VU",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "143.121.0.0/16"
+        ],
+        "org_name": "Universitair Medisch Centrum Utrecht",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "132.229.0.0/16"
+        ],
+        "org_name": "Universiteit Leiden RPKI & ASPA Report",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "137.120.0.0/16"
+        ],
+        "org_name": "Universiteit Maastricht",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "145.127.0.0/17"
+        ],
+        "org_name": "Universiteit Maastricht (UM)",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "131.211.0.0/16"
+        ],
+        "org_name": "Universiteit Utrecht",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "137.56.0.0/16"
+        ],
+        "org_name": "Universiteit van Tilburg",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "145.108.0.0/16"
+        ],
+        "org_name": "Vrije Universiteit Amsterdam",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "137.224.0.0/16"
+        ],
+        "org_name": "Wageningen Universiteit",
+        "community": "SURFnet",
+        "asn": "1103"
+    },
+    {
+        "addresses": [
+            "145.116.192.0/20"
+        ],
+        "org_name": "Zeeuwse Bibliotheek",
+        "community": "SURFnet",
+        "asn": "1103"
+    }
+]

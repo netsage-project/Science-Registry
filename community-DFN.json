@@ -1,0 +1,969 @@
+[
+    {
+        "addresses": [
+            "84.246.64.0/21"
+        ],
+        "org_name": "Fraunhofer-Gesellschaft zur Foerderung der angewandten Forschung e.V.",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "87.77.0.0/16"
+        ],
+        "org_name": "Freie Universitaet Berlin",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "128.7.0.0/16"
+        ],
+        "org_name": "Fraunhofer-Institut fuer Kommunikation, Informationsverarbeitung und Ergonomie FKIE",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "128.176.0.0/16"
+        ],
+        "org_name": "Universitaet Muenster, CIT",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "129.26.0.0/16"
+        ],
+        "org_name": "Fraunhofer-Gesellschaft zur Foerderung der angewandten Forschung e.V.",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "129.70.0.0/16"
+        ],
+        "org_name": "Universitaet Bielefeld",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "129.217.0.0/16"
+        ],
+        "org_name": "Technische Universitaet Dortmund",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "129.233.128.0/18",
+            "129.233.224.0/20"
+        ],
+        "org_name": "Fraunhofer-Gesellschaft zur Foerderung der angewandten Forschung e.V.",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "129.247.0.0/16"
+        ],
+        "org_name": "Deutsches Zentrum fuer Luft- und Raumfahrt e.V.",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "130.73.0.0/16"
+        ],
+        "org_name": "Zuse Institute Berlin",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "130.75.0.0/16"
+        ],
+        "org_name": "Gottfried Wilhelm Leibniz Universitaet Hannover",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "130.133.0.0/16"
+        ],
+        "org_name": "Freie Universitaet Berlin",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "130.149.0.0/16"
+        ],
+        "org_name": "TU Berlin",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "130.183.0.0/16"
+        ],
+        "org_name": "Max-Planck Computing and Data Facility",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "131.173.0.0/16"
+        ],
+        "org_name": "Universitaet Osnabrueck",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "131.188.0.0/16"
+        ],
+        "org_name": "Friedrich-Alexander-Universitaet Erlangen-Nuernberg",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "131.220.0.0/16"
+        ],
+        "org_name": "Rheinische Friedrich-Wilhelms-Universitaet Bonn",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "131.234.0.0/16"
+        ],
+        "org_name": "Universitaet Paderborn",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "132.176.0.0/16"
+        ],
+        "org_name": "FernUniversitaet Hagen",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "132.180.0.0/16"
+        ],
+        "org_name": "Universitaet Bayreuth",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "132.187.0.0/16"
+        ],
+        "org_name": "Universitaet Wuerzburg",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "132.195.0.0/16"
+        ],
+        "org_name": "Bergische Universitaet Wuppertal",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "132.199.0.0/16"
+        ],
+        "org_name": "Universitaet Regensburg",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "132.231.0.0/16"
+        ],
+        "org_name": "Universitaet Passau",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "132.252.0.0/16"
+        ],
+        "org_name": "Universitaet Duisburg-Essen",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "134.1.0.0/16"
+        ],
+        "org_name": "Alfred-Wegener-Institut, Helmholtz-Zentrum fuer Polar- und Meeresforschung",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "134.28.0.0/16"
+        ],
+        "org_name": "Technische Universitaet Hamburg",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "134.30.0.0/16"
+        ],
+        "org_name": "Helmholtz Zentrum Berlin fuer Materialien und Energie GmbH",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "134.91.0.0/16"
+        ],
+        "org_name": "Universitaet Duisburg-Essen",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "134.94.0.0/16"
+        ],
+        "org_name": "Forschungszentrum Juelich GmbH",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "134.96.0.0/16"
+        ],
+        "org_name": "Universitaet des Saarlandes",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "134.99.0.0/16"
+        ],
+        "org_name": "Heinrich-Heine-Universitaet Duesseldorf",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "134.100.0.0/16"
+        ],
+        "org_name": "Universitaet Hamburg",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "134.102.0.0/16"
+        ],
+        "org_name": "Universitaet Bremen",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "134.104.0.0/16"
+        ],
+        "org_name": "Max-Planck-Institut fuer Radioastronomie, Bonn",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "134.106.0.0/16"
+        ],
+        "org_name": "Carl von Ossietzky Universitaet Oldenburg",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "134.109.0.0/16"
+        ],
+        "org_name": "Technische Universitaet Chemnitz",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "134.110.0.0/16"
+        ],
+        "org_name": "Johann Heinrich von Thuenen-Institut (vTI)",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "134.169.0.0/16"
+        ],
+        "org_name": "Technische Universitaet Carolo-Wilhelmina zu Braunschweig",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "134.176.0.0/16"
+        ],
+        "org_name": "Justus-Liebig-Universitaet Giessen",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "134.245.0.0/16"
+        ],
+        "org_name": "Universitaet Kiel",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "136.156.96.0/19"
+        ],
+        "org_name": "European Centre for Medium-Range Weather Forecasts (ECMWF)",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "136.172.0.0/16"
+        ],
+        "org_name": "Deutsches Klimarechenzentrum (DKRZ), Hamburg",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "137.193.0.0/16"
+        ],
+        "org_name": "Universitaet der Bundeswehr Muenchen",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "137.248.0.0/16"
+        ],
+        "org_name": "Philipps-Universitaet Marburg",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "137.250.0.0/16"
+        ],
+        "org_name": "Universitaet Augsburg",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "139.6.0.0/16"
+        ],
+        "org_name": "Technische Hochschule Koeln",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "139.11.0.0/16"
+        ],
+        "org_name": "Helmut-Schmidt-Universitaet/Universitaet der Bundeswehr Hamburg",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "139.17.0.0/16"
+        ],
+        "org_name": "GFZ Helmholtz-Zentrum fuer Geoforschung",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "139.18.0.0/16"
+        ],
+        "org_name": "Universitaet Leipzig",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "139.19.0.0/16"
+        ],
+        "org_name": "Max-Planck-Institut fuer Informatik",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "139.20.0.0/16"
+        ],
+        "org_name": "Technische Universitaet Bergakademie Freiberg",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "139.30.0.0/16"
+        ],
+        "org_name": "Universitaet Rostock",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "139.75.0.0/16"
+        ],
+        "org_name": "Alfred-Wegener-Institut, Helmholtz-Zentrum fuer Polar- und Meeresforschung",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "139.174.0.0/16"
+        ],
+        "org_name": "Technische Universitaet Clausthal",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.4.0.0/16"
+        ],
+        "org_name": "Helmholtz-Zentrum hereon GmbH",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.5.0.0/16"
+        ],
+        "org_name": "Max Planck Institut fuer molekulare Physiologie",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.9.0.0/16"
+        ],
+        "org_name": "Deutsches Forschungsnetz",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.13.0.0/16"
+        ],
+        "org_name": "Otto-Friedrich-Universitaet Bamberg",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.14.0.0/16"
+        ],
+        "org_name": "Max-Planck-Gesellschaft zur Foerderung der Wissenschaften e.V.",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.20.0.0/16"
+        ],
+        "org_name": "Humboldt-Universitaet zu Berlin",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.22.0.0/16"
+        ],
+        "org_name": "Hochschule fuer angewandte Wissenschaften Hamburg",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.23.0.0/16"
+        ],
+        "org_name": "Technische Universitaet Berlin",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.24.0.0/16"
+        ],
+        "org_name": "Technische Universitaet Ilmenau",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.25.0.0/16"
+        ],
+        "org_name": "Physikalisch-Technische Bundesanstalt",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.27.0.0/16"
+        ],
+        "org_name": "Universitaet Wuerzburg",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.30.0.0/16"
+        ],
+        "org_name": "Technische Universitaet Dresden",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.32.0.0/16"
+        ],
+        "org_name": "Westsaechsische Hochschule Zwickau",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.33.0.0/16"
+        ],
+        "org_name": "Leibniz-Institut fuer Astrophysik Potsdam (AIP)",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.35.0.0/16"
+        ],
+        "org_name": "Friedrich Schiller Universitaet Jena",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.39.0.0/16"
+        ],
+        "org_name": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.41.0.0/16"
+        ],
+        "org_name": "Ostfalia Hochschule fuer angewandte Wissenschaften",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.42.0.0/16"
+        ],
+        "org_name": "Charite - Universitaetsmedizin Berlin",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.43.0.0/16"
+        ],
+        "org_name": "Brandenburgische Technische Universitaet Cottbus-Senftenberg",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.44.0.0/15",
+            "141.44.0.0/16"
+        ],
+        "org_name": "Otto-von-Guericke-Universitaet",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.45.0.0/16"
+        ],
+        "org_name": "Hochschule fuer Technik und Wirtschaft Berlin",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.46.0.0/16"
+        ],
+        "org_name": "Hochschule Zittau/Goerlitz",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.48.0.0/16"
+        ],
+        "org_name": "Martin-Luther-Universitaet Halle-Wittenberg",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.50.0.0/16"
+        ],
+        "org_name": "Institut fuer medizinische Informatik - Uni Giessen",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.51.0.0/16"
+        ],
+        "org_name": "Universitaet Kassel",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.53.0.0/16"
+        ],
+        "org_name": "Universitaet Greifswald",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.54.0.0/16"
+        ],
+        "org_name": "Bauhaus-Universitaet Weimar",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.55.0.0/16"
+        ],
+        "org_name": "Hochschule fuer Technik und Wirtschaft Mittweida (FH)",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.56.0.0/16"
+        ],
+        "org_name": "Hochschule fuer Technik und Wirtschaft Dresden (FH)",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.57.0.0/16"
+        ],
+        "org_name": "Hochschule fuer Technik, Wirtschaft und Kultur Leipzig",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.60.0.0/16"
+        ],
+        "org_name": "Technische Hochschule Rosenheim",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.61.0.0/16"
+        ],
+        "org_name": "Max-Planck-Intitut fuer Biochemie",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.63.0.0/16"
+        ],
+        "org_name": "Bundesministerium des Innern und fuer Heimat",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.64.0.0/16"
+        ],
+        "org_name": "Berliner Hochschule fuer Technik",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.65.0.0/16"
+        ],
+        "org_name": "Helmholtz-Zentrum fuer Umweltforschung GmbH - UFZ",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.67.0.0/16"
+        ],
+        "org_name": "Klinikum der Friedrich-Alexander-Universitaet Erlangen-Nuernberg",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.71.0.0/16"
+        ],
+        "org_name": "Hochschule Hannover",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.74.0.0/16"
+        ],
+        "org_name": "Bundesamt fuer Kartographie und Geodaesie",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.75.0.0/16"
+        ],
+        "org_name": "Technische Hochschule Nuernberg Georg Simon Ohm",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.76.0.0/16"
+        ],
+        "org_name": "Technische Universitaet Dresden",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.78.0.0/18",
+            "141.78.64.0/19",
+            "141.78.112.0/20",
+            "141.78.192.0/18"
+        ],
+        "org_name": "Katholische Universitaet Eichstaett",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.82.0.0/16"
+        ],
+        "org_name": "Technische Hochschule Augsburg",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.83.0.0/16"
+        ],
+        "org_name": "Universitaet zu Luebeck",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.89.0.0/16"
+        ],
+        "org_name": "Universitaet Potsdam",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "141.99.0.0/16"
+        ],
+        "org_name": "Universitaet Siegen",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "146.107.0.0/16"
+        ],
+        "org_name": "Helmholtz Zentrum Muenchen",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "147.172.0.0/16"
+        ],
+        "org_name": "Stiftung Universitaet Hildesheim",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "149.203.0.0/16"
+        ],
+        "org_name": "Universitaetsklinikum Magdeburg",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "149.205.0.0/16"
+        ],
+        "org_name": "Hochschule Merseburg",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "149.217.0.0/16"
+        ],
+        "org_name": "Max-Planck-Institut fuer Kernphysik",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "149.220.0.0/16"
+        ],
+        "org_name": "Helmholtz-Zentrum Dresden-Rossendorf e.V.",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "149.222.0.0/16"
+        ],
+        "org_name": "Fachhochschule Kiel",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "160.45.0.0/16"
+        ],
+        "org_name": "Freie Universitaet Berlin",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "188.1.0.0/16"
+        ],
+        "org_name": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "192.26.176.0/20"
+        ],
+        "org_name": "Universitaet Paderborn",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "193.16.112.0/20"
+        ],
+        "org_name": "Technische Hochschule Ostwestfalen-Lippe",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "193.22.32.0/20",
+            "193.22.64.0/20"
+        ],
+        "org_name": "Mitteldeutscher Rundfunk (MDR)",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "193.24.80.0/21"
+        ],
+        "org_name": "Deutsches Herzzentrum Berlin",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "193.25.16.0/20",
+            "193.25.32.0/20"
+        ],
+        "org_name": "Fachhochschule Dortmund",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "193.149.8.0/21"
+        ],
+        "org_name": "Helmholtz Zentrum Berlin fuer Materialien und Energie GmbH",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "193.174.0.0/15"
+        ],
+        "org_name": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "194.94.0.0/15"
+        ],
+        "org_name": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "195.37.0.0/16"
+        ],
+        "org_name": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "212.44.192.0/19"
+        ],
+        "org_name": "Fraunhofer-Gesellschaft zur Foerderung der angewandten Forschung e.V.",
+        "community": "DFN",
+        "asn": "680"
+    },
+    {
+        "addresses": [
+            "212.201.0.0/16"
+        ],
+        "org_name": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "community": "DFN",
+        "asn": "680"
+    }
+]
