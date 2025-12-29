@@ -264,6 +264,14 @@
     },
     {
         "addresses": [
+            "192.16.204.0/24"
+        ],
+        "org_name": "Institute for Advanced Study (IAS)",
+        "asn": "21976",
+        "community": "NJEdge"
+    },
+    {
+        "addresses": [
             "192.107.39.0/24"
         ],
         "org_name": "Drew University",

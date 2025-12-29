@@ -268,5 +268,21 @@
         "org_name": "Zeeuwse Bibliotheek",
         "community": "SURFnet",
         "asn": "1103"
+    },
+    {
+        "addresses": [
+            "2001:67c:1200::/48"
+        ],
+        "org_name": "Maxima Medisch Centrum",
+        "asn": "1103",
+        "community": "SURFnet"
+    },
+    {
+        "addresses": [
+            "2001:67c:262c::/48"
+        ],
+        "org_name": "Dienst Uitvoering Onderwijs",
+        "asn": "1103",
+        "community": "SURFnet"
     }
 ]
