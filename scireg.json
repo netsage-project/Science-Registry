@@ -1062,7 +1062,7 @@
         "addresses": [
             "140.247.236.0/26"
         ],
-        "org_name": "Massachusetts Green High Performance Computing Center (MGHPCC)",
+        "org_name": "Massachusetts Green High Performance Computing Center, Inc (MGHPCC)",
         "discipline": "Multi-Science Facility",
         "resource_name": "MGHPCC - Northeast Storage Exchange (NESE) - DTNs",
         "scireg_id": 70,
@@ -1395,7 +1395,7 @@
         "addresses": [
             "128.231.2.64/27"
         ],
-        "org_name": "National Institute of Health (NIH)",
+        "org_name": "National Institutes of Health (NIH)",
         "discipline": "BIO.Informatics",
         "resource_name": "NIH - Center for Information Technology (CIT) - DTNs",
         "project_name": "",
@@ -2964,7 +2964,7 @@
         "addresses": [
             "205.172.168.0/24"
         ],
-        "org_name": "University of Massachusetts, Amherst (UMass)",
+        "org_name": "University of Massachusetts - Amherst (UMass)",
         "discipline": "Multi-Science Facility",
         "resource_name": "UMass - Research Computing & Data (RCD) - Compute/Storage",
         "project_name": "",
