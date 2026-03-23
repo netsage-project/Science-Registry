@@ -289,7 +289,7 @@
       "192.31.105.0/24",
       "2607:f140::/32"
     ],
-    "org_name": "University of California, Berkeley",
+    "org_name": "University of California, Berkeley (UCB)",
     "asn": "25",
     "community": "CENIC"
   },
@@ -302,7 +302,7 @@
       "192.41.208.0/24",
       "2607:f520::/32"
     ],
-    "org_name": "California Institute of Technology",
+    "org_name": "California Institute of Technology (Caltech)",
     "asn": "31",
     "community": "CENIC"
   },
@@ -348,7 +348,7 @@
       "192.35.225.0/24",
       "2607:f010::/32"
     ],
-    "org_name": "University of California, Los Angeles",
+    "org_name": "University of California, Los Angeles (UCLA)",
     "asn": "52",
     "community": "CENIC"
   },
@@ -360,7 +360,7 @@
       "199.120.153.0/24",
       "2607:f378::/32"
     ],
-    "org_name": "University of California, Santa Barbara",
+    "org_name": "University of California, Santa Barbara (UCSB)",
     "asn": "131",
     "community": "CENIC"
   },
@@ -1043,7 +1043,7 @@
       "169.230.0.0/16",
       "64.54.0.0/16"
     ],
-    "org_name": "University of California, San Francisco",
+    "org_name": "University of California, San Francisco (UCSF)",
     "asn": "5653",
     "community": "CENIC"
   },
@@ -1055,7 +1055,7 @@
       "192.35.223.0/24",
       "2607:f5f0::/32"
     ],
-    "org_name": "University of California, Santa Cruz",
+    "org_name": "University of California, Santa Cruz (UCSC)",
     "asn": "5739",
     "community": "CENIC"
   },
@@ -1079,7 +1079,7 @@
       "192.82.111.0/24",
       "2607:f810::/32"
     ],
-    "org_name": "University of California, Davis",
+    "org_name": "University of California, Davis (UCD)",
     "asn": "6192",
     "community": "CENIC"
   },
@@ -1094,7 +1094,7 @@
       "198.134.135.0/24",
       "2607:f720::/32"
     ],
-    "org_name": "University of California, San Diego",
+    "org_name": "University of California, San Diego (UCSD)",
     "asn": "7377",
     "community": "CENIC"
   },
@@ -1141,7 +1141,7 @@
       "138.202.0.0/17",
       "138.202.128.0/17"
     ],
-    "org_name": "University of San Francisco",
+    "org_name": "University of San Francisco (USF)",
     "asn": "22700",
     "community": "CENIC"
   },
