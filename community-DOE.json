@@ -216,7 +216,7 @@
             "192.70.245.0/24",
             "2620:0:22f0::/48"
         ],
-        "org_name": "Thomas Jefferson National Accelerator Facility (Jefferson Lab)",
+        "org_name": "Thomas Jefferson National Accelerator Facility (JLab)",
         "community": "DOE",
         "asn": "6406"
     },

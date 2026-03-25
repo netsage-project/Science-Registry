@@ -1043,7 +1043,7 @@
       "169.230.0.0/16",
       "64.54.0.0/16"
     ],
-    "org_name": "University of California, San Francisco (UCSF)",
+    "org_name": "University of California San Francisco (UCSF)",
     "asn": "5653",
     "community": "CENIC"
   },
@@ -2354,7 +2354,7 @@
       "192.70.245.0/24",
       "2620:0:22f0::/48"
     ],
-    "org_name": "Thomas Jefferson National Accelerator Facility (Jefferson Lab)",
+    "org_name": "Thomas Jefferson National Accelerator Facility (JLab)",
     "community": "DOE",
     "asn": "6406"
   },
@@ -3314,7 +3314,7 @@
       "137.112.0.0/16",
       "2620:e7::/48"
     ],
-    "org_name": "Rose-Hulman Institute of Technology",
+    "org_name": "Rose-Hulman Institute of Technology, Inc",
     "community": "iLight",
     "asn": "398451"
   },
@@ -4610,7 +4610,7 @@
     "addresses": [
       "159.91.0.0/16"
     ],
-    "org_name": "College of New Jersey",
+    "org_name": "The College of New Jersey",
     "asn": "15166",
     "community": "NJEdge"
   },
@@ -4922,7 +4922,7 @@
     "addresses": [
       "2606:fc0::/32"
     ],
-    "org_name": "University of Akron",
+    "org_name": "The University of Akron",
     "asn": "20085",
     "community": "OARnet"
   },
