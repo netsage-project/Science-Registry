@@ -475,7 +475,8 @@
   },
   {
     "addresses": [
-      "128.227.0.0/16"
+      "128.227.0.0/16",
+      "159.178.0.0/16"
     ],
     "org_name": "University of Florida",
     "asn": "6356",
@@ -483,26 +484,19 @@
   },
   {
     "addresses": [
-      "129.171.0.0/16"
+      "129.171.0.0/16",
+      "64.56.84.0/24"
     ],
     "org_name": "University of Miami",
-    "asn": "3148",
+    "asn": "4511",
     "community": "SoX"
   },
   {
     "addresses": [
       "131.91.0.0/16"
     ],
-    "org_name": "Florida International University",
-    "asn": "368",
-    "community": "SoX"
-  },
-  {
-    "addresses": [
-      "131.247.0.0/16"
-    ],
     "org_name": "Florida Atlantic University",
-    "asn": "3497",
+    "asn": "12013",
     "community": "SoX"
   },
   {
@@ -515,31 +509,24 @@
   },
   {
     "addresses": [
-      "139.62.0.0/16"
+      "155.31.0.0/16"
     ],
     "org_name": "Embry-Riddle Aeronautical University",
-    "asn": "3958",
+    "asn": "11809",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "131.247.0.0/16",
+      "2607:fe50::/32"
+    ],
+    "org_name": "University of South Florida",
+    "asn": "5661",
     "community": "SoX"
   },
   {
     "addresses": [
       "143.88.0.0/16"
-    ],
-    "org_name": "University of South Florida",
-    "asn": "2044",
-    "community": "SoX"
-  },
-  {
-    "addresses": [
-      "144.174.0.0/16"
-    ],
-    "org_name": "Florida State University (SCRI)",
-    "asn": "2553",
-    "community": "SoX"
-  },
-  {
-    "addresses": [
-      "155.31.0.0/16"
     ],
     "org_name": "University of West Florida",
     "asn": "3945",
@@ -547,18 +534,18 @@
   },
   {
     "addresses": [
-      "159.178.0.0/16"
+      "168.223.0.0/16"
     ],
     "org_name": "Florida A&M University",
-    "asn": "3950",
+    "asn": "7202",
     "community": "SoX"
   },
   {
     "addresses": [
-      "163.118.0.0/16"
+      "137.52.0.0/16"
     ],
-    "org_name": "Nova Southeastern University",
-    "asn": "13871",
+    "org_name": "Nova University",
+    "asn": "33670",
     "community": "SoX"
   },
   {
@@ -571,10 +558,11 @@
   },
   {
     "addresses": [
-      "146.201.0.0/17",
-      "146.201.192.0/18"
+      "128.186.0.0/16",
+      "144.174.0.0/16",
+      "2607:f5d8:20::/48"
     ],
-    "org_name": "Florida State University (FSUFDDI)",
+    "org_name": "Florida State University",
     "asn": "2553",
     "community": "SoX"
   }
