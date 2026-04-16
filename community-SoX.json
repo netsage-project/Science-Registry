@@ -13,9 +13,7 @@
       "129.66.0.0/16",
       "157.149.0.0/16",
       "207.157.0.0/17",
-      "207.157.0.0/17",
       "204.29.64.0/18",
-      "216.109.0.0/18",
       "216.109.0.0/18",
       "199.88.16.0/20",
       "205.174.48.0/20",
@@ -116,23 +114,8 @@
   },
   {
     "addresses": [
-      "128.186.0.0/16",
-      "128.227.0.0/16",
-      "129.171.0.0/16",
-      "131.91.0.0/16",
-      "131.247.0.0/16",
-      "137.52.0.0/16",
-      "139.62.0.0/16",
-      "143.88.0.0/16",
-      "144.174.0.0/16",
-      "155.31.0.0/16",
-      "159.178.0.0/16",
-      "163.118.0.0/16",
-      "168.223.0.0/16",
       "132.170.0.0/17",
-      "146.201.0.0/17",
       "132.170.128.0/18",
-      "146.201.192.0/18",
       "199.242.64.0/18",
       "69.88.160.0/19",
       "132.170.192.0/19",
@@ -278,8 +261,7 @@
   },
   {
     "addresses": [
-      "52.119.14.0/24",
-      "52.119.15.0/24"
+      "52.119.14.0/23"
     ],
     "org_name": "HudsonAlpha Institute for Biotechnology",
     "asn": "40735",
@@ -481,6 +463,119 @@
     ],
     "org_name": "Woodruff Library",
     "asn": 21784,
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "128.186.0.0/16"
+    ],
+    "org_name": "Florida State University",
+    "asn": "2553",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "128.227.0.0/16"
+    ],
+    "org_name": "University of Florida",
+    "asn": "6356",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "129.171.0.0/16"
+    ],
+    "org_name": "University of Miami",
+    "asn": "3148",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "131.91.0.0/16"
+    ],
+    "org_name": "Florida International University",
+    "asn": "368",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "131.247.0.0/16"
+    ],
+    "org_name": "Florida Atlantic University",
+    "asn": "3497",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "137.52.0.0/16"
+    ],
+    "org_name": "University of Central Florida",
+    "asn": "3954",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "139.62.0.0/16"
+    ],
+    "org_name": "Embry-Riddle Aeronautical University",
+    "asn": "3958",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "143.88.0.0/16"
+    ],
+    "org_name": "University of South Florida",
+    "asn": "2044",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "144.174.0.0/16"
+    ],
+    "org_name": "Florida State University (SCRI)",
+    "asn": "2553",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "155.31.0.0/16"
+    ],
+    "org_name": "University of West Florida",
+    "asn": "3945",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "159.178.0.0/16"
+    ],
+    "org_name": "Florida A&M University",
+    "asn": "3950",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "163.118.0.0/16"
+    ],
+    "org_name": "Nova Southeastern University",
+    "asn": "13871",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "168.223.0.0/16"
+    ],
+    "org_name": "University of North Florida",
+    "asn": "7219",
+    "community": "SoX"
+  },
+  {
+    "addresses": [
+      "146.201.0.0/17",
+      "146.201.192.0/18"
+    ],
+    "org_name": "Florida State University (FSUFDDI)",
+    "asn": "2553",
     "community": "SoX"
   }
 ]
