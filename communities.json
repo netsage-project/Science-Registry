@@ -5161,6 +5161,242 @@
   },
   {
     "addresses": [
+      "192.134.0.0/17",
+      "192.134.240.0/20"
+    ],
+    "org_name": "AFNIC (Association Francaise pour le Nommage Internet en Cooperation)",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "139.124.0.0/16",
+      "147.94.0.0/16"
+    ],
+    "org_name": "Aix-Marseille Universite (AMU)",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "138.195.0.0/16"
+    ],
+    "org_name": "Centralesupelec EPSCP",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "130.84.0.0/16"
+    ],
+    "org_name": "Centre de Calcul du CNRS",
+    "asn": "1303",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "157.136.0.0/16"
+    ],
+    "org_name": "Centre National de la Recherche Scientifique",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "163.9.0.0/16"
+    ],
+    "org_name": "Centre National De La Recherche Scientifique(CNRS)",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "141.115.0.0/16"
+    ],
+    "org_name": "CNRS - IRIT",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "147.171.0.0/16"
+    ],
+    "org_name": "Communaute Universite Grenoble Alpes",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "163.173.0.0/16"
+    ],
+    "org_name": "Conservatoire National des Arts et Metiers",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "130.66.0.0/16"
+    ],
+    "org_name": "Ecole Centrale de Nantes",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "129.199.0.0/16"
+    ],
+    "org_name": "Ecole Normale Superieure",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "129.104.0.0/16"
+    ],
+    "org_name": "Ecole Polytechnique EPSCP",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "147.250.0.0/16"
+    ],
+    "org_name": "ENSTA Paristech - Ecole Nationale Superieure des Techniques Avancees",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "129.102.0.0/16"
+    ],
+    "org_name": "Institut de Recherche et Coordination Acoustique/Musique",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "128.93.0.0/16"
+    ],
+    "org_name": "Institut National de Recherche en Informatique et Automatique",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "147.99.0.0/16",
+      "147.100.0.0/16",
+      "138.102.0.0/16",
+      "138.102.0.0/18",
+      "138.102.64.0/20",
+      "138.102.80.0/20",
+      "138.102.160.0/20",
+      "138.102.192.0/20"
+    ],
+    "org_name": "Institut national de recherche pour l'agriculture,l'alimentation et l'environnement (INRAE) EPA",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "152.81.0.0/16"
+    ],
+    "org_name": "LORIA-INRIA",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "145.238.0.0/16"
+    ],
+    "org_name": "Observatoire de Paris",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "134.214.0.0/16"
+    ],
+    "org_name": "Reseau Optique du Campus de la Doua",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "132.168.0.0/15"
+    ],
+    "org_name": "RIPE Network Coordination Centre",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "134.59.0.0/16"
+    ],
+    "org_name": "UNIVERSITE COTE D'AZUR",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "162.38.0.0/16"
+    ],
+    "org_name": "Universite de MONTPELLIER",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "129.20.0.0/16",
+      "148.60.0.0/16"
+    ],
+    "org_name": "Universite de Rennes",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "134.206.0.0/16"
+    ],
+    "org_name": "Universite de Sciences et Technologies de Lille",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "161.3.0.0/16"
+    ],
+    "org_name": "Universite Jean Monnet - St Etienne EPSCP",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "159.84.0.0/16"
+    ],
+    "org_name": "Universite Lumiere",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "130.120.0.0/16"
+    ],
+    "org_name": "Universite Paul Sabatier",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
+      "134.157.192.0/20",
+      "134.157.208.0/20",
+      "134.157.224.0/20"
+    ],
+    "org_name": "Universite Pierre et Marie Curie",
+    "asn": "2200",
+    "community": "Renater"
+  },
+  {
+    "addresses": [
       "128.196.0.0/16",
       "150.135.0.0/16",
       "199.104.128.0/19",
