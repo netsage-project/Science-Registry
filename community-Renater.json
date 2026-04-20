@@ -35,25 +35,11 @@
   },
   {
     "addresses": [
-      "157.136.0.0/16"
-    ],
-    "org_name": "Centre National de la Recherche Scientifique",
-    "asn": "2200",
-    "community": "Renater"
-  },
-  {
-    "addresses": [
+      "157.136.0.0/16",
+      "141.115.0.0/16",
       "163.9.0.0/16"
     ],
-    "org_name": "Centre National De La Recherche Scientifique(CNRS)",
-    "asn": "2200",
-    "community": "Renater"
-  },
-  {
-    "addresses": [
-      "141.115.0.0/16"
-    ],
-    "org_name": "CNRS - IRIT",
+    "org_name": "Centre National de la Recherche Scientifique (CNRS)",
     "asn": "2200",
     "community": "Renater"
   },
