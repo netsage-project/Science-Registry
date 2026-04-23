@@ -4242,6 +4242,8 @@
   },
   {
     "addresses": [
+      "128.194.0.0/16",
+      "165.91.0.0/16",
       "139.94.0.0/16",
       "165.95.0.0/16",
       "204.56.128.0/17",
@@ -4251,6 +4253,7 @@
       "64.71.80.0/20",
       "192.58.112.0/22",
       "66.171.223.0/24",
+      "2606:aa00::/32",
       "2607:b800::/32",
       "2605:efc0::/32",
       "2620:92::/44",
@@ -4259,6 +4262,16 @@
     "org_name": "Texas A&M University (TAMU)",
     "community": "LEARN",
     "asn": "1970"
+  },
+  {
+    "addresses": [
+      "128.194.0.0/16",
+      "165.91.0.0/16",
+      "2606:aa00::/32"
+    ],
+    "org_name": "Texas A&M University (TAMU)",
+    "community": "LEARN",
+    "asn": "3794"
   },
   {
     "addresses": [
@@ -5195,25 +5208,11 @@
   },
   {
     "addresses": [
-      "157.136.0.0/16"
-    ],
-    "org_name": "Centre National de la Recherche Scientifique",
-    "asn": "2200",
-    "community": "Renater"
-  },
-  {
-    "addresses": [
+      "157.136.0.0/16",
+      "141.115.0.0/16",
       "163.9.0.0/16"
     ],
-    "org_name": "Centre National De La Recherche Scientifique(CNRS)",
-    "asn": "2200",
-    "community": "Renater"
-  },
-  {
-    "addresses": [
-      "141.115.0.0/16"
-    ],
-    "org_name": "CNRS - IRIT",
+    "org_name": "Centre National de la Recherche Scientifique (CNRS)",
     "asn": "2200",
     "community": "Renater"
   },
