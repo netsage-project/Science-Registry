@@ -7415,31 +7415,20 @@
   },
   {
     "addresses": [
-      "128.62.0.0/16",
-      "128.83.0.0/16",
-      "129.116.0.0/16",
-      "146.6.0.0/16",
-      "198.213.192.0/18",
-      "206.76.64.0/18",
-      "198.214.80.0/20",
-      "198.214.250.0/23"
+      "192.124.227.8/29",
+      "192.124.227.72/30"
     ],
-    "org_name": "University of Texas at Austin (UT Austin)",
+    "org_name": "Applied Research Laboratories, UT Austin (UTARL)",
     "community": "UT Systems",
-    "asn": "18"
+    "asn": "6922"
   },
   {
     "addresses": [
-      "129.112.0.0/16",
-      "198.215.48.0/20",
-      "198.215.96.0/20",
-      "198.215.176.0/20",
-      "198.241.16.0/20",
-      "2620:0:840::/48"
+      "192.231.40.0/24"
     ],
-    "org_name": "UT Southwestern Medical Center (SWMED)",
+    "org_name": "Collin College",
     "community": "UT Systems",
-    "asn": "13998"
+    "asn": "395288"
   },
   {
     "addresses": [
@@ -7460,6 +7449,31 @@
   },
   {
     "addresses": [
+      "198.214.228.0/24",
+      "198.214.229.0/24",
+      "206.76.136.0/24",
+      "206.76.137.0/24",
+      "206.76.138.0/24",
+      "192.124.226.177/29"
+    ],
+    "org_name": "McDonald Observatory (UTMDO)",
+    "community": "UT Systems",
+    "asn": "3354"
+  },
+  {
+    "addresses": [
+      "144.96.0.0/16",
+      "192.70.161.0/24",
+      "192.124.227.40/30",
+      "192.124.228.32/30",
+      "2604:2100::/32"
+    ],
+    "org_name": "Stephen F. Austin State University (SFASU)",
+    "community": "UT Systems",
+    "asn": "3634"
+  },
+  {
+    "addresses": [
       "129.114.0.0/17",
       "192.88.12.228/30",
       "192.88.12.232/30",
@@ -7471,34 +7485,12 @@
   },
   {
     "addresses": [
-      "129.107.0.0/16",
-      "2602:fd0f::/36"
+      "129.118.0.0/16",
+      "69.65.192.0/18"
     ],
-    "org_name": "University of Texas at Arlington (UTA)",
+    "org_name": "Texas Tech University",
     "community": "UT Systems",
-    "asn": "18515"
-  },
-  {
-    "addresses": [
-      "129.106.0.0/16"
-    ],
-    "org_name": "University of Texas Health Science Center at Houston (UTHealth)",
-    "community": "UT Systems",
-    "asn": "5707"
-  },
-  {
-    "addresses": [
-      "129.108.0.0/16",
-      "192.12.10.61/30",
-      "192.12.10.73/30",
-      "192.124.228.53/30",
-      "192.88.12.21/30",
-      "192.88.12.29/30",
-      "192.88.12.37/30"
-    ],
-    "org_name": "University of Texas at El Paso (UTEP)",
-    "community": "UT Systems",
-    "asn": "16461"
+    "asn": "10421"
   },
   {
     "addresses": [
@@ -7523,114 +7515,29 @@
   },
   {
     "addresses": [
-      "129.109.0.0/16",
-      "192.124.226.100/30",
-      "192.124.226.104/30",
-      "192.124.226.140/30",
-      "192.124.227.104/30",
-      "192.124.227.216/30",
-      "192.88.12.124/30"
+      "129.114.128.0/17",
+      "192.88.11.0/24",
+      "192.124.220.48/30",
+      "192.124.227.36/30",
+      "192.124.228.20/30",
+      "192.124.228.48/30"
     ],
-    "org_name": "University of Texas Medical Branch, Galveston (UTMB)",
+    "org_name": "UT Health Science Center Tyler (UTHSCT)",
     "community": "UT Systems",
-    "asn": "14373"
+    "asn": "16600"
   },
   {
     "addresses": [
-      "129.115.0.0/16",
-      "192.124.225.112/30",
-      "192.124.227.156/30",
-      "192.88.12.148/30",
-      "192.88.12.60/30"
+      "129.112.0.0/16",
+      "198.215.48.0/20",
+      "198.215.96.0/20",
+      "198.215.176.0/20",
+      "198.241.16.0/20",
+      "2620:0:840::/48"
     ],
-    "org_name": "University of Texas at San Antonio (UTSA)",
+    "org_name": "UT Southwestern Medical Center (SWMED)",
     "community": "UT Systems",
-    "asn": "27594"
-  },
-  {
-    "addresses": [
-      "192.124.227.220/30",
-      "192.124.228.220/30",
-      "192.88.12.168/30"
-    ],
-    "org_name": "University of Texas at Tyler (UTTYLER)",
-    "community": "UT Systems",
-    "asn": "6922"
-  },
-  {
-    "addresses": [
-      "192.124.226.29/30",
-      "192.124.232.105/30",
-      "206.77.110.0/24"
-    ],
-    "org_name": "University of Texas/Texas A&M Investment Management Company (UTIMCO)",
-    "community": "UT Systems",
-    "asn": "3354"
-  },
-  {
-    "addresses": [
-      "198.214.228.0/24",
-      "198.214.229.0/24",
-      "206.76.136.0/24",
-      "206.76.137.0/24",
-      "206.76.138.0/24",
-      "192.124.226.177/29"
-    ],
-    "org_name": "McDonald Observatory (UTMDO)",
-    "community": "UT Systems",
-    "asn": "3354"
-  },
-  {
-    "addresses": [
-      "204.158.160.0/19",
-      "204.158.144.0/20",
-      "192.124.225.169/30",
-      "192.124.227.21/30",
-      "192.124.227.29/30"
-    ],
-    "org_name": "University of Texas Permian Basin (UTPB)",
-    "community": "UT Systems",
-    "asn": "3354"
-  },
-  {
-    "addresses": [
-      "207.64.118.0/23",
-      "207.64.126.0/23",
-      "207.64.117.0/24",
-      "207.64.125.0/24",
-      "192.124.225.232/29",
-      "192.124.228.192/29",
-      "192.124.228.200/29",
-      "192.124.232.192/29",
-      "192.124.232.200/29"
-    ],
-    "org_name": "University of Texas Shared Information Services (UTSIS)",
-    "community": "UT Systems",
-    "asn": "3354"
-  },
-  {
-    "addresses": [
-      "198.147.138.0/23",
-      "198.215.16.0/24",
-      "192.124.225.32/29",
-      "192.124.227.192/30",
-      "192.124.234.248/30"
-    ],
-    "org_name": "UT Systems (UTSYS)",
-    "community": "UT Systems",
-    "asn": "3354"
-  },
-  {
-    "addresses": [
-      "144.96.0.0/16",
-      "192.70.161.0/24",
-      "192.124.227.40/30",
-      "192.124.228.32/30",
-      "2604:2100::/32"
-    ],
-    "org_name": "Stephen F. Austin State University (SFASU)",
-    "community": "UT Systems",
-    "asn": "3634"
+    "asn": "13998"
   },
   {
     "addresses": [
@@ -7662,22 +7569,127 @@
   },
   {
     "addresses": [
-      "192.124.227.8/29",
-      "192.124.227.72/30"
+      "198.147.138.0/23",
+      "198.215.16.0/24",
+      "192.124.225.32/29",
+      "192.124.227.192/30",
+      "192.124.234.248/30"
     ],
-    "org_name": "Applied Research Laboratories, UT Austin (UTARL)",
+    "org_name": "UT Systems (UTSYS)",
+    "community": "UT Systems",
+    "asn": "3354"
+  },
+  {
+    "addresses": [
+      "204.158.28.0/24",
+      "192.124.226.16/30",
+      "192.124.228.36/30"
+    ],
+    "org_name": "University Lands (UTLANDS)",
     "community": "UT Systems",
     "asn": "6922"
   },
   {
     "addresses": [
-      "129.110.0.0/16",
-      "192.124.220.28/30",
-      "192.124.227.108/30"
+      "129.7.0.0/16",
+      "2604:ee80::/32"
     ],
-    "org_name": "University of Texas at Dallas (UT Dallas)",
+    "org_name": "University of Houston",
     "community": "UT Systems",
-    "asn": "6922"
+    "asn": "7276"
+  },
+  {
+    "addresses": [
+      "129.106.0.0/16"
+    ],
+    "org_name": "University of Texas Health Science Center at Houston (UTHealth)",
+    "community": "UT Systems",
+    "asn": "5707"
+  },
+  {
+    "addresses": [
+      "129.109.0.0/16",
+      "192.124.226.100/30",
+      "192.124.226.104/30",
+      "192.124.226.140/30",
+      "192.124.227.104/30",
+      "192.124.227.216/30",
+      "192.88.12.124/30"
+    ],
+    "org_name": "University of Texas Medical Branch, Galveston (UTMB)",
+    "community": "UT Systems",
+    "asn": "14373"
+  },
+  {
+    "addresses": [
+      "204.158.160.0/19",
+      "204.158.144.0/20",
+      "192.124.225.169/30",
+      "192.124.227.21/30",
+      "192.124.227.29/30"
+    ],
+    "org_name": "University of Texas Permian Basin (UTPB)",
+    "community": "UT Systems",
+    "asn": "3354"
+  },
+  {
+    "addresses": [
+      "129.113.0.0/16",
+      "67.207.0.0/19",
+      "207.64.148.0/24",
+      "2605:2800:c300::/48"
+    ],
+    "org_name": "University of Texas Rio Grande Valley (UTRGV)",
+    "community": "UT Systems",
+    "asn": "11481"
+  },
+  {
+    "addresses": [
+      "207.64.118.0/23",
+      "207.64.126.0/23",
+      "207.64.117.0/24",
+      "207.64.125.0/24",
+      "192.124.225.232/29",
+      "192.124.228.192/29",
+      "192.124.228.200/29",
+      "192.124.232.192/29",
+      "192.124.232.200/29"
+    ],
+    "org_name": "University of Texas Shared Information Services (UTSIS)",
+    "community": "UT Systems",
+    "asn": "3354"
+  },
+  {
+    "addresses": [
+      "198.147.138.0/23"
+    ],
+    "org_name": "University of Texas System (UT System)",
+    "community": "UT Systems",
+    "asn": "36450"
+  },
+  {
+    "addresses": [
+      "129.107.0.0/16",
+      "2602:fd0f::/36"
+    ],
+    "org_name": "University of Texas at Arlington (UTA)",
+    "community": "UT Systems",
+    "asn": "18515"
+  },
+  {
+    "addresses": [
+      "128.62.0.0/16",
+      "128.83.0.0/16",
+      "129.116.0.0/16",
+      "146.6.0.0/16",
+      "198.213.192.0/18",
+      "206.76.64.0/18",
+      "198.214.80.0/20",
+      "198.214.250.0/23"
+    ],
+    "org_name": "University of Texas at Austin (UT Austin)",
+    "community": "UT Systems",
+    "asn": "18"
   },
   {
     "addresses": [
@@ -7712,36 +7724,58 @@
   },
   {
     "addresses": [
-      "204.158.28.0/24",
-      "192.124.226.16/30",
-      "192.124.228.36/30"
+      "129.110.0.0/16",
+      "192.124.220.28/30",
+      "192.124.227.108/30"
     ],
-    "org_name": "University Lands (UTLANDS)",
+    "org_name": "University of Texas at Dallas (UT Dallas)",
     "community": "UT Systems",
     "asn": "6922"
   },
   {
     "addresses": [
-      "129.113.0.0/16",
-      "67.207.0.0/19",
-      "207.64.148.0/24",
-      "2605:2800:c300::/48"
+      "129.108.0.0/16",
+      "192.12.10.61/30",
+      "192.12.10.73/30",
+      "192.124.228.53/30",
+      "192.88.12.21/30",
+      "192.88.12.29/30",
+      "192.88.12.37/30"
     ],
-    "org_name": "University of Texas Rio Grande Valley (UTRGV)",
+    "org_name": "University of Texas at El Paso (UTEP)",
     "community": "UT Systems",
-    "asn": "11481"
+    "asn": "16461"
   },
   {
     "addresses": [
-      "129.114.128.0/17",
-      "192.88.11.0/24",
-      "192.124.220.48/30",
-      "192.124.227.36/30",
-      "192.124.228.20/30",
-      "192.124.228.48/30"
+      "129.115.0.0/16",
+      "192.124.225.112/30",
+      "192.124.227.156/30",
+      "192.88.12.148/30",
+      "192.88.12.60/30"
     ],
-    "org_name": "UT Health Science Center Tyler (UTHSCT)",
+    "org_name": "University of Texas at San Antonio (UTSA)",
     "community": "UT Systems",
-    "asn": "16600"
+    "asn": "27594"
+  },
+  {
+    "addresses": [
+      "192.124.227.220/30",
+      "192.124.228.220/30",
+      "192.88.12.168/30"
+    ],
+    "org_name": "University of Texas at Tyler (UTTYLER)",
+    "community": "UT Systems",
+    "asn": "6922"
+  },
+  {
+    "addresses": [
+      "192.124.226.29/30",
+      "192.124.232.105/30",
+      "206.77.110.0/24"
+    ],
+    "org_name": "University of Texas/Texas A&M Investment Management Company (UTIMCO)",
+    "community": "UT Systems",
+    "asn": "3354"
   }
 ]
