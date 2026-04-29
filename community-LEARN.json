@@ -57,6 +57,14 @@
   },
   {
     "addresses": [
+      "192.231.40.0/24"
+    ],
+    "org_name": "Collin College",
+    "community": "LEARN",
+    "asn": "395288"
+  },
+  {
+    "addresses": [
       "144.162.0.0/16",
       "74.200.187.140/31",
       "74.200.187.142/31"
@@ -347,7 +355,7 @@
     ],
     "org_name": "Texas A&M University (TAMU)",
     "community": "LEARN",
-    "asn": "1970" 
+    "asn": "1970"
   },
   {
     "addresses": [
@@ -357,7 +365,7 @@
     ],
     "org_name": "Texas A&M University (TAMU)",
     "community": "LEARN",
-    "asn": "3794" 
+    "asn": "3794"
   },
   {
     "addresses": [
@@ -414,10 +422,19 @@
   },
   {
     "addresses": [
-       "66.230.0.0/18",
-       "69.175.128.0/17",
-       "208.122.128.0/18",
-       "2620:118:3000::/40"
+      "129.118.0.0/16",
+      "69.65.192.0/18"
+    ],
+    "org_name": "Texas Tech University",
+    "community": "LEARN",
+    "asn": "10421"
+  },
+  {
+    "addresses": [
+      "66.230.0.0/18",
+      "69.175.128.0/17",
+      "208.122.128.0/18",
+      "2620:118:3000::/40"
     ],
     "org_name": "Texas Tech University Health Sciences Center",
     "community": "LEARN",
@@ -425,9 +442,9 @@
   },
   {
     "addresses": [
-       "64.111.0.0/20",
-       "100.43.32.0/19",
-       "2602:805::/44"
+      "64.111.0.0/20",
+      "100.43.32.0/19",
+      "2602:805::/44"
     ],
     "org_name": "Texas Tech University Health Sciences Center at El Paso",
     "community": "LEARN",
@@ -435,12 +452,12 @@
   },
   {
     "addresses": [
-       "199.181.16.0/20",
-       "192.135.186.0/24",
-       "198.178.139.0/24",
-       "198.178.140.0/24",
-       "198.186.242.0/24",
-       "198.186.246.0/24"
+      "199.181.16.0/20",
+      "192.135.186.0/24",
+      "198.178.139.0/24",
+      "198.178.140.0/24",
+      "198.186.242.0/24",
+      "198.186.246.0/24"
     ],
     "org_name": "Texas Woman's University",
     "community": "LEARN",
@@ -516,6 +533,15 @@
   },
   {
     "addresses": [
+      "129.7.0.0/16",
+      "2604:ee80::/32"
+    ],
+    "org_name": "University of Houston",
+    "community": "LEARN",
+    "asn": "7276"
+  },
+  {
+    "addresses": [
       "199.216.150.0/24",
       "74.200.187.128/31",
       "74.200.187.152/29"
@@ -565,6 +591,14 @@
     "org_name": "University of Texas Rio Grande Valley (UTRGV)",
     "community": "LEARN",
     "asn": "11481"
+  },
+  {
+    "addresses": [
+      "198.147.138.0/23"
+    ],
+    "org_name": "University of Texas System (UT System)",
+    "community": "LEARN",
+    "asn": "36450"
   },
   {
     "addresses": [

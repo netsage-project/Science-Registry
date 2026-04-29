@@ -3971,6 +3971,14 @@
   },
   {
     "addresses": [
+      "192.231.40.0/24"
+    ],
+    "org_name": "Collin College",
+    "community": "LEARN",
+    "asn": "395288"
+  },
+  {
+    "addresses": [
       "144.162.0.0/16",
       "74.200.187.140/31",
       "74.200.187.142/31"
@@ -4328,6 +4336,15 @@
   },
   {
     "addresses": [
+      "129.118.0.0/16",
+      "69.65.192.0/18"
+    ],
+    "org_name": "Texas Tech University",
+    "community": "LEARN",
+    "asn": "10421"
+  },
+  {
+    "addresses": [
       "66.230.0.0/18",
       "69.175.128.0/17",
       "208.122.128.0/18",
@@ -4430,6 +4447,15 @@
   },
   {
     "addresses": [
+      "129.7.0.0/16",
+      "2604:ee80::/32"
+    ],
+    "org_name": "University of Houston",
+    "community": "LEARN",
+    "asn": "7276"
+  },
+  {
+    "addresses": [
       "199.216.150.0/24",
       "74.200.187.128/31",
       "74.200.187.152/29"
@@ -4479,6 +4505,14 @@
     "org_name": "University of Texas Rio Grande Valley (UTRGV)",
     "community": "LEARN",
     "asn": "11481"
+  },
+  {
+    "addresses": [
+      "198.147.138.0/23"
+    ],
+    "org_name": "University of Texas System (UT System)",
+    "community": "LEARN",
+    "asn": "36450"
   },
   {
     "addresses": [
@@ -7424,14 +7458,6 @@
   },
   {
     "addresses": [
-      "192.231.40.0/24"
-    ],
-    "org_name": "Collin College",
-    "community": "UT Systems",
-    "asn": "395288"
-  },
-  {
-    "addresses": [
       "143.111.0.0/16"
     ],
     "org_name": "MD Anderson Cancer Center (MDACC)",
@@ -7482,15 +7508,6 @@
     "org_name": "Texas Advanced Computing Center (TACC)",
     "community": "UT Systems",
     "asn": "32093"
-  },
-  {
-    "addresses": [
-      "129.118.0.0/16",
-      "69.65.192.0/18"
-    ],
-    "org_name": "Texas Tech University",
-    "community": "UT Systems",
-    "asn": "10421"
   },
   {
     "addresses": [
@@ -7591,15 +7608,6 @@
   },
   {
     "addresses": [
-      "129.7.0.0/16",
-      "2604:ee80::/32"
-    ],
-    "org_name": "University of Houston",
-    "community": "UT Systems",
-    "asn": "7276"
-  },
-  {
-    "addresses": [
       "129.106.0.0/16"
     ],
     "org_name": "University of Texas Health Science Center at Houston (UTHealth)",
@@ -7658,14 +7666,6 @@
     "org_name": "University of Texas Shared Information Services (UTSIS)",
     "community": "UT Systems",
     "asn": "3354"
-  },
-  {
-    "addresses": [
-      "198.147.138.0/23"
-    ],
-    "org_name": "University of Texas System (UT System)",
-    "community": "UT Systems",
-    "asn": "36450"
   },
   {
     "addresses": [
