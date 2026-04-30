@@ -7103,6 +7103,15 @@
   },
   {
     "addresses": [
+      "130.161.0.0/16",
+      "131.180.0.0/16"
+    ],
+    "org_name": "Technische Universiteit Delft",
+    "asn": "1128",
+    "community": "SURFnet"
+  },
+  {
+    "addresses": [
       "141.249.0.0/16"
     ],
     "org_name": "Bundesamt fuer Meteorologie und Klimatologie",
@@ -7350,10 +7359,12 @@
   },
   {
     "addresses": [
+      "129.194.0.0/16",
       "192.33.212.0/22",
       "192.33.216.0/22",
       "192.33.222.0/23",
-      "192.33.224.0/21"
+      "192.33.224.0/21",
+      "2001:620:600::/48"
     ],
     "org_name": "Universite de Geneve",
     "community": "SWITCH",

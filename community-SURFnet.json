@@ -284,5 +284,14 @@
         "org_name": "Dienst Uitvoering Onderwijs",
         "asn": "1103",
         "community": "SURFnet"
+    },
+    {
+        "addresses": [
+            "130.161.0.0/16",
+            "131.180.0.0/16"
+        ],
+        "org_name": "Technische Universiteit Delft",
+        "asn": "1128",
+        "community": "SURFnet"
     }
 ]
