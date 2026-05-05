@@ -195,7 +195,7 @@
     "community": "ACCESS"
   },
   {
-    "org_name": "Cloudbank",
+    "org_name": "CloudBank",
     "addresses": [
       "18.234.209.152/32",
       "54.227.69.92/32",
@@ -214,7 +214,7 @@
       "172.206.225.241/32"
     ],
     "asn": "14618",
-    "notes": "Amazon AWS, Google and Azure nodes that are part of NSF ACCESS Cloudbank. see scireg.json for description of this resource. make sure address list is the same. ",
+    "notes": "Amazon AWS, Google and Azure nodes that are part of NSF ACCESS CloudBank. see scireg.json for description of this resource. make sure address list is the same. ",
     "community": "ACCESS"
   },
   {
