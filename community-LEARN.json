@@ -1258,14 +1258,6 @@
   },
   {
     "addresses": [
-      "136.242.82.0/23"
-    ],
-    "org_name": "Wachter Technology Solutions",
-    "community": "LEARN",
-    "asn": "14354"
-  },
-  {
-    "addresses": [
       "192.195.76.0/24"
     ],
     "org_name": "West Texas A&M University",
