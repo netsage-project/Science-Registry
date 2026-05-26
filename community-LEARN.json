@@ -1155,7 +1155,8 @@
       "199.165.152.0/23",
       "199.242.234.0/23",
       "199.165.154.0/24",
-      "199.249.214.0/24"
+      "199.249.214.0/24",
+      "2620:0:840::/48"
     ],
     "org_name": "University of Texas Southwestern Medical Center (SWMED)",
     "community": "LEARN",
