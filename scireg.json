@@ -2738,7 +2738,7 @@
         "addresses": [
             "192.5.86.0/23"
         ],
-        "org_name": "University of Chicago (UChicago)",
+        "org_name": "The University of Chicago (UChicago)",
         "discipline": "Multi-Science Facility",
         "latitude": "41.788600",
         "longitude": "-87.600900",
@@ -2750,7 +2750,7 @@
         "addresses": [
             "192.170.224.0/19"
         ],
-        "org_name": "University of Chicago (UChicago)",
+        "org_name": "The University of Chicago (UChicago)",
         "discipline": "MPS.Physics.High Energy",
         "latitude": "41.788600",
         "longitude": "-87.600900",
