@@ -37,6 +37,7 @@
     "addresses": [
       "157.136.0.0/16",
       "141.115.0.0/16",
+      "134.158.0.0/16",
       "163.9.0.0/16"
     ],
     "org_name": "Centre National de la Recherche Scientifique (CNRS)",
